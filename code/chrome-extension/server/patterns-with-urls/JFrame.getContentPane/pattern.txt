@@ -1,0 +1,3 @@
+Total Count:9497
+1:[getContentPane()@true, setVisible(boolean)@true]:6909
+2:[new JFrame(String)@true, getContentPane()@true]:4923

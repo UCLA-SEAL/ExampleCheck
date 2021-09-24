@@ -1,0 +1,15 @@
+Mining time (millis) : 109281
+[new PrintWriter(1)@true, close(0)@true]:(0.62,0.91)
+[println(1)@true, close(0)@true]:(0.48,0.92)
+[TRY, close(0)@true, END_BLOCK]:(0.43,1.0)
+[new PrintWriter(1)@true, println(1)@true, close(0)@true]:(0.33,0.92)
+[TRY, new PrintWriter(1)@true, close(0)@true, END_BLOCK]:(0.25,1.0)
+[TRY, println(1)@true, close(0)@true, END_BLOCK]:(0.22,1.0)
+[TRY, println(1)@true, END_BLOCK, close(0)@true]:(0.19,1.0)
+[flush(0)@true, close(0)@true]:(0.21,0.89)
+[TRY, new PrintWriter(1)@true, END_BLOCK, close(0)@true]:(0.18,1.0)
+[print(1)@true, close(0)@true]:(0.19,0.91)
+[new FileWriter(1)@true, close(0)@true]:(0.17,0.88)
+[FINALLY, close(0)@rcv!=null, END_BLOCK]:(0.17,0.76)
+[LOOP, close(0)@rcv!=null, END_BLOCK]:(0.21,0.61)
+

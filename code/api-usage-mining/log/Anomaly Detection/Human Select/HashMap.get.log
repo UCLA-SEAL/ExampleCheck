@@ -1,0 +1,2909 @@
+Total number of relevant Java snippets: 970
+Total number of unreliable Java snippets: 520
+Answer Id --- http://stackoverflow.com/questions/24297280
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/8841713
+Violation: IncorrectPrecondition, get(1)@occurrences.size() > 0
+Answer Id --- http://stackoverflow.com/questions/5211644
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/857992
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/2397054
+Violation: IncorrectPrecondition, get(1)@keys.size() > 0
+Answer Id --- http://stackoverflow.com/questions/10279827
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/5959671
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/8856082
+Violation: IncorrectPrecondition, get(1)@i < map.size()
+Answer Id --- http://stackoverflow.com/questions/19480409
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/18570819
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/894097
+Violation: IncorrectPrecondition, get(1)@params.get(name) != null
+Answer Id --- http://stackoverflow.com/questions/17036348
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/3551681
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/17355808
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/18754086
+Violation: IncorrectPrecondition, get(1)@i < lines.length
+Answer Id --- http://stackoverflow.com/questions/12824605
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/19870361
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/21684025
+Violation: IncorrectPrecondition, get(1)@i < inputArray.length && !(map.get(length) == null)
+Answer Id --- http://stackoverflow.com/questions/28530395
+Violation: IncorrectPrecondition, get(1)@counter < n
+Answer Id --- http://stackoverflow.com/questions/27434071
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/37972976
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/9583034
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/23363674
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/20374176
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/27754556
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/9207486
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/4208803
+Violation: IncorrectPrecondition, get(1)@it.hasNext() && subnokkel.equals(kode)
+Answer Id --- http://stackoverflow.com/questions/21029350
+Violation: IncorrectPrecondition, get(1)@response.equalsIgnoreCase("Success") && prServices_resultList.size() > 0
+Answer Id --- http://stackoverflow.com/questions/13070434
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/32748350
+Violation: IncorrectPrecondition, get(1)@!(index < 1 || index > 3)
+Answer Id --- http://stackoverflow.com/questions/14748864
+Violation: IncorrectPrecondition, get(1)@i < arr.length && !(asd.get(arr[i]) == null)
+Answer Id --- http://stackoverflow.com/questions/36705675
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/4592080
+Violation: IncorrectPrecondition, get(1)@map1.entrySet().size() > 0
+Answer Id --- http://stackoverflow.com/questions/26479522
+Violation: IncorrectPrecondition, get(1)@arrMain.size() > 0 && dataMap.get("Key").size() > 0
+Answer Id --- http://stackoverflow.com/questions/34998573
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/17294597
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/17837028
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/5330265
+Violation: IncorrectPrecondition, get(1)@a.size() > 0
+Answer Id --- http://stackoverflow.com/questions/14701097
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/25279574
+Violation: IncorrectPrecondition, get(1)@list.size() > 0
+Answer Id --- http://stackoverflow.com/questions/27865246
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/28443091
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/18326441
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/32970294
+Violation: IncorrectPrecondition, get(1)@packageName.size() > 0
+Answer Id --- http://stackoverflow.com/questions/25568845
+Violation: IncorrectPrecondition, get(1)@listMap.size() > 0
+Answer Id --- http://stackoverflow.com/questions/4952471
+Violation: IncorrectPrecondition, get(1)@i < myDim && !(indexes.length != myDim) && !(i < myDim && obj == null)
+Answer Id --- http://stackoverflow.com/questions/17767560
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/31051057
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/3617254
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/18275439
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/21474831
+Violation: IncorrectPrecondition, get(1)@fileCache1.values().size() > 0 && fileCache2.containsKey(key1)
+Answer Id --- http://stackoverflow.com/questions/35903768
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/28513617
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/16433828
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/5514457
+Violation: IncorrectPrecondition, get(1)@true
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/5761675
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/2395862
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/34982752
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/2252438
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/20963086
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/35685355
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/10755035
+Violation: IncorrectPrecondition, get(1)@data.size() > 0
+Answer Id --- http://stackoverflow.com/questions/11544452
+Violation: IncorrectPrecondition, get(1)@paragraph.size() > 0 && Character.isLetter(c)
+Answer Id --- http://stackoverflow.com/questions/21946474
+Violation: IncorrectPrecondition, get(1)@keyIterator.hasNext()
+Answer Id --- http://stackoverflow.com/questions/15025479
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/37896608
+Violation: IncorrectPrecondition, get(1)@i < s.length()
+Answer Id --- http://stackoverflow.com/questions/1132465
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/8711370
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/32306961
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/29163233
+Violation: IncorrectPrecondition, get(1)@i < str.length() && !(!letters.contains(letter))
+Answer Id --- http://stackoverflow.com/questions/26599833
+Violation: IncorrectPrecondition, get(1)@namePre.count(fN)
+Answer Id --- http://stackoverflow.com/questions/20949703
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/27369356
+Violation: IncorrectPrecondition, get(1)@i < array.length
+Answer Id --- http://stackoverflow.com/questions/33146199
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/16205603
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/889204
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/8587389
+Violation: IncorrectPrecondition, get(1)@ai < userInput.length()
+Answer Id --- http://stackoverflow.com/questions/4237305
+Violation: IncorrectPrecondition, get(1)@i.hasNext()
+Answer Id --- http://stackoverflow.com/questions/25862963
+Violation: IncorrectPrecondition, get(1)@ids.size() > 0
+Answer Id --- http://stackoverflow.com/questions/19704046
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/21535837
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/31275448
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/1497206
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/13197020
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/26682284
+Violation: IncorrectPrecondition, get(1)@avaliacaoList.size() > 0
+Answer Id --- http://stackoverflow.com/questions/13503456
+Violation: IncorrectPrecondition, get(1)@iterator.hasNext()
+Answer Id --- http://stackoverflow.com/questions/12142317
+Violation: IncorrectPrecondition, get(1)@i < 10000
+Violation: IncorrectPrecondition, get(1)@i < 10000
+Answer Id --- http://stackoverflow.com/questions/9192449
+Violation: IncorrectPrecondition, get(1)@map.get(cont) != null
+Answer Id --- http://stackoverflow.com/questions/21961629
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/28206117
+Violation: IncorrectPrecondition, get(1)@i < word.length()
+Answer Id --- http://stackoverflow.com/questions/29380334
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/16077009
+Violation: IncorrectPrecondition, get(1)@i < 4 && j < 4 && k < 4
+Answer Id --- http://stackoverflow.com/questions/27263492
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/23679396
+Violation: IncorrectPrecondition, get(1)@albumList.size() > 0
+Answer Id --- http://stackoverflow.com/questions/28406029
+Violation: IncorrectPrecondition, get(1)@resultSet.size() > 0 && orderEntry instanceof OrderEntryModel
+Answer Id --- http://stackoverflow.com/questions/24451615
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/1644772
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/10872937
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/31329817
+Violation: IncorrectPrecondition, get(1)@(currentLine=br.readLine()) != null && words.size() > 0 && lengthCount.get(word.length()) != null
+Answer Id --- http://stackoverflow.com/questions/16007904
+Violation: IncorrectPrecondition, get(1)@!(tree.size() == 0) && tree.containsKey(o) && tree.size() > 0
+Answer Id --- http://stackoverflow.com/questions/22186678
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/19073848
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/7647024
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/9866263
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/25775792
+Violation: IncorrectPrecondition, get(1)@!(!mapCount.containsKey(httpCode))
+Answer Id --- http://stackoverflow.com/questions/23543471
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/1104852
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/31311582
+Violation: IncorrectPrecondition, get(1)@keys.size() > 0
+Answer Id --- http://stackoverflow.com/questions/30213078
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/15576394
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/14333312
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/36466982
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/15729942
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/14130594
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/38031083
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/27237364
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/9044432
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/23072257
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/17233780
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/19166071
+Violation: IncorrectPrecondition, get(1)@object instanceof HashMap
+Answer Id --- http://stackoverflow.com/questions/27189105
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/6210258
+Violation: IncorrectPrecondition, get(1)@preNodes.size() > 0
+Answer Id --- http://stackoverflow.com/questions/36990254
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/4271888
+Violation: IncorrectPrecondition, get(1)@true
+Violation: IncorrectPrecondition, get(1)@true
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/7540810
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/36010069
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/33578965
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/29588399
+Violation: IncorrectPrecondition, get(1)@i <= map.size() && j <= map.size() && null != nodeValuesMap.get(j)
+Answer Id --- http://stackoverflow.com/questions/8224633
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/3051491
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/20655129
+Violation: IncorrectPrecondition, get(1)@iter.hasNext() && key.startsWith(abc)
+Answer Id --- http://stackoverflow.com/questions/14379631
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/33076719
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/23266831
+Violation: IncorrectPrecondition, get(1)@it.hasNext()
+Answer Id --- http://stackoverflow.com/questions/23632190
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/15694070
+Violation: IncorrectPrecondition, get(1)@id.equals("apple")
+Answer Id --- http://stackoverflow.com/questions/21568732
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/28758479
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/36872366
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/25627897
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/7870195
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/29308425
+Violation: IncorrectPrecondition, get(1)@bundle != null
+Answer Id --- http://stackoverflow.com/questions/36396777
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/16348317
+Violation: IncorrectPrecondition, get(1)@result == null && locationId > 0
+Answer Id --- http://stackoverflow.com/questions/19703984
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/20513632
+Violation: IncorrectPrecondition, get(1)@LIST2.size() > 0
+Answer Id --- http://stackoverflow.com/questions/27705459
+Violation: IncorrectPrecondition, get(1)@mCursor.moveToNext() && audioFileMap.get("FileName").endsWith(".mp3")
+Answer Id --- http://stackoverflow.com/questions/34916067
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/3218768
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/11212614
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/39293106
+Violation: IncorrectPrecondition, get(1)@i < sequence.length
+Answer Id --- http://stackoverflow.com/questions/24829627
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/26682271
+Violation: IncorrectPrecondition, get(1)@avaliacaoList.size() > 0
+Answer Id --- http://stackoverflow.com/questions/31475009
+Violation: IncorrectPrecondition, get(1)@mobs.contains(mobid)
+Answer Id --- http://stackoverflow.com/questions/14014965
+Violation: IncorrectPrecondition, get(1)@peopleList.size() > 0 && input.equals(map.get(KEY_NAME))
+Answer Id --- http://stackoverflow.com/questions/21397030
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/23505839
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/21350748
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/11035658
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/36196647
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/3086673
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/22644178
+Violation: IncorrectPrecondition, get(1)@sc.hasNextLine()
+Answer Id --- http://stackoverflow.com/questions/20540454
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/31966721
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/30931442
+Violation: IncorrectPrecondition, get(1)@null != str && it.hasNext()
+Answer Id --- http://stackoverflow.com/questions/27892329
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/23410737
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/29946466
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/23588919
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/3051626
+Violation: IncorrectPrecondition, get(1)@i < origin.length()
+Answer Id --- http://stackoverflow.com/questions/6456308
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/10944159
+Violation: IncorrectPrecondition, get(1)@it.hasNext()
+Answer Id --- http://stackoverflow.com/questions/19816131
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/32400934
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/33894562
+Violation: IncorrectPrecondition, get(1)@true
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/17230803
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/6027678
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/7786718
+Violation: IncorrectPrecondition, get(1)@listOfMaps.size() > 0
+Answer Id --- http://stackoverflow.com/questions/29408050
+Violation: IncorrectPrecondition, get(1)@profileTimes.get(key) != null
+Answer Id --- http://stackoverflow.com/questions/27502093
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/35928253
+Violation: IncorrectPrecondition, get(1)@records.size() > 0
+Answer Id --- http://stackoverflow.com/questions/7149768
+Violation: IncorrectPrecondition, get(1)@POIS.size() > 0
+Answer Id --- http://stackoverflow.com/questions/31829153
+Violation: IncorrectPrecondition, get(1)@keySet.size() > 0
+Answer Id --- http://stackoverflow.com/questions/30739237
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/20949485
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/2738211
+Violation: IncorrectPrecondition, get(1)@i.hasNext()
+Answer Id --- http://stackoverflow.com/questions/21649848
+Violation: IncorrectPrecondition, get(1)@list.size() > 0
+Answer Id --- http://stackoverflow.com/questions/18775169
+Violation: IncorrectPrecondition, get(1)@(nextChar=reader.read()) != -1
+Answer Id --- http://stackoverflow.com/questions/4689075
+Violation: IncorrectPrecondition, get(1)@i <= 50
+Answer Id --- http://stackoverflow.com/questions/29725361
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/11498464
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/34417482
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/21660287
+Violation: IncorrectPrecondition, get(1)@itrs.hasNext()
+Answer Id --- http://stackoverflow.com/questions/15057707
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/13197723
+Violation: IncorrectPrecondition, get(1)@i < array.size && !(!memberMap.contains(array[i]))
+Answer Id --- http://stackoverflow.com/questions/34270891
+Violation: IncorrectPrecondition, get(1)@validFormat && results.size() > 0
+Answer Id --- http://stackoverflow.com/questions/20182946
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/3412097
+Violation: IncorrectPrecondition, get(1)@i.hasNext()
+Answer Id --- http://stackoverflow.com/questions/11171386
+Violation: IncorrectPrecondition, get(1)@itr.hasNext()
+Answer Id --- http://stackoverflow.com/questions/3649495
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/21835459
+Violation: IncorrectPrecondition, get(1)@one.size() > 0 && another.contains(str)
+Answer Id --- http://stackoverflow.com/questions/276653
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/22006428
+Violation: IncorrectPrecondition, get(1)@ite.hasNext() && time.contains(monthName)
+Answer Id --- http://stackoverflow.com/questions/9583087
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/3068068
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/16862624
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/13466006
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/8096926
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/28633164
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/19393918
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/22118840
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/4092681
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/28550353
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/8273415
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/10950073
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/28957928
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/30844739
+Violation: IncorrectPrecondition, get(1)@!(map.get(key) == value)
+Answer Id --- http://stackoverflow.com/questions/2082174
+Violation: IncorrectPrecondition, get(1)@token == '=' || token == ':'
+Answer Id --- http://stackoverflow.com/questions/33640413
+Violation: IncorrectPrecondition, get(1)@b.entrySet().size() > 0
+Answer Id --- http://stackoverflow.com/questions/16104612
+Violation: IncorrectPrecondition, get(1)@i < output.length
+Answer Id --- http://stackoverflow.com/questions/15875472
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/13250342
+Violation: IncorrectPrecondition, get(1)@menuItems.size() > 0
+Answer Id --- http://stackoverflow.com/questions/22869020
+Violation: IncorrectPrecondition, get(1)@e.getSource() == Start
+Answer Id --- http://stackoverflow.com/questions/28157206
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/7115485
+Violation: IncorrectPrecondition, get(1)@i < runs && j < test
+Answer Id --- http://stackoverflow.com/questions/27939991
+Violation: IncorrectPrecondition, get(1)@row <= maxRow && column <= maxColumn
+Answer Id --- http://stackoverflow.com/questions/9212603
+Violation: IncorrectPrecondition, get(1)@all_persons.size() > 0 && p.emails.size() > 0
+Answer Id --- http://stackoverflow.com/questions/25759101
+Violation: IncorrectPrecondition, get(1)@i.hasNext()
+Answer Id --- http://stackoverflow.com/questions/17688422
+Violation: IncorrectPrecondition, get(1)@true
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/26579544
+Violation: IncorrectPrecondition, get(1)@arr.size() > 0
+Answer Id --- http://stackoverflow.com/questions/10752214
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/34387821
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/34313105
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/17812555
+Violation: IncorrectPrecondition, get(1)@keyIter.hasNext()
+Answer Id --- http://stackoverflow.com/questions/21331692
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/34067745
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/15195546
+Violation: IncorrectPrecondition, get(1)@unamePass.get("user1") != null
+Answer Id --- http://stackoverflow.com/questions/16331477
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/33064800
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/21020795
+Violation: IncorrectPrecondition, get(1)@ResultList_Services.size() > 0
+Answer Id --- http://stackoverflow.com/questions/19857682
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/29556070
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/3849933
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/10993578
+Violation: IncorrectPrecondition, get(1)@itr.hasNext()
+Answer Id --- http://stackoverflow.com/questions/21017229
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/13717872
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/18892428
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/24033292
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/22934193
+Violation: IncorrectPrecondition, get(1)@devices.size() > 0
+Answer Id --- http://stackoverflow.com/questions/22342132
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/29403991
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/9496116
+Violation: IncorrectPrecondition, get(1)@true
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/10314610
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/33403872
+Violation: IncorrectPrecondition, get(1)@Bukkit.getOnlinePlayers().size() > 0
+Answer Id --- http://stackoverflow.com/questions/10188792
+Violation: IncorrectPrecondition, get(1)@i < chars.length
+Answer Id --- http://stackoverflow.com/questions/34103848
+Violation: IncorrectPrecondition, get(1)@values.size() > 0 && keyStr.toLowerCase().startsWith("city|") && cityCount.containsKey(tokens[1])
+Answer Id --- http://stackoverflow.com/questions/17705597
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/25399188
+Violation: IncorrectPrecondition, get(1)@params.get(name) != null
+Answer Id --- http://stackoverflow.com/questions/14688099
+Violation: IncorrectPrecondition, get(1)@true
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/20450235
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/14577274
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/962755
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/22913158
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/25952073
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/30133030
+Violation: IncorrectPrecondition, get(1)@i < st.length()
+Answer Id --- http://stackoverflow.com/questions/37487477
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/12412010
+Violation: IncorrectPrecondition, get(1)@i < runs
+Answer Id --- http://stackoverflow.com/questions/38411865
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/27406704
+Violation: IncorrectPrecondition, get(1)@rows.size() > 0
+Answer Id --- http://stackoverflow.com/questions/21593268
+Violation: IncorrectPrecondition, get(1)@y < image.getHeight() && x < image.getWidth()
+Answer Id --- http://stackoverflow.com/questions/33313259
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/21176395
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/19037391
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/27407596
+Violation: IncorrectPrecondition, get(1)@graph.get(v).contains(i)
+Answer Id --- http://stackoverflow.com/questions/22314273
+Violation: IncorrectPrecondition, get(1)@cList.size() > 0
+Answer Id --- http://stackoverflow.com/questions/29689729
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/38293378
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/15400846
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/16188281
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/10426808
+Violation: IncorrectPrecondition, get(1)@path.split("/").size() > 0 && e.length() > 0
+Answer Id --- http://stackoverflow.com/questions/29717344
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/35458804
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/29955545
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/21703928
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/8099350
+Violation: IncorrectPrecondition, get(1)@keySet.size() > 0
+Answer Id --- http://stackoverflow.com/questions/6076126
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/6131260
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/16378053
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/10339404
+Violation: IncorrectPrecondition, get(1)@true && !(logDir == null || logFileName == null || logDir.isEmpty() || logFileName.isEmpty())
+Answer Id --- http://stackoverflow.com/questions/992020
+Violation: IncorrectPrecondition, get(1)@iterator.hasNext()
+Answer Id --- http://stackoverflow.com/questions/11008115
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/22906384
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/18782611
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/18589332
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/20699535
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/22574475
+Violation: IncorrectPrecondition, get(1)@s.toCharArray().size() > 0 && !c.equals(" ") && !(m.get(c) == null)
+Answer Id --- http://stackoverflow.com/questions/1144437
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/17110162
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/22033695
+Violation: IncorrectPrecondition, get(1)@data.size() > 0
+Answer Id --- http://stackoverflow.com/questions/34412095
+Violation: IncorrectPrecondition, get(1)@i >= 0
+Answer Id --- http://stackoverflow.com/questions/28890831
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/23198525
+Violation: IncorrectPrecondition, get(1)@!(hm.get(hd) == null) && !(root == null)
+Answer Id --- http://stackoverflow.com/questions/18993029
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/21926604
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/23486407
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/26315170
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/8454952
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/32365184
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/23473590
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/20573682
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/17479367
+Violation: IncorrectPrecondition, get(1)@i < numeralStr.length()
+Answer Id --- http://stackoverflow.com/questions/15486966
+Violation: IncorrectPrecondition, get(1)@!(keySet().contains(key)) && aliases.keySet().contains(key) && !(keySet().contains(key))
+Answer Id --- http://stackoverflow.com/questions/25263242
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/32167679
+Violation: IncorrectPrecondition, get(1)@scan1.hasNext() && i < wordsOfLine.length && wordsOfLine[i] != "" && !(Words.get(word) == null)
+Answer Id --- http://stackoverflow.com/questions/18105698
+Violation: IncorrectPrecondition, get(1)@!(isSelected)
+Answer Id --- http://stackoverflow.com/questions/17587645
+Violation: IncorrectPrecondition, get(1)@i < db.size()
+Answer Id --- http://stackoverflow.com/questions/5056933
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/35057289
+Violation: IncorrectPrecondition, get(1)@true && !(lives < 1)
+Answer Id --- http://stackoverflow.com/questions/16939413
+Violation: IncorrectPrecondition, get(1)@list.size() > 0 && !map.containsKey("value")
+Answer Id --- http://stackoverflow.com/questions/22197507
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/11822602
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/24324049
+Violation: IncorrectPrecondition, get(1)@i < chars.length && map.keySet().contains(String.valueOf(c))
+Answer Id --- http://stackoverflow.com/questions/14135729
+Violation: IncorrectPrecondition, get(1)@fakeGetItems.size() > 0
+Answer Id --- http://stackoverflow.com/questions/21727418
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/29541739
+Violation: IncorrectPrecondition, get(1)@ColumnArray.size() > 0
+Answer Id --- http://stackoverflow.com/questions/17689287
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/35612236
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/29888921
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/2395787
+Violation: IncorrectPrecondition, get(1)@it.hasNext()
+Answer Id --- http://stackoverflow.com/questions/8645015
+Violation: IncorrectPrecondition, get(1)@itr.hasNext()
+Answer Id --- http://stackoverflow.com/questions/21591084
+Violation: IncorrectPrecondition, get(1)@i < stringArray.size() && !(!indexMap.containsKey(s))
+Answer Id --- http://stackoverflow.com/questions/35415897
+Violation: IncorrectPrecondition, get(1)@keys.size() > 0
+Answer Id --- http://stackoverflow.com/questions/7602741
+Violation: IncorrectPrecondition, get(1)@i < numarulDeCopii
+Answer Id --- http://stackoverflow.com/questions/11010005
+Violation: IncorrectPrecondition, get(1)@playListSongs.size() > 0 && duplicateTracker.containsKey(hashMap.get(KEY_ARTIST)) == false
+Violation: IncorrectPrecondition, get(1)@playListSongs.size() > 0 && hashMap.get(KEY_ARTIST).equals(artist)
+Answer Id --- http://stackoverflow.com/questions/28270513
+Violation: IncorrectPrecondition, get(1)@cpy.size() > 0
+Answer Id --- http://stackoverflow.com/questions/29285744
+Violation: IncorrectPrecondition, get(1)@i <= 1000000
+Answer Id --- http://stackoverflow.com/questions/7213319
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/28943093
+Violation: IncorrectPrecondition, get(1)@i <= 9 && digits.get((char)i + 48) > returnValue[1]
+Answer Id --- http://stackoverflow.com/questions/22326171
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/35219750
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/37352213
+Violation: IncorrectPrecondition, get(1)@tenNumbersArray.size() > 0
+Answer Id --- http://stackoverflow.com/questions/5761717
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/2967384
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/33601111
+Violation: IncorrectPrecondition, get(1)@allNames.size() > 0 && !(firstNamesCount.get(tmp[1]) == null)
+Answer Id --- http://stackoverflow.com/questions/32163854
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/33214495
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/19948067
+Violation: IncorrectPrecondition, get(1)@persons.size() > 0 && !(!map.contains(p.dob + p.contactNo + g_opp))
+Answer Id --- http://stackoverflow.com/questions/23225874
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/25740495
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/6812624
+Violation: IncorrectPrecondition, get(1)@andidateArray.size() > 0 && !(counter.get(can) == null)
+Answer Id --- http://stackoverflow.com/questions/28429891
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/26954049
+Violation: IncorrectPrecondition, get(1)@check(s)
+Answer Id --- http://stackoverflow.com/questions/10094297
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/23921357
+Violation: IncorrectPrecondition, get(1)@keys.size() > 0
+Answer Id --- http://stackoverflow.com/questions/29934637
+Violation: IncorrectPrecondition, get(1)@getContacts.size() > 0 && iterator.hasNext()
+Answer Id --- http://stackoverflow.com/questions/17259529
+Violation: IncorrectPrecondition, get(1)@i < x.length && j < y.length && y[j].contains(x[i]) && map.get(y[j]) != null
+Answer Id --- http://stackoverflow.com/questions/38215648
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/23356167
+Violation: IncorrectPrecondition, get(1)@i < number.length()
+Answer Id --- http://stackoverflow.com/questions/12003566
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/21366367
+Violation: IncorrectPrecondition, get(1)@string1.size() > 0
+Answer Id --- http://stackoverflow.com/questions/20850954
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/4582652
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/30009753
+Violation: IncorrectPrecondition, get(1)@thisLine != null
+Answer Id --- http://stackoverflow.com/questions/30161963
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/28290465
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/29721533
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/37387956
+Violation: IncorrectPrecondition, get(1)@(input=getConsoleInput("Enter a word: ")) != null
+Answer Id --- http://stackoverflow.com/questions/15866513
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/25924054
+Violation: IncorrectPrecondition, get(1)@true && !(keys == null) && !(keys.get(keyCode) == null)
+Answer Id --- http://stackoverflow.com/questions/18123342
+Violation: IncorrectPrecondition, get(1)@arr.size() > 0
+Answer Id --- http://stackoverflow.com/questions/10493303
+Violation: IncorrectPrecondition, get(1)@routeRs1.next() && !(tags.get(routeRs1.getInt(1)) == null)
+Answer Id --- http://stackoverflow.com/questions/6783391
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/4460467
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/33188200
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/31235362
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/27529084
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/28196325
+Violation: IncorrectPrecondition, get(1)@i < iterations
+Answer Id --- http://stackoverflow.com/questions/34552675
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/28989467
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/31355664
+Violation: IncorrectPrecondition, get(1)@list.size() > 0
+Answer Id --- http://stackoverflow.com/questions/24354022
+Violation: IncorrectPrecondition, get(1)@itr.hasNext()
+Answer Id --- http://stackoverflow.com/questions/21673083
+Violation: IncorrectPrecondition, get(1)@map1.entrySet().size() > 0 && entry.getValue().size() > 0
+Answer Id --- http://stackoverflow.com/questions/33541837
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/18376661
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/28799125
+Violation: IncorrectPrecondition, get(1)@normalTitles.size() > 0
+Answer Id --- http://stackoverflow.com/questions/32154626
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/38813866
+Violation: IncorrectPrecondition, get(1)@i < length
+Answer Id --- http://stackoverflow.com/questions/18548283
+Violation: IncorrectPrecondition, get(1)@playerFromintent.size() > 0
+Answer Id --- http://stackoverflow.com/questions/37853570
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/35098390
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/37388898
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/22575653
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/34156411
+Violation: IncorrectPrecondition, get(1)@keyIterator.hasNext()
+Answer Id --- http://stackoverflow.com/questions/21512031
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/23135839
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/19163568
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/9145440
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/8276664
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/15460943
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/10309797
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/20705654
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/20802471
+Violation: IncorrectPrecondition, get(1)@i < adapter.getCount()
+Answer Id --- http://stackoverflow.com/questions/8591894
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/23064919
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/4054711
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/37066844
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/29252749
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/15057662
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/33200312
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/38539461
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/22961195
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/31199219
+Violation: IncorrectPrecondition, get(1)@array.size() > 0
+Answer Id --- http://stackoverflow.com/questions/33673025
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/22755502
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/35034404
+Violation: IncorrectPrecondition, get(1)@i < V
+Answer Id --- http://stackoverflow.com/questions/1651416
+Violation: IncorrectPrecondition, get(1)@i < loopCount
+Answer Id --- http://stackoverflow.com/questions/15550793
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/38892977
+Violation: IncorrectPrecondition, get(1)@this.isRow
+Answer Id --- http://stackoverflow.com/questions/38590430
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/28396008
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/23162693
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/30273607
+Violation: IncorrectPrecondition, get(1)@user.size() != 0
+Answer Id --- http://stackoverflow.com/questions/32398802
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/30516018
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/21699610
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/15454701
+Violation: IncorrectPrecondition, get(1)@threadIdToStartTimeNanos.containsKey(threadId) && threadIdToStartTimeNanos.size() > 0
+Answer Id --- http://stackoverflow.com/questions/22129297
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/11085849
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/15430125
+Violation: IncorrectPrecondition, get(1)@bytes.size() > 0
+Answer Id --- http://stackoverflow.com/questions/2022373
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/20957793
+Violation: IncorrectPrecondition, get(1)@set.size() > 0
+Answer Id --- http://stackoverflow.com/questions/13556820
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/19142754
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/18865165
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/32793929
+Violation: IncorrectPrecondition, get(1)@edgesIterator.hasNext()
+Answer Id --- http://stackoverflow.com/questions/20026750
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/25121667
+Violation: IncorrectPrecondition, get(1)@i < args.length && !(args[i].startsWith("-"))
+Answer Id --- http://stackoverflow.com/questions/22080607
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/29417844
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/13650995
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/10944274
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/10416790
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/23235563
+Violation: IncorrectPrecondition, get(1)@keySet.size() > 0
+Answer Id --- http://stackoverflow.com/questions/32633452
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/32956841
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/39287674
+Violation: IncorrectPrecondition, get(1)@rs.next()
+Answer Id --- http://stackoverflow.com/questions/34478845
+Violation: IncorrectPrecondition, get(1)@i < romanNumeral.length()
+Answer Id --- http://stackoverflow.com/questions/2647265
+Violation: IncorrectPrecondition, get(1)@counters.contains(newEl)
+Answer Id --- http://stackoverflow.com/questions/21811990
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/12916044
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/26824621
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/27791630
+Violation: IncorrectPrecondition, get(1)@!(m.get(from) == null)
+Answer Id --- http://stackoverflow.com/questions/34989775
+Violation: IncorrectPrecondition, get(1)@keys.size() > 0
+Answer Id --- http://stackoverflow.com/questions/7565595
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/32508229
+Violation: IncorrectPrecondition, get(1)@!(startPos >= endPos) && !(startPos >= endPos)
+Answer Id --- http://stackoverflow.com/questions/33915021
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/37892174
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/25841532
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/5203323
+Violation: IncorrectPrecondition, get(1)@i < 10
+Answer Id --- http://stackoverflow.com/questions/30421847
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/15370470
+Violation: IncorrectPrecondition, get(1)@subTopics.size() > 0
+Answer Id --- http://stackoverflow.com/questions/9845277
+Violation: IncorrectPrecondition, get(1)@REMOVABLE.contains(chunk_type) && !(signature != SIGNATURE) && !((readInt(is) != 13) || (readInt(is) != IHDR))
+Answer Id --- http://stackoverflow.com/questions/22828078
+Violation: IncorrectPrecondition, get(1)@splittedSentence.size() > 0 && wordmap.get(word) != null
+Answer Id --- http://stackoverflow.com/questions/11075318
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/25263344
+Violation: IncorrectPrecondition, get(1)@words.size() > 0
+Answer Id --- http://stackoverflow.com/questions/26122667
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/14186013
+Violation: IncorrectPrecondition, get(1)@it.hasNext()
+Answer Id --- http://stackoverflow.com/questions/27141726
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/5324720
+Violation: IncorrectPrecondition, get(1)@i < keys.length
+Answer Id --- http://stackoverflow.com/questions/19420095
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/12856256
+Violation: IncorrectPrecondition, get(1)@it.hasNext()
+Answer Id --- http://stackoverflow.com/questions/38961616
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/5526342
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/7921341
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/10948372
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/24886389
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/29289650
+Violation: IncorrectPrecondition, get(1)@bundle != null
+Answer Id --- http://stackoverflow.com/questions/6610014
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/10839631
+Violation: IncorrectPrecondition, get(1)@true && !(translation == null)
+Answer Id --- http://stackoverflow.com/questions/29100943
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/27667163
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/1790058
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/24256737
+Violation: IncorrectPrecondition, get(1)@m.find()
+Answer Id --- http://stackoverflow.com/questions/25829078
+Violation: IncorrectPrecondition, get(1)@i < n
+Answer Id --- http://stackoverflow.com/questions/19566356
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/28882405
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/27857694
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/11868507
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/13315495
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/35210427
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/15647703
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/17609655
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/27458769
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/25460708
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/27342263
+Violation: IncorrectPrecondition, get(1)@mEvents.size() > 0
+Answer Id --- http://stackoverflow.com/questions/13315759
+Violation: IncorrectPrecondition, get(1)@i < chars.length
+Answer Id --- http://stackoverflow.com/questions/23239689
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/19193662
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/36279533
+Violation: IncorrectPrecondition, get(1)@keySetIterator.hasNext() && !(nextValue == null || nextValue == "" || nextValue.isEmpty())
+Answer Id --- http://stackoverflow.com/questions/14162860
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/27731644
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/4775167
+Violation: IncorrectPrecondition, get(1)@i < children.getLength() && !(child instanceof Text) && child instanceof Element
+Answer Id --- http://stackoverflow.com/questions/27238213
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/16326374
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/16961572
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/6610149
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/4686677
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/7092576
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/10616009
+Violation: IncorrectPrecondition, get(1)@true
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/6503488
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/7589539
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/31193568
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/22875644
+Violation: IncorrectPrecondition, get(1)@(infile.ready()) && !(histogram.get(word) == null)
+Answer Id --- http://stackoverflow.com/questions/2747911
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/16839191
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/5804933
+Violation: IncorrectPrecondition, get(1)@it.hasNext()
+Answer Id --- http://stackoverflow.com/questions/4688757
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/29271319
+Violation: IncorrectPrecondition, get(1)@(line=reader.readLine()) != null
+Answer Id --- http://stackoverflow.com/questions/15125239
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/38500424
+Violation: IncorrectPrecondition, get(1)@adressMap != null && adressMap.get(street) != null
+Total number of unreliable Java snippets: 910
+Answer Id --- http://stackoverflow.com/questions/25058520
+Violation: IncorrectPrecondition, get(1)@textFile.ready() && (line=textFile.readLine()) != null && words.size() > 0 && !word.isEmpty()
+Answer Id --- http://stackoverflow.com/questions/17212380
+Violation: IncorrectPrecondition, get(1)@i < tbNumbers.getRowCount()
+Answer Id --- http://stackoverflow.com/questions/9577518
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/5211644
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/857992
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/13107795
+Violation: IncorrectPrecondition, get(1)@turnIndex < turnList.getLength() && !(document == null)
+Answer Id --- http://stackoverflow.com/questions/2397054
+Violation: IncorrectPrecondition, get(1)@keys.size() > 0
+Answer Id --- http://stackoverflow.com/questions/8856082
+Violation: IncorrectPrecondition, get(1)@i < map.size()
+Answer Id --- http://stackoverflow.com/questions/19480409
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/18570819
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/3551681
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/17355808
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/28960879
+Violation: IncorrectPrecondition, get(1)@colors.containsKey(colorValue)
+Answer Id --- http://stackoverflow.com/questions/18754086
+Violation: IncorrectPrecondition, get(1)@i < lines.length
+Answer Id --- http://stackoverflow.com/questions/36235287
+Violation: IncorrectPrecondition, get(1)@k < x && t <= str1.length()
+Answer Id --- http://stackoverflow.com/questions/21684025
+Violation: IncorrectPrecondition, get(1)@i < inputArray.length && !(map.get(length) == null)
+Answer Id --- http://stackoverflow.com/questions/28530395
+Violation: IncorrectPrecondition, get(1)@counter < n
+Answer Id --- http://stackoverflow.com/questions/23363674
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/8190405
+Violation: IncorrectPrecondition, get(1)@amount == 0 && it.hasNext() && !(amount < 0)
+Answer Id --- http://stackoverflow.com/questions/9207486
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/32748350
+Violation: IncorrectPrecondition, get(1)@!(index < 1 || index > 3)
+Answer Id --- http://stackoverflow.com/questions/14748864
+Violation: IncorrectPrecondition, get(1)@i < arr.length && !(asd.get(arr[i]) == null)
+Answer Id --- http://stackoverflow.com/questions/36705675
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/4592080
+Violation: IncorrectPrecondition, get(1)@map1.entrySet().size() > 0
+Answer Id --- http://stackoverflow.com/questions/8604504
+Violation: IncorrectPrecondition, get(1)@l.size() > 0
+Answer Id --- http://stackoverflow.com/questions/26479522
+Violation: IncorrectPrecondition, get(1)@arrMain.size() > 0 && dataMap.get("Key").size() > 0
+Answer Id --- http://stackoverflow.com/questions/741783
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/17837028
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/14701097
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/34387238
+Violation: IncorrectPrecondition, get(1)@map.containsKey(first) && map.containsKey(second)
+Answer Id --- http://stackoverflow.com/questions/25279574
+Violation: IncorrectPrecondition, get(1)@list.size() > 0
+Answer Id --- http://stackoverflow.com/questions/16223972
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/27865246
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/13099473
+Violation: IncorrectPrecondition, get(1)@i < list.getLength() && node != null && maps.containsKey("yt:format")
+Answer Id --- http://stackoverflow.com/questions/18326441
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/4952471
+Violation: IncorrectPrecondition, get(1)@i < myDim && !(indexes.length != myDim) && !(i < myDim && obj == null)
+Answer Id --- http://stackoverflow.com/questions/31051057
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/29705303
+Violation: IncorrectPrecondition, get(1)@largeNonMerger.points().size() > 0
+Answer Id --- http://stackoverflow.com/questions/35002242
+Violation: IncorrectPrecondition, get(1)@formatting != null && styles.containsKey(formatting)
+Answer Id --- http://stackoverflow.com/questions/18275439
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/22164121
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/35903768
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/28513617
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/16850476
+Violation: IncorrectPrecondition, get(1)@moreRecords
+Answer Id --- http://stackoverflow.com/questions/21745401
+Violation: IncorrectPrecondition, get(1)@!(a.equals("JOHN")) && i < a.length()
+Answer Id --- http://stackoverflow.com/questions/2395862
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/15768255
+Violation: IncorrectPrecondition, get(1)@content.containsKey(s) && content.size() > 0
+Answer Id --- http://stackoverflow.com/questions/2813070
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/34982752
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/2252438
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/23816029
+Violation: IncorrectPrecondition, get(1)@command.equals("newmtl")
+Answer Id --- http://stackoverflow.com/questions/33281230
+Violation: IncorrectPrecondition, get(1)@map.containsKey(key) && map.size() > 0
+Answer Id --- http://stackoverflow.com/questions/13540924
+Violation: IncorrectPrecondition, get(1)@options.containsKey(opt)
+Answer Id --- http://stackoverflow.com/questions/36844414
+Violation: IncorrectPrecondition, get(1)@target_messageList.size() > 0 && lowers.containsKey(corpTarget)
+Answer Id --- http://stackoverflow.com/questions/10033638
+Violation: IncorrectPrecondition, get(1)@catnamecatkeys.containsKey(key) && catnamecatkeys.size() > 0
+Answer Id --- http://stackoverflow.com/questions/35685355
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/21678611
+Violation: IncorrectPrecondition, get(1)@!(!hashMap.containsKey(locationId))
+Answer Id --- http://stackoverflow.com/questions/15025479
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/27168723
+Violation: IncorrectPrecondition, get(1)@(csvLine=reader.readLine()) != null && csvColumns.length > 0
+Answer Id --- http://stackoverflow.com/questions/32321099
+Violation: IncorrectPrecondition, get(1)@i < 100 && i % 15 == 0
+Answer Id --- http://stackoverflow.com/questions/23090358
+Violation: IncorrectPrecondition, get(1)@hash.containsKey(calendar) && hash.size() > 0
+Answer Id --- http://stackoverflow.com/questions/29163233
+Violation: IncorrectPrecondition, get(1)@i < str.length() && !(!letters.contains(letter))
+Answer Id --- http://stackoverflow.com/questions/31487228
+Violation: IncorrectPrecondition, get(1)@i < result.length && XanthiumLang.containsKey(result[i])
+Answer Id --- http://stackoverflow.com/questions/26599833
+Violation: IncorrectPrecondition, get(1)@namePre.count(fN)
+Answer Id --- http://stackoverflow.com/questions/20949703
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/27369356
+Violation: IncorrectPrecondition, get(1)@i < array.length
+Answer Id --- http://stackoverflow.com/questions/33146199
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/8864213
+Violation: IncorrectPrecondition, get(1)@i < count && !(!Outer.containsKey(key))
+Answer Id --- http://stackoverflow.com/questions/16686494
+Violation: IncorrectPrecondition, get(1)@rooms.containsKey(roomId) && rooms.size() > 0
+Answer Id --- http://stackoverflow.com/questions/16205603
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/8587389
+Violation: IncorrectPrecondition, get(1)@ai < userInput.length()
+Answer Id --- http://stackoverflow.com/questions/4237305
+Violation: IncorrectPrecondition, get(1)@i.hasNext()
+Answer Id --- http://stackoverflow.com/questions/11738715
+Violation: IncorrectPrecondition, get(1)@i < words.length && statistic.containsKey(words[i].length())
+Answer Id --- http://stackoverflow.com/questions/19704046
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/22485463
+Violation: IncorrectPrecondition, get(1)@i < s.length() && hashMap.containsKey(s.charAt(i))
+Answer Id --- http://stackoverflow.com/questions/21535837
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/27124328
+Violation: IncorrectPrecondition, get(1)@input.size() > 0
+Answer Id --- http://stackoverflow.com/questions/37475274
+Violation: IncorrectPrecondition, get(1)@mainMap.containsKey(keyMap3)
+Answer Id --- http://stackoverflow.com/questions/13502928
+Violation: IncorrectPrecondition, get(1)@o instanceof Map && iterator.hasNext()
+Answer Id --- http://stackoverflow.com/questions/8068708
+Violation: IncorrectPrecondition, get(1)@xsr.hasNext() && (stream=feedingStreams.get(currentStack.hashCode())) != null && filterHandler.containsKey(filter) && filterHandler.size() > 0 && filter.isRelevant(currentStack)
+Answer Id --- http://stackoverflow.com/questions/31602710
+Violation: IncorrectPrecondition, get(1)@string2.size() > 0
+Answer Id --- http://stackoverflow.com/questions/26682284
+Violation: IncorrectPrecondition, get(1)@avaliacaoList.size() > 0
+Answer Id --- http://stackoverflow.com/questions/13503456
+Violation: IncorrectPrecondition, get(1)@iterator.hasNext()
+Answer Id --- http://stackoverflow.com/questions/12142317
+Violation: IncorrectPrecondition, get(1)@i < 10000
+Violation: IncorrectPrecondition, get(1)@i < 10000
+Answer Id --- http://stackoverflow.com/questions/21961629
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/25253937
+Violation: IncorrectPrecondition, get(1)@itemNames.containsKey(name)
+Answer Id --- http://stackoverflow.com/questions/19944318
+Violation: IncorrectPrecondition, get(1)@wordArray.size() > 0 && wordCounts.containsKey(string)
+Answer Id --- http://stackoverflow.com/questions/29380334
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/2362242
+Violation: IncorrectPrecondition, get(1)@valueIt.hasNext() && keyIt.hasNext()
+Answer Id --- http://stackoverflow.com/questions/23679396
+Violation: IncorrectPrecondition, get(1)@albumList.size() > 0
+Answer Id --- http://stackoverflow.com/questions/11931835
+Violation: IncorrectPrecondition, get(1)@counters.containsKey(s) && counters.size() > 0
+Answer Id --- http://stackoverflow.com/questions/1644772
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/10872937
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/28581061
+Violation: IncorrectPrecondition, get(1)@it.hasNext() && has.containsKey(date)
+Answer Id --- http://stackoverflow.com/questions/19073848
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/6563153
+Violation: IncorrectPrecondition, get(1)@secondList.size() > 0
+Answer Id --- http://stackoverflow.com/questions/35645117
+Violation: IncorrectPrecondition, get(1)@hm.containsKey(name)
+Answer Id --- http://stackoverflow.com/questions/7647024
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/25775792
+Violation: IncorrectPrecondition, get(1)@!(!mapCount.containsKey(httpCode))
+Answer Id --- http://stackoverflow.com/questions/30213078
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/25634084
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/15576394
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/14333312
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/36466982
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/15729942
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/38031083
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/27237364
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/9044432
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/23072257
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/21432777
+Violation: IncorrectPrecondition, get(1)@counter < characterInput.length
+Answer Id --- http://stackoverflow.com/questions/17233780
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/19166071
+Violation: IncorrectPrecondition, get(1)@object instanceof HashMap
+Answer Id --- http://stackoverflow.com/questions/33877606
+Violation: IncorrectPrecondition, get(1)@value.size() > 0 && !(str[0].equals("m1")) && str[0].equals("m2") && stateMap.containsKey(key.toString().toLowerCase()) && cent > 30
+Answer Id --- http://stackoverflow.com/questions/16233942
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/33243115
+Violation: IncorrectPrecondition, get(1)@firstObject.size() > 0 && map.containsKey(key) && map.size() > 0
+Answer Id --- http://stackoverflow.com/questions/7229816
+Violation: IncorrectPrecondition, get(1)@st.hasMoreElements() && terms.containsKey(term)
+Answer Id --- http://stackoverflow.com/questions/36010069
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/33529302
+Violation: IncorrectPrecondition, get(1)@counts.containsKey(key) && !(currentNumber == max)
+Answer Id --- http://stackoverflow.com/questions/20723502
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/8224633
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/3051491
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/23472873
+Violation: IncorrectPrecondition, get(1)@stuffToBeCounted.containsKey(tuple) && stuffToBeCounted.size() > 0 && countedStuff.containsKey(tuple.v1())
+Answer Id --- http://stackoverflow.com/questions/32732039
+Violation: IncorrectPrecondition, get(1)@al.size() > 0 && i < str.length() && map.containsKey(k)
+Answer Id --- http://stackoverflow.com/questions/24152704
+Violation: IncorrectPrecondition, get(1)@hashMap.containsKey(s) && hashMap.size() > 0
+Answer Id --- http://stackoverflow.com/questions/14379631
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/13732238
+Violation: IncorrectPrecondition, get(1)@i < phrase.length() && fav.containsKey(phrase.charAt(i))
+Answer Id --- http://stackoverflow.com/questions/23266831
+Violation: IncorrectPrecondition, get(1)@it.hasNext()
+Answer Id --- http://stackoverflow.com/questions/23437858
+Violation: IncorrectPrecondition, get(1)@runner.size() > 0 && Integer.parseInt(ageGroup) < 18
+Answer Id --- http://stackoverflow.com/questions/15694070
+Violation: IncorrectPrecondition, get(1)@id.equals("apple")
+Answer Id --- http://stackoverflow.com/questions/21568732
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/36872366
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/7870195
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/16348317
+Violation: IncorrectPrecondition, get(1)@result == null && locationId > 0
+Answer Id --- http://stackoverflow.com/questions/19703984
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/716537
+Violation: IncorrectPrecondition, get(1)@values.size() > 0
+Answer Id --- http://stackoverflow.com/questions/38514010
+Violation: IncorrectPrecondition, get(1)@params.containsKey(key) && params.size() > 0
+Answer Id --- http://stackoverflow.com/questions/3218768
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/35776405
+Violation: IncorrectPrecondition, get(1)@i < arrayS.length
+Violation: IncorrectPrecondition, get(1)@i < arrayS.length
+Answer Id --- http://stackoverflow.com/questions/26682271
+Violation: IncorrectPrecondition, get(1)@avaliacaoList.size() > 0
+Answer Id --- http://stackoverflow.com/questions/31475009
+Violation: IncorrectPrecondition, get(1)@mobs.contains(mobid)
+Answer Id --- http://stackoverflow.com/questions/28352951
+Violation: IncorrectPrecondition, get(1)@List1.size() > 0 && data.containsKey(string)
+Answer Id --- http://stackoverflow.com/questions/5989954
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/30012830
+Violation: IncorrectPrecondition, get(1)@(n=br.readLine()) != null && h.containsKey(n)
+Answer Id --- http://stackoverflow.com/questions/37242399
+Violation: IncorrectPrecondition, get(1)@map.containsKey(c) && map.size() > 0
+Answer Id --- http://stackoverflow.com/questions/21397030
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/26906693
+Violation: IncorrectPrecondition, get(1)@allItems.containsKey(id) && allItems.size() > 0
+Answer Id --- http://stackoverflow.com/questions/23505839
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/25338845
+Violation: IncorrectPrecondition, get(1)@!(choice.equals("ne")) && choice.equals("se")
+Answer Id --- http://stackoverflow.com/questions/11035658
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/36196647
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/36392186
+Violation: IncorrectPrecondition, get(1)@i < strs.length && map.containsKey(s)
+Answer Id --- http://stackoverflow.com/questions/3051626
+Violation: IncorrectPrecondition, get(1)@i < origin.length()
+Answer Id --- http://stackoverflow.com/questions/6456308
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/22428375
+Violation: IncorrectPrecondition, get(1)@true && !(moves.size() >= bestMove) && !(n == 1)
+Violation: IncorrectPrecondition, get(1)@true && !(moves >= bestMove) && !(n == 1)
+Answer Id --- http://stackoverflow.com/questions/3978125
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/17230803
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/6027678
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/27502093
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/11353298
+Violation: IncorrectPrecondition, get(1)@str.toCharArray().size() > 0 && !(!map.containsKey(c))
+Answer Id --- http://stackoverflow.com/questions/30739237
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/2738211
+Violation: IncorrectPrecondition, get(1)@i.hasNext()
+Answer Id --- http://stackoverflow.com/questions/26110292
+Violation: IncorrectPrecondition, get(1)@urls.size() > 0 && file.isDirectory() && propFolder.exists() && propFolder.isDirectory() && propFolder.listFiles().size() > 0 && f.getName().endsWith("properties") || f.getName().endsWith("props") && appName != null && !(mapProperties.get(appName) == null)
+Answer Id --- http://stackoverflow.com/questions/5552021
+Violation: IncorrectPrecondition, get(1)@cache.containsKey(someUrl)
+Answer Id --- http://stackoverflow.com/questions/18775169
+Violation: IncorrectPrecondition, get(1)@(nextChar=reader.read()) != -1
+Answer Id --- http://stackoverflow.com/questions/4689075
+Violation: IncorrectPrecondition, get(1)@i <= 50
+Answer Id --- http://stackoverflow.com/questions/12596510
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/34417482
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/29656024
+Violation: IncorrectPrecondition, get(1)@jFile.ready()
+Answer Id --- http://stackoverflow.com/questions/15057707
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/13197723
+Violation: IncorrectPrecondition, get(1)@i < array.size && !(!memberMap.contains(array[i]))
+Answer Id --- http://stackoverflow.com/questions/34270891
+Violation: IncorrectPrecondition, get(1)@validFormat && results.size() > 0
+Answer Id --- http://stackoverflow.com/questions/20182946
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/3412097
+Violation: IncorrectPrecondition, get(1)@i.hasNext()
+Answer Id --- http://stackoverflow.com/questions/23466997
+Violation: IncorrectPrecondition, get(1)@(txt != null) && txt.toCharArray().size() > 0 && hash.containsKey(ch)
+Answer Id --- http://stackoverflow.com/questions/37240743
+Violation: IncorrectPrecondition, get(1)@row < height && column < width
+Answer Id --- http://stackoverflow.com/questions/21835459
+Violation: IncorrectPrecondition, get(1)@one.size() > 0 && another.contains(str)
+Answer Id --- http://stackoverflow.com/questions/8682805
+Violation: IncorrectPrecondition, get(1)@m.containsKey(key) && m.size() > 0
+Answer Id --- http://stackoverflow.com/questions/10001802
+Violation: IncorrectPrecondition, get(1)@keys.size() > 0
+Answer Id --- http://stackoverflow.com/questions/3068068
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/19573375
+Violation: IncorrectPrecondition, get(1)@filters.containsKey(key) && filters.size() > 0
+Answer Id --- http://stackoverflow.com/questions/16862624
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/13466006
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/16384527
+Violation: IncorrectPrecondition, get(1)@i < len
+Answer Id --- http://stackoverflow.com/questions/8096926
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/33887257
+Violation: IncorrectPrecondition, get(1)@hm.containsKey(intKey) && hm.size() > 0
+Violation: IncorrectPrecondition, get(1)@hm.containsKey(intKey) && hm.size() > 0
+Answer Id --- http://stackoverflow.com/questions/19393918
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/4092681
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/28550353
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/26949172
+Violation: IncorrectPrecondition, get(1)@x < 10 && table.containsKey(numbers[x])
+Answer Id --- http://stackoverflow.com/questions/30844739
+Violation: IncorrectPrecondition, get(1)@!(map.get(key) == value)
+Answer Id --- http://stackoverflow.com/questions/2082174
+Violation: IncorrectPrecondition, get(1)@token == '=' || token == ':'
+Answer Id --- http://stackoverflow.com/questions/15875472
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/25896679
+Violation: IncorrectPrecondition, get(1)@ces.size() > 0 && ce.item2 == null && bom.containsKey(ce.item1)
+Answer Id --- http://stackoverflow.com/questions/16667011
+Violation: IncorrectPrecondition, get(1)@orginalListFromDB.size() > 0 && orginalList.getName().contains(searchKeyword) && hashmap.containsKey(orginalList.getName())
+Answer Id --- http://stackoverflow.com/questions/28157206
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/29572784
+Violation: IncorrectPrecondition, get(1)@counters.containsKey(s) && counters.size() > 0
+Answer Id --- http://stackoverflow.com/questions/34387821
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/34313105
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/21331692
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/22243928
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/34067745
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/15195546
+Violation: IncorrectPrecondition, get(1)@unamePass.get("user1") != null
+Answer Id --- http://stackoverflow.com/questions/16331477
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/20803448
+Violation: IncorrectPrecondition, get(1)@value.size() > 0 && map.containsKey(key) && map.size() > 0
+Answer Id --- http://stackoverflow.com/questions/33064800
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/21020795
+Violation: IncorrectPrecondition, get(1)@ResultList_Services.size() > 0
+Answer Id --- http://stackoverflow.com/questions/15084196
+Violation: IncorrectPrecondition, get(1)@responseMap.containsKey(input)
+Answer Id --- http://stackoverflow.com/questions/29556070
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/19191762
+Violation: IncorrectPrecondition, get(1)@s.size() > 0
+Answer Id --- http://stackoverflow.com/questions/19751948
+Violation: IncorrectPrecondition, get(1)@store.containsKey(id) && store.size() > 0
+Answer Id --- http://stackoverflow.com/questions/10993578
+Violation: IncorrectPrecondition, get(1)@itr.hasNext()
+Answer Id --- http://stackoverflow.com/questions/11974521
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/21017229
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/1101855
+Violation: IncorrectPrecondition, get(1)@i < charz.length
+Answer Id --- http://stackoverflow.com/questions/11867267
+Violation: IncorrectPrecondition, get(1)@colorModel.get(row) != null
+Answer Id --- http://stackoverflow.com/questions/18892428
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/22934193
+Violation: IncorrectPrecondition, get(1)@devices.size() > 0
+Answer Id --- http://stackoverflow.com/questions/36522136
+Violation: IncorrectPrecondition, get(1)@addresses.size() > 0 && domains.containsKey(a)
+Answer Id --- http://stackoverflow.com/questions/29403991
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/9496116
+Violation: IncorrectPrecondition, get(1)@true
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/10314610
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/27506958
+Violation: IncorrectPrecondition, get(1)@(element=br.readLine()) != null && !(graph.containsKey(v_l) == false)
+Answer Id --- http://stackoverflow.com/questions/14577274
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/20770653
+Violation: IncorrectPrecondition, get(1)@myfullvalue.size() > 0
+Answer Id --- http://stackoverflow.com/questions/22913158
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/23947248
+Violation: IncorrectPrecondition, get(1)@data.size() > 0 && cumulative.containsKey(key)
+Answer Id --- http://stackoverflow.com/questions/4914630
+Violation: IncorrectPrecondition, get(1)@array.size() > 0 && charToList.containsKey(firstChar)
+Answer Id --- http://stackoverflow.com/questions/38411865
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/30239295
+Violation: IncorrectPrecondition, get(1)@amount > 0 && coins[n] <= amount && map.containsKey(coins[n])
+Answer Id --- http://stackoverflow.com/questions/27407596
+Violation: IncorrectPrecondition, get(1)@graph.get(v).contains(i)
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/30270677
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/17209722
+Violation: IncorrectPrecondition, get(1)@Values.containsKey(key) && Values.size() > 0
+Answer Id --- http://stackoverflow.com/questions/5602736
+Violation: IncorrectPrecondition, get(1)@i < numbers.length
+Answer Id --- http://stackoverflow.com/questions/17099194
+Violation: IncorrectPrecondition, get(1)@t.hasNext()
+Answer Id --- http://stackoverflow.com/questions/11804010
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/29955545
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/21703928
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/8099350
+Violation: IncorrectPrecondition, get(1)@keySet.size() > 0
+Answer Id --- http://stackoverflow.com/questions/6505225
+Violation: IncorrectPrecondition, get(1)@fib != null && fib.getNodeType() == Node.ELEMENT_NODE
+Answer Id --- http://stackoverflow.com/questions/32820839
+Violation: IncorrectPrecondition, get(1)@splunkHashMap.containsKey(key) && splunkHashMap.size() > 0
+Answer Id --- http://stackoverflow.com/questions/6131260
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/35903292
+Violation: IncorrectPrecondition, get(1)@i < ss.length() && hm.containsKey(c)
+Answer Id --- http://stackoverflow.com/questions/16128659
+Violation: IncorrectPrecondition, get(1)@(line=br.readLine()) != null && map.containsKey(set[0])
+Answer Id --- http://stackoverflow.com/questions/37355777
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/1481966
+Violation: IncorrectPrecondition, get(1)@sslId != null && secrets.containsKey(sslId)
+Answer Id --- http://stackoverflow.com/questions/38240163
+Violation: IncorrectPrecondition, get(1)@hashMap.containsKey(key)
+Answer Id --- http://stackoverflow.com/questions/13635942
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/1144437
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/17110162
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/14851972
+Violation: IncorrectPrecondition, get(1)@(line=br.readLine()) != null
+Answer Id --- http://stackoverflow.com/questions/18993029
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/23486407
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/26315170
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/37905806
+Violation: IncorrectPrecondition, get(1)@h.containsKey(s) && h.size() > 0
+Answer Id --- http://stackoverflow.com/questions/17995206
+Violation: IncorrectPrecondition, get(1)@chars.size() > 0 && countMap.containsKey(aChar)
+Answer Id --- http://stackoverflow.com/questions/22220695
+Violation: IncorrectPrecondition, get(1)@list.containsKey(key) && list.size() > 0
+Answer Id --- http://stackoverflow.com/questions/16743229
+Violation: IncorrectPrecondition, get(1)@idList.size() > 0 && map.containsKey(id)
+Answer Id --- http://stackoverflow.com/questions/8252690
+Violation: IncorrectPrecondition, get(1)@childVaccineListByDate.containsKey(date)
+Answer Id --- http://stackoverflow.com/questions/23473590
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/26277449
+Violation: IncorrectPrecondition, get(1)@contactListad.size() > 0
+Answer Id --- http://stackoverflow.com/questions/17479367
+Violation: IncorrectPrecondition, get(1)@i < numeralStr.length()
+Answer Id --- http://stackoverflow.com/questions/15486966
+Violation: IncorrectPrecondition, get(1)@!(keySet().contains(key)) && aliases.keySet().contains(key) && !(keySet().contains(key))
+Answer Id --- http://stackoverflow.com/questions/32244255
+Violation: IncorrectPrecondition, get(1)@i < arr.length && h.containsKey(arr[i])
+Answer Id --- http://stackoverflow.com/questions/9083496
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/25263242
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/32167679
+Violation: IncorrectPrecondition, get(1)@scan1.hasNext() && i < wordsOfLine.length && wordsOfLine[i] != "" && !(Words.get(word) == null)
+Answer Id --- http://stackoverflow.com/questions/5056933
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/38604313
+Violation: IncorrectPrecondition, get(1)@metaData.containsKey(key) && metaData.size() > 0
+Answer Id --- http://stackoverflow.com/questions/11267291
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/22197507
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/3157613
+Violation: IncorrectPrecondition, get(1)@h.containsKey(key) && h.size() > 0
+Answer Id --- http://stackoverflow.com/questions/31978078
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/35612236
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/17483468
+Violation: IncorrectPrecondition, get(1)@wordcounter.containsKey(s)
+Answer Id --- http://stackoverflow.com/questions/27877450
+Violation: IncorrectPrecondition, get(1)@phoneNumber.containsKey(key)
+Answer Id --- http://stackoverflow.com/questions/35415897
+Violation: IncorrectPrecondition, get(1)@keys.size() > 0
+Answer Id --- http://stackoverflow.com/questions/7602741
+Violation: IncorrectPrecondition, get(1)@i < numarulDeCopii
+Answer Id --- http://stackoverflow.com/questions/12991145
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/225302
+Violation: IncorrectPrecondition, get(1)@map.containsKey(key) && map.size() > 0
+Answer Id --- http://stackoverflow.com/questions/10974693
+Violation: IncorrectPrecondition, get(1)@textFile.size() > 0 && textNames.containsKey(line)
+Answer Id --- http://stackoverflow.com/questions/28270513
+Violation: IncorrectPrecondition, get(1)@cpy.size() > 0
+Answer Id --- http://stackoverflow.com/questions/35546367
+Violation: IncorrectPrecondition, get(1)@itr.hasNext() && map.containsKey(s1.getAge())
+Answer Id --- http://stackoverflow.com/questions/26244878
+Violation: IncorrectPrecondition, get(1)@numberList.size() > 0
+Answer Id --- http://stackoverflow.com/questions/7213319
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/17245327
+Violation: IncorrectPrecondition, get(1)@data1.hasNextInt()
+Answer Id --- http://stackoverflow.com/questions/35219750
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/28596012
+Violation: IncorrectPrecondition, get(1)@h.containsKey(location)
+Answer Id --- http://stackoverflow.com/questions/28090510
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/37352213
+Violation: IncorrectPrecondition, get(1)@tenNumbersArray.size() > 0
+Answer Id --- http://stackoverflow.com/questions/33601111
+Violation: IncorrectPrecondition, get(1)@allNames.size() > 0 && !(firstNamesCount.get(tmp[1]) == null)
+Answer Id --- http://stackoverflow.com/questions/32163854
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/25740495
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/12134901
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/22695764
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/31000013
+Violation: IncorrectPrecondition, get(1)@file_maps.containsKey(name) && file_maps.size() > 0
+Answer Id --- http://stackoverflow.com/questions/6812624
+Violation: IncorrectPrecondition, get(1)@andidateArray.size() > 0 && !(counter.get(can) == null)
+Answer Id --- http://stackoverflow.com/questions/22971760
+Violation: IncorrectPrecondition, get(1)@file.hasNextLine() && words.size() > 0
+Answer Id --- http://stackoverflow.com/questions/834883
+Violation: IncorrectPrecondition, get(1)@parameters.containsKey(key) && parameters.size() > 0
+Answer Id --- http://stackoverflow.com/questions/33987583
+Violation: IncorrectPrecondition, get(1)@hashMap.containsKey(key) && hashMap.size() > 0
+Answer Id --- http://stackoverflow.com/questions/15008085
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/37962230
+Violation: IncorrectPrecondition, get(1)@propertyMapping.containsKey(text)
+Answer Id --- http://stackoverflow.com/questions/23921357
+Violation: IncorrectPrecondition, get(1)@keys.size() > 0
+Answer Id --- http://stackoverflow.com/questions/17259529
+Violation: IncorrectPrecondition, get(1)@i < x.length && j < y.length && y[j].contains(x[i]) && map.get(y[j]) != null
+Answer Id --- http://stackoverflow.com/questions/38215648
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/19198757
+Violation: IncorrectPrecondition, get(1)@map.get("status").equals("fail") && !(id == null)
+Answer Id --- http://stackoverflow.com/questions/12003566
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/21366367
+Violation: IncorrectPrecondition, get(1)@string1.size() > 0
+Answer Id --- http://stackoverflow.com/questions/4582652
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/28442741
+Violation: IncorrectPrecondition, get(1)@!myQ.empty()
+Answer Id --- http://stackoverflow.com/questions/28290465
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/29721533
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/37387956
+Violation: IncorrectPrecondition, get(1)@(input=getConsoleInput("Enter a word: ")) != null
+Answer Id --- http://stackoverflow.com/questions/15866513
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/20836255
+Violation: IncorrectPrecondition, get(1)@cache.containsKey(key)
+Answer Id --- http://stackoverflow.com/questions/38047583
+Violation: IncorrectPrecondition, get(1)@hashmap.containsKey(name) && hashmap.size() > 0
+Answer Id --- http://stackoverflow.com/questions/10493303
+Violation: IncorrectPrecondition, get(1)@routeRs1.next() && !(tags.get(routeRs1.getInt(1)) == null)
+Answer Id --- http://stackoverflow.com/questions/19535664
+Violation: IncorrectPrecondition, get(1)@i < football_club.length && map.containsKey(tempStr)
+Answer Id --- http://stackoverflow.com/questions/20173853
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/31472943
+Violation: IncorrectPrecondition, get(1)@itemMap.containsKey(x)
+Answer Id --- http://stackoverflow.com/questions/16739592
+Violation: IncorrectPrecondition, get(1)@i < array.length && duplicates.containsKey(array[i])
+Answer Id --- http://stackoverflow.com/questions/21299510
+Violation: IncorrectPrecondition, get(1)@came_from.containsKey(current_node)
+Answer Id --- http://stackoverflow.com/questions/27529084
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/13220653
+Violation: IncorrectPrecondition, get(1)@i < pdescriptors.length && !(descriptorName.equals("class"))
+Answer Id --- http://stackoverflow.com/questions/33459423
+Violation: IncorrectPrecondition, get(1)@table.containsKey(key) && table.size() > 0
+Violation: IncorrectPrecondition, get(1)@testCases.size() > 0 && numberAppearance.containsKey(n)
+Answer Id --- http://stackoverflow.com/questions/24392801
+Violation: IncorrectPrecondition, get(1)@valueIt.hasNext() && keyIt.hasNext()
+Answer Id --- http://stackoverflow.com/questions/28196325
+Violation: IncorrectPrecondition, get(1)@i < iterations
+Answer Id --- http://stackoverflow.com/questions/14878335
+Violation: IncorrectPrecondition, get(1)@i <= str.length() && !(!map.containsKey(c[i]))
+Answer Id --- http://stackoverflow.com/questions/10625959
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/25681304
+Violation: IncorrectPrecondition, get(1)@map.containsKey(key) && map.size() > 0
+Answer Id --- http://stackoverflow.com/questions/24354022
+Violation: IncorrectPrecondition, get(1)@itr.hasNext()
+Answer Id --- http://stackoverflow.com/questions/31711244
+Violation: IncorrectPrecondition, get(1)@map.containsKey(n) && !(n < 0)
+Answer Id --- http://stackoverflow.com/questions/26578696
+Violation: IncorrectPrecondition, get(1)@search_results.size() > 0 && my_map_groups_childs.containsKey(type)
+Answer Id --- http://stackoverflow.com/questions/21673083
+Violation: IncorrectPrecondition, get(1)@map1.entrySet().size() > 0 && entry.getValue().size() > 0
+Answer Id --- http://stackoverflow.com/questions/23446100
+Violation: IncorrectPrecondition, get(1)@map.containsKey(aString)
+Answer Id --- http://stackoverflow.com/questions/18376661
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/35568628
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/38813866
+Violation: IncorrectPrecondition, get(1)@i < length
+Answer Id --- http://stackoverflow.com/questions/18548283
+Violation: IncorrectPrecondition, get(1)@playerFromintent.size() > 0
+Answer Id --- http://stackoverflow.com/questions/38589507
+Violation: IncorrectPrecondition, get(1)@true && !(!images.containsKey(en))
+Answer Id --- http://stackoverflow.com/questions/37853570
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/35098390
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/22575653
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/21512031
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/28435220
+Violation: IncorrectPrecondition, get(1)@indexMap.containsKey(key)
+Answer Id --- http://stackoverflow.com/questions/16798257
+Violation: IncorrectPrecondition, get(1)@images.containsKey(image)
+Answer Id --- http://stackoverflow.com/questions/35037543
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/8276664
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/30876986
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/15460943
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/37184937
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/31334422
+Violation: IncorrectPrecondition, get(1)@myNeighbors.containsKey(key) && myNeighbors.size() > 0
+Answer Id --- http://stackoverflow.com/questions/33368249
+Violation: IncorrectPrecondition, get(1)@i < str.length() && hashMap.containsKey(str.charAt(i))
+Answer Id --- http://stackoverflow.com/questions/20705654
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/1138961
+Violation: IncorrectPrecondition, get(1)@map.containsKey(key) && map.size() > 0
+Answer Id --- http://stackoverflow.com/questions/23064919
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/29252749
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/33200312
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/22961195
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/21656040
+Violation: IncorrectPrecondition, get(1)@inner.size() > 0
+Answer Id --- http://stackoverflow.com/questions/1651416
+Violation: IncorrectPrecondition, get(1)@i < loopCount
+Answer Id --- http://stackoverflow.com/questions/15550793
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/10229046
+Violation: IncorrectPrecondition, get(1)@qualifiedStudents.containsKey(course) && qualifiedStudents.size() > 0 && qualifiedStudents.get(course).contains(studentName)
+Answer Id --- http://stackoverflow.com/questions/38590430
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/26343455
+Violation: IncorrectPrecondition, get(1)@list.size() > 0 && statsList.containsKey(statsStr)
+Answer Id --- http://stackoverflow.com/questions/35128514
+Violation: IncorrectPrecondition, get(1)@a.size() > 0
+Answer Id --- http://stackoverflow.com/questions/14954040
+Violation: IncorrectPrecondition, get(1)@elements.containsKey(index) && !(index < 0 || index >= size)
+Answer Id --- http://stackoverflow.com/questions/10903612
+Violation: IncorrectPrecondition, get(1)@new LinkedList<E>(contents.containsKey(e) && new LinkedList<E>(contents.size() > 0 && !c.contains(e) && !(this == c)
+Answer Id --- http://stackoverflow.com/questions/23162693
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/8363074
+Violation: IncorrectPrecondition, get(1)@_registeredEvents.containsKey(instance.getClass())
+Answer Id --- http://stackoverflow.com/questions/30516018
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/25757602
+Violation: IncorrectPrecondition, get(1)@i < table.length
+Answer Id --- http://stackoverflow.com/questions/30983616
+Violation: IncorrectPrecondition, get(1)@i < args.length && args[i].toLowerCase().startsWith("var:") && parts.length == 2 && variableMap.containsKey(parts[1])
+Answer Id --- http://stackoverflow.com/questions/15058551
+Violation: IncorrectPrecondition, get(1)@A.size() > 0
+Answer Id --- http://stackoverflow.com/questions/20701027
+Violation: IncorrectPrecondition, get(1)@products.size() > 0 && dates.size() > 0
+Answer Id --- http://stackoverflow.com/questions/33205001
+Violation: IncorrectPrecondition, get(1)@myPhrase.size() > 0 && myWordsCount.containsKey(s)
+Answer Id --- http://stackoverflow.com/questions/25121667
+Violation: IncorrectPrecondition, get(1)@i < args.length && !(args[i].startsWith("-"))
+Answer Id --- http://stackoverflow.com/questions/37790411
+Violation: IncorrectPrecondition, get(1)@hashMap.containsKey(key) && hashMap.size() > 0 && !result.containsKey(hashMap.get(key))
+Answer Id --- http://stackoverflow.com/questions/29417844
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/13650995
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/14114827
+Violation: IncorrectPrecondition, get(1)@iterator.hasNext() && newLetters.contains(next)
+Answer Id --- http://stackoverflow.com/questions/34993215
+Violation: IncorrectPrecondition, get(1)@t-- > 0 && m-- > 0 && node.get(x) == null
+Answer Id --- http://stackoverflow.com/questions/10416790
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/4785346
+Violation: IncorrectPrecondition, get(1)@cacheMap.containsKey(key)
+Answer Id --- http://stackoverflow.com/questions/23235563
+Violation: IncorrectPrecondition, get(1)@keySet.size() > 0
+Answer Id --- http://stackoverflow.com/questions/39287674
+Violation: IncorrectPrecondition, get(1)@rs.next()
+Answer Id --- http://stackoverflow.com/questions/18733797
+Violation: IncorrectPrecondition, get(1)@mylist.size() > 0
+Answer Id --- http://stackoverflow.com/questions/34478845
+Violation: IncorrectPrecondition, get(1)@i < romanNumeral.length()
+Answer Id --- http://stackoverflow.com/questions/2647265
+Violation: IncorrectPrecondition, get(1)@counters.contains(newEl)
+Answer Id --- http://stackoverflow.com/questions/34394937
+Violation: IncorrectPrecondition, get(1)@outlines.size() > 0
+Answer Id --- http://stackoverflow.com/questions/12916044
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/6877705
+Violation: IncorrectPrecondition, get(1)@strings.size() > 0
+Answer Id --- http://stackoverflow.com/questions/27791630
+Violation: IncorrectPrecondition, get(1)@!(m.get(from) == null)
+Answer Id --- http://stackoverflow.com/questions/23888793
+Violation: IncorrectPrecondition, get(1)@list.size() > 0 && nWords.containsKey(s) && !(nWords.containsKey(word))
+Answer Id --- http://stackoverflow.com/questions/34989775
+Violation: IncorrectPrecondition, get(1)@keys.size() > 0
+Answer Id --- http://stackoverflow.com/questions/32508229
+Violation: IncorrectPrecondition, get(1)@!(startPos >= endPos) && !(startPos >= endPos)
+Answer Id --- http://stackoverflow.com/questions/11246420
+Violation: IncorrectPrecondition, get(1)@valueIt.hasNext() && keyIt.hasNext()
+Answer Id --- http://stackoverflow.com/questions/5203323
+Violation: IncorrectPrecondition, get(1)@i < 10
+Answer Id --- http://stackoverflow.com/questions/9845277
+Violation: IncorrectPrecondition, get(1)@REMOVABLE.contains(chunk_type) && !(signature != SIGNATURE) && !((readInt(is) != 13) || (readInt(is) != IHDR))
+Answer Id --- http://stackoverflow.com/questions/22828078
+Violation: IncorrectPrecondition, get(1)@splittedSentence.size() > 0 && wordmap.get(word) != null
+Answer Id --- http://stackoverflow.com/questions/13616116
+Violation: IncorrectPrecondition, get(1)@query.next() && !queues.isEmpty() && queues.containsKey(query.getString("NAME"))
+Answer Id --- http://stackoverflow.com/questions/8495996
+Violation: IncorrectPrecondition, get(1)@scan.hasNext()
+Answer Id --- http://stackoverflow.com/questions/26122667
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/27565364
+Violation: IncorrectPrecondition, get(1)@s.split(" ").size() > 0 && map.containsKey(key)
+Answer Id --- http://stackoverflow.com/questions/37570352
+Violation: IncorrectPrecondition, get(1)@i < test.length && map.containsKey(test[i].charAt(0))
+Answer Id --- http://stackoverflow.com/questions/12856256
+Violation: IncorrectPrecondition, get(1)@it.hasNext()
+Answer Id --- http://stackoverflow.com/questions/6610014
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/29100943
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/25829078
+Violation: IncorrectPrecondition, get(1)@i < n
+Answer Id --- http://stackoverflow.com/questions/12367255
+Violation: IncorrectPrecondition, get(1)@pos < string.length() && sublen < string.length - pos
+Answer Id --- http://stackoverflow.com/questions/28882405
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/4163286
+Violation: IncorrectPrecondition, get(1)@iter.hasNext()
+Violation: IncorrectPrecondition, get(1)@tokens.length > 1 && i < tokens.length
+Answer Id --- http://stackoverflow.com/questions/27857694
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/35210427
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/15647703
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/393970
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/24066771
+Violation: IncorrectPrecondition, get(1)@!(eName.equalsIgnoreCase("FIELD")) && eName.equalsIgnoreCase("ROW") && itFields.hasNext()
+Answer Id --- http://stackoverflow.com/questions/25460708
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/27342263
+Violation: IncorrectPrecondition, get(1)@mEvents.size() > 0
+Answer Id --- http://stackoverflow.com/questions/19193662
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/36279533
+Violation: IncorrectPrecondition, get(1)@keySetIterator.hasNext() && !(nextValue == null || nextValue == "" || nextValue.isEmpty())
+Answer Id --- http://stackoverflow.com/questions/14162860
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/27731644
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/4775167
+Violation: IncorrectPrecondition, get(1)@i < children.getLength() && !(child instanceof Text) && child instanceof Element
+Answer Id --- http://stackoverflow.com/questions/27238213
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/16326374
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/16961572
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/6610149
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/5693714
+Violation: IncorrectPrecondition, get(1)@i < original.length() && map.containsKey(ch)
+Answer Id --- http://stackoverflow.com/questions/29532863
+Violation: IncorrectPrecondition, get(1)@tokenizer.hasMoreTokens()
+Answer Id --- http://stackoverflow.com/questions/20878808
+Violation: IncorrectPrecondition, get(1)@multiMap.containsKey(checker)
+Answer Id --- http://stackoverflow.com/questions/7841375
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/7589539
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/31193568
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/17999959
+Violation: IncorrectPrecondition, get(1)@ohm.containsKey(insertStr)
+Answer Id --- http://stackoverflow.com/questions/22875644
+Violation: IncorrectPrecondition, get(1)@(infile.ready()) && !(histogram.get(word) == null)
+Answer Id --- http://stackoverflow.com/questions/27518522
+Violation: IncorrectPrecondition, get(1)@words.size() > 0
+Answer Id --- http://stackoverflow.com/questions/6388043
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/4688757
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/29271319
+Violation: IncorrectPrecondition, get(1)@(line=reader.readLine()) != null
+Answer Id --- http://stackoverflow.com/questions/8841713
+Violation: IncorrectPrecondition, get(1)@occurrences.size() > 0
+Answer Id --- http://stackoverflow.com/questions/10279827
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/5959671
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/29618461
+Violation: IncorrectPrecondition, get(1)@readLine()
+Answer Id --- http://stackoverflow.com/questions/30521710
+Violation: IncorrectPrecondition, get(1)@characters.size() > 0
+Answer Id --- http://stackoverflow.com/questions/894097
+Violation: IncorrectPrecondition, get(1)@params.get(name) != null
+Answer Id --- http://stackoverflow.com/questions/106661
+Violation: IncorrectPrecondition, get(1)@map.containsKey(key) && map.size() > 0
+Answer Id --- http://stackoverflow.com/questions/13867449
+Violation: IncorrectPrecondition, get(1)@i < path_info.length
+Answer Id --- http://stackoverflow.com/questions/17036348
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/12824605
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/19870361
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/27434071
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/37972976
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/9583034
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/22221238
+Violation: IncorrectPrecondition, get(1)@bugs.containsKey(key) && bugs.size() > 0
+Answer Id --- http://stackoverflow.com/questions/20374176
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/27754556
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/4208803
+Violation: IncorrectPrecondition, get(1)@it.hasNext() && subnokkel.equals(kode)
+Answer Id --- http://stackoverflow.com/questions/21029350
+Violation: IncorrectPrecondition, get(1)@response.equalsIgnoreCase("Success") && prServices_resultList.size() > 0
+Answer Id --- http://stackoverflow.com/questions/13070434
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/34968977
+Violation: IncorrectPrecondition, get(1)@i < arr.length && hmap.containsKey(arr[i])
+Answer Id --- http://stackoverflow.com/questions/30522039
+Violation: IncorrectPrecondition, get(1)@characters.size() > 0 && map.containsKey(c)
+Answer Id --- http://stackoverflow.com/questions/13333111
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/15922945
+Violation: IncorrectPrecondition, get(1)@System.getProperties().stringPropertyNames().size() > 0 && name.startsWith(logger) && logLevels.containsKey(loggerValue)
+Answer Id --- http://stackoverflow.com/questions/17294597
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/36642084
+Violation: IncorrectPrecondition, get(1)@rs.next()
+Answer Id --- http://stackoverflow.com/questions/5330265
+Violation: IncorrectPrecondition, get(1)@a.size() > 0
+Answer Id --- http://stackoverflow.com/questions/28443091
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/32970294
+Violation: IncorrectPrecondition, get(1)@packageName.size() > 0
+Answer Id --- http://stackoverflow.com/questions/25568845
+Violation: IncorrectPrecondition, get(1)@listMap.size() > 0
+Answer Id --- http://stackoverflow.com/questions/17767560
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/2080499
+Violation: IncorrectPrecondition, get(1)@scanner.hasNext() && split.length == 2
+Answer Id --- http://stackoverflow.com/questions/19435648
+Violation: IncorrectPrecondition, get(1)@array.size() > 0 && iArray.size() > 0 && map.containsKey(element)
+Answer Id --- http://stackoverflow.com/questions/3617254
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/19693106
+Violation: IncorrectPrecondition, get(1)@numberOfBoxes.containsKey(key) && numberOfBoxes.size() > 0
+Answer Id --- http://stackoverflow.com/questions/29741407
+Violation: IncorrectPrecondition, get(1)@M1.containsKey(key) && M1.size() > 0 && M2.containsKey(key)
+Answer Id --- http://stackoverflow.com/questions/37236013
+Violation: IncorrectPrecondition, get(1)@matcher.find()
+Answer Id --- http://stackoverflow.com/questions/21474831
+Violation: IncorrectPrecondition, get(1)@fileCache1.values().size() > 0 && fileCache2.containsKey(key1)
+Answer Id --- http://stackoverflow.com/questions/16746781
+Violation: IncorrectPrecondition, get(1)@listOfList.size() > 0 && list.size() > 0 && map.containsKey(movie)
+Answer Id --- http://stackoverflow.com/questions/16433828
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/5514457
+Violation: IncorrectPrecondition, get(1)@true
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/5761675
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/21851201
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/21212814
+Violation: IncorrectPrecondition, get(1)@I < Total && C.isArray() && ArrayPrimatives.keySet().contains(ComponentType)
+Answer Id --- http://stackoverflow.com/questions/20963086
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/22465881
+Violation: IncorrectPrecondition, get(1)@i < s.length() && hashMap.containsKey(s.charAt(i))
+Answer Id --- http://stackoverflow.com/questions/25699319
+Violation: IncorrectPrecondition, get(1)@data.containsKey(ledgerName)
+Answer Id --- http://stackoverflow.com/questions/10755035
+Violation: IncorrectPrecondition, get(1)@data.size() > 0
+Answer Id --- http://stackoverflow.com/questions/11544452
+Violation: IncorrectPrecondition, get(1)@paragraph.size() > 0 && Character.isLetter(c)
+Answer Id --- http://stackoverflow.com/questions/29373490
+Violation: IncorrectPrecondition, get(1)@i < array.length && hm.get(array[i]) != null
+Answer Id --- http://stackoverflow.com/questions/21946474
+Violation: IncorrectPrecondition, get(1)@keyIterator.hasNext()
+Answer Id --- http://stackoverflow.com/questions/20314325
+Violation: IncorrectPrecondition, get(1)@i < data.length()
+Answer Id --- http://stackoverflow.com/questions/34965345
+Violation: IncorrectPrecondition, get(1)@sheet.size() > 0 && hashMap.containsKey(key)
+Violation: IncorrectPrecondition, get(1)@sheet.size() > 0 && keys.size() > 0 && columnMap.containsKey(key)
+Answer Id --- http://stackoverflow.com/questions/37896608
+Violation: IncorrectPrecondition, get(1)@i < s.length()
+Answer Id --- http://stackoverflow.com/questions/2865562
+Violation: IncorrectPrecondition, get(1)@bcd.size() > 0
+Answer Id --- http://stackoverflow.com/questions/1132465
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/8711370
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/889204
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/31371109
+Violation: IncorrectPrecondition, get(1)@(line=reader.readLine()) != null
+Answer Id --- http://stackoverflow.com/questions/11257329
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/32940033
+Violation: IncorrectPrecondition, get(1)@getDeSerializedFoo().size() > 0 && inMemoryObjects.containsKey(deSerializedFoo.id)
+Answer Id --- http://stackoverflow.com/questions/22006322
+Violation: IncorrectPrecondition, get(1)@hm.containsKey(key) && hm.size() > 0 && time.contains(key)
+Answer Id --- http://stackoverflow.com/questions/25862963
+Violation: IncorrectPrecondition, get(1)@ids.size() > 0
+Answer Id --- http://stackoverflow.com/questions/31275448
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/30407551
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/1497206
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/24059910
+Violation: IncorrectPrecondition, get(1)@map.containsKey(key) && map.size() > 0
+Answer Id --- http://stackoverflow.com/questions/13197020
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/24936799
+Violation: IncorrectPrecondition, get(1)@selectionMap.containsKey(key) && selectionMap.size() > 0
+Answer Id --- http://stackoverflow.com/questions/20845618
+Violation: IncorrectPrecondition, get(1)@s.split("\\s+").size() > 0 && map.containsKey(token)
+Answer Id --- http://stackoverflow.com/questions/9192449
+Violation: IncorrectPrecondition, get(1)@map.get(cont) != null
+Answer Id --- http://stackoverflow.com/questions/24423337
+Violation: IncorrectPrecondition, get(1)@map.containsKey(key) && map.size() > 0
+Answer Id --- http://stackoverflow.com/questions/28206117
+Violation: IncorrectPrecondition, get(1)@i < word.length()
+Answer Id --- http://stackoverflow.com/questions/16077009
+Violation: IncorrectPrecondition, get(1)@i < 4 && j < 4 && k < 4
+Answer Id --- http://stackoverflow.com/questions/33679978
+Violation: IncorrectPrecondition, get(1)@valueIt.hasNext() && keyIt.hasNext()
+Answer Id --- http://stackoverflow.com/questions/27263492
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/26847275
+Violation: IncorrectPrecondition, get(1)@phoneBook.containsKey(variableName) && phoneBook.size() > 0
+Answer Id --- http://stackoverflow.com/questions/28406029
+Violation: IncorrectPrecondition, get(1)@resultSet.size() > 0 && orderEntry instanceof OrderEntryModel
+Answer Id --- http://stackoverflow.com/questions/29551271
+Violation: IncorrectPrecondition, get(1)@dictionary.size() > 0 && hm.containsKey(ps)
+Violation: IncorrectPrecondition, get(1)@dictionary.size() > 0 && hm.containsKey(ps)
+Answer Id --- http://stackoverflow.com/questions/24451615
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/36835135
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/13179247
+Violation: IncorrectPrecondition, get(1)@devices.containsKey(key) && devices.size() > 0
+Answer Id --- http://stackoverflow.com/questions/31329817
+Violation: IncorrectPrecondition, get(1)@(currentLine=br.readLine()) != null && words.size() > 0 && lengthCount.get(word.length()) != null
+Answer Id --- http://stackoverflow.com/questions/16007904
+Violation: IncorrectPrecondition, get(1)@!(tree.size() == 0) && tree.containsKey(o) && tree.size() > 0
+Answer Id --- http://stackoverflow.com/questions/22186678
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/9866263
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/23543471
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/22275814
+Violation: IncorrectPrecondition, get(1)@input.size() > 0 && map.containsKey(str)
+Answer Id --- http://stackoverflow.com/questions/1104852
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/31311582
+Violation: IncorrectPrecondition, get(1)@keys.size() > 0
+Answer Id --- http://stackoverflow.com/questions/29596658
+Violation: IncorrectPrecondition, get(1)@countMap.containsKey(key) && countMap.size() > 0
+Answer Id --- http://stackoverflow.com/questions/14130594
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/35567659
+Violation: IncorrectPrecondition, get(1)@i < inputArray.length && numberMap.containsKey(inputArray[i])
+Answer Id --- http://stackoverflow.com/questions/18965469
+Violation: IncorrectPrecondition, get(1)@items.containsKey(item) && items.size() > 0
+Answer Id --- http://stackoverflow.com/questions/24575417
+Violation: IncorrectPrecondition, get(1)@!(input.charAt(i) == '#')
+Answer Id --- http://stackoverflow.com/questions/29164320
+Violation: IncorrectPrecondition, get(1)@a.size() > 0 && result.containsValue(p.left)
+Answer Id --- http://stackoverflow.com/questions/27189105
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/35947011
+Violation: IncorrectPrecondition, get(1)@i < sale.length
+Answer Id --- http://stackoverflow.com/questions/6210258
+Violation: IncorrectPrecondition, get(1)@preNodes.size() > 0
+Answer Id --- http://stackoverflow.com/questions/11624724
+Violation: IncorrectPrecondition, get(1)@set.size() > 0 && newMap.containsKey(entry.getValue())
+Answer Id --- http://stackoverflow.com/questions/36990254
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/4271888
+Violation: IncorrectPrecondition, get(1)@true
+Violation: IncorrectPrecondition, get(1)@true
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/7540810
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/32887049
+Violation: IncorrectPrecondition, get(1)@sWord.toCharArray().size() > 0 && charCount.containsKey(c)
+Answer Id --- http://stackoverflow.com/questions/3904377
+Violation: IncorrectPrecondition, get(1)@i < count.length
+Answer Id --- http://stackoverflow.com/questions/33578965
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/29588399
+Violation: IncorrectPrecondition, get(1)@i <= map.size() && j <= map.size() && null != nodeValuesMap.get(j)
+Answer Id --- http://stackoverflow.com/questions/29211358
+Violation: IncorrectPrecondition, get(1)@iterator.hasNext() && !(!maps.containsKey(next))
+Answer Id --- http://stackoverflow.com/questions/26277395
+Violation: IncorrectPrecondition, get(1)@contactListad.size() > 0
+Answer Id --- http://stackoverflow.com/questions/11142255
+Violation: IncorrectPrecondition, get(1)@selects.containsKey(key) && selects.size() > 0
+Answer Id --- http://stackoverflow.com/questions/30913734
+Violation: IncorrectPrecondition, get(1)@srcHyper.containsKey(n) && srcHyper.size() > 0
+Answer Id --- http://stackoverflow.com/questions/18019197
+Violation: IncorrectPrecondition, get(1)@arrayList.size() > 0 && !(!map.containsKey(product.getCategory().getName()))
+Answer Id --- http://stackoverflow.com/questions/34285256
+Violation: IncorrectPrecondition, get(1)@nodes.containsKey(signature(element))
+Answer Id --- http://stackoverflow.com/questions/33076719
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/10985217
+Violation: IncorrectPrecondition, get(1)@matcher.find()
+Answer Id --- http://stackoverflow.com/questions/23632190
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/23230594
+Violation: IncorrectPrecondition, get(1)@next < arr.length && !(notTake.contains(arr[next])) && take.contains(arr[next]) && !(last == -1) && !(!map.containsKey(arr[next]))
+Answer Id --- http://stackoverflow.com/questions/31873617
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/35560320
+Violation: IncorrectPrecondition, get(1)@i < string.length() && hm.containsKey(s)
+Answer Id --- http://stackoverflow.com/questions/19460350
+Violation: IncorrectPrecondition, get(1)@checkoutBooks.containsKey(isbn)
+Answer Id --- http://stackoverflow.com/questions/28758479
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/25627897
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/20862608
+Violation: IncorrectPrecondition, get(1)@array.containsKey("Question")
+Answer Id --- http://stackoverflow.com/questions/29308425
+Violation: IncorrectPrecondition, get(1)@bundle != null
+Answer Id --- http://stackoverflow.com/questions/36396777
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/10180275
+Violation: IncorrectPrecondition, get(1)@map.containsKey(key) && map.size() > 0
+Answer Id --- http://stackoverflow.com/questions/2571047
+Violation: IncorrectPrecondition, get(1)@i.hasNext()
+Answer Id --- http://stackoverflow.com/questions/37750790
+Violation: IncorrectPrecondition, get(1)@i < str.length() && Character.isLetter(c)
+Answer Id --- http://stackoverflow.com/questions/31770289
+Violation: IncorrectPrecondition, get(1)@iterator.hasNext()
+Answer Id --- http://stackoverflow.com/questions/20513632
+Violation: IncorrectPrecondition, get(1)@LIST2.size() > 0
+Answer Id --- http://stackoverflow.com/questions/36802370
+Violation: IncorrectPrecondition, get(1)@writers.containsKey(key) && writers.size() > 0 && !(key.equalsIgnoreCase(keyForEachUser)) && !(name == null) && !(input == null)
+Answer Id --- http://stackoverflow.com/questions/27705459
+Violation: IncorrectPrecondition, get(1)@mCursor.moveToNext() && audioFileMap.get("FileName").endsWith(".mp3")
+Answer Id --- http://stackoverflow.com/questions/11212614
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/5057076
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/39293106
+Violation: IncorrectPrecondition, get(1)@i < sequence.length
+Answer Id --- http://stackoverflow.com/questions/19800870
+Violation: IncorrectPrecondition, get(1)@strings.size() > 0 && col < str.length()
+Answer Id --- http://stackoverflow.com/questions/24829627
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/27957037
+Violation: IncorrectPrecondition, get(1)@map.containsKey("speed")
+Answer Id --- http://stackoverflow.com/questions/14014965
+Violation: IncorrectPrecondition, get(1)@peopleList.size() > 0 && input.equals(map.get(KEY_NAME))
+Answer Id --- http://stackoverflow.com/questions/26655086
+Violation: IncorrectPrecondition, get(1)@i < size
+Answer Id --- http://stackoverflow.com/questions/33247564
+Violation: IncorrectPrecondition, get(1)@strChar1.size() > 0 && map.containsKey(c)
+Answer Id --- http://stackoverflow.com/questions/6916838
+Violation: IncorrectPrecondition, get(1)@hashmap.containsKey(name) && hashmap.size() > 0
+Answer Id --- http://stackoverflow.com/questions/21350748
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/3086673
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/36244972
+Violation: IncorrectPrecondition, get(1)@tagStatusMap.containsKey(status)
+Answer Id --- http://stackoverflow.com/questions/22644178
+Violation: IncorrectPrecondition, get(1)@sc.hasNextLine()
+Answer Id --- http://stackoverflow.com/questions/8179466
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/37236219
+Violation: IncorrectPrecondition, get(1)@m.find() && conv.containsKey(m.group(0))
+Answer Id --- http://stackoverflow.com/questions/20540454
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/35657369
+Violation: IncorrectPrecondition, get(1)@hm.containsKey(name)
+Answer Id --- http://stackoverflow.com/questions/30931442
+Violation: IncorrectPrecondition, get(1)@null != str && it.hasNext()
+Answer Id --- http://stackoverflow.com/questions/23410737
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/29946466
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/30957405
+Violation: IncorrectPrecondition, get(1)@x.size() > 0 && digits.containsKey(i)
+Answer Id --- http://stackoverflow.com/questions/20423653
+Violation: IncorrectPrecondition, get(1)@myHashMap.containsKey(i) && myHashMap.size() > 0
+Answer Id --- http://stackoverflow.com/questions/19816131
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/32400934
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/804038
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/33894562
+Violation: IncorrectPrecondition, get(1)@true
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/7786718
+Violation: IncorrectPrecondition, get(1)@listOfMaps.size() > 0
+Answer Id --- http://stackoverflow.com/questions/29408050
+Violation: IncorrectPrecondition, get(1)@profileTimes.get(key) != null
+Answer Id --- http://stackoverflow.com/questions/30247130
+Violation: IncorrectPrecondition, get(1)@words.containsKey(word)
+Answer Id --- http://stackoverflow.com/questions/20257758
+Violation: IncorrectPrecondition, get(1)@map.containsKey(refId)
+Answer Id --- http://stackoverflow.com/questions/35928253
+Violation: IncorrectPrecondition, get(1)@records.size() > 0
+Answer Id --- http://stackoverflow.com/questions/7149768
+Violation: IncorrectPrecondition, get(1)@POIS.size() > 0
+Answer Id --- http://stackoverflow.com/questions/31829153
+Violation: IncorrectPrecondition, get(1)@keySet.size() > 0
+Answer Id --- http://stackoverflow.com/questions/20949485
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/21649848
+Violation: IncorrectPrecondition, get(1)@list.size() > 0
+Answer Id --- http://stackoverflow.com/questions/39064586
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/29725361
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/11498464
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/21660287
+Violation: IncorrectPrecondition, get(1)@itrs.hasNext()
+Answer Id --- http://stackoverflow.com/questions/30247195
+Violation: IncorrectPrecondition, get(1)@i < words.length && j < w.length() && characterCount.containsKey(character)
+Answer Id --- http://stackoverflow.com/questions/36392750
+Violation: IncorrectPrecondition, get(1)@rolls < 360000 && frequencies.containsKey(result)
+Answer Id --- http://stackoverflow.com/questions/11171386
+Violation: IncorrectPrecondition, get(1)@itr.hasNext()
+Answer Id --- http://stackoverflow.com/questions/3649495
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/27378976
+Violation: IncorrectPrecondition, get(1)@i < word.length() && node.containsKey(currentLetter)
+Answer Id --- http://stackoverflow.com/questions/276653
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/7301919
+Violation: IncorrectPrecondition, get(1)@i < result.length
+Answer Id --- http://stackoverflow.com/questions/6841120
+Violation: IncorrectPrecondition, get(1)@chars.size() > 0 && charMap.containsKey(c)
+Answer Id --- http://stackoverflow.com/questions/9583087
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/20408980
+Violation: IncorrectPrecondition, get(1)@lst.size() > 0 && map.containsKey((Integer)objects[0])
+Violation: IncorrectPrecondition, get(1)@lst.size() > 0 && map.containsKey((Integer)objects[0])
+Answer Id --- http://stackoverflow.com/questions/8363592
+Violation: IncorrectPrecondition, get(1)@i < n && numberMap.containsKey(numToAdd)
+Answer Id --- http://stackoverflow.com/questions/24639158
+Violation: IncorrectPrecondition, get(1)@i < rNum.length() && i < rNum.length() - 1 && r2A.containsKey(part)
+Answer Id --- http://stackoverflow.com/questions/17795643
+Violation: IncorrectPrecondition, get(1)@map2.containsKey(blob)
+Answer Id --- http://stackoverflow.com/questions/32940175
+Violation: IncorrectPrecondition, get(1)@params.containsKey(key) && params.size() > 0 && encode
+Answer Id --- http://stackoverflow.com/questions/17566668
+Violation: IncorrectPrecondition, get(1)@petObjectList.size() > 0
+Answer Id --- http://stackoverflow.com/questions/28633164
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/22118840
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/36399953
+Violation: IncorrectPrecondition, get(1)@!(!countDfIndex.containsKey(word))
+Answer Id --- http://stackoverflow.com/questions/8273415
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/10950073
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/34093214
+Violation: IncorrectPrecondition, get(1)@i < fileArr.length
+Answer Id --- http://stackoverflow.com/questions/28957928
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/33640413
+Violation: IncorrectPrecondition, get(1)@b.entrySet().size() > 0
+Answer Id --- http://stackoverflow.com/questions/16104612
+Violation: IncorrectPrecondition, get(1)@i < output.length
+Answer Id --- http://stackoverflow.com/questions/21352271
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/13250342
+Violation: IncorrectPrecondition, get(1)@menuItems.size() > 0
+Answer Id --- http://stackoverflow.com/questions/22869020
+Violation: IncorrectPrecondition, get(1)@e.getSource() == Start
+Answer Id --- http://stackoverflow.com/questions/12263781
+Violation: IncorrectPrecondition, get(1)@listeners.containsKey(type) && listeners.size() > 0
+Answer Id --- http://stackoverflow.com/questions/36226337
+Violation: IncorrectPrecondition, get(1)@i < list.getModel().getSize() && strMap.containsKey(item)
+Answer Id --- http://stackoverflow.com/questions/7115485
+Violation: IncorrectPrecondition, get(1)@i < runs && j < test
+Answer Id --- http://stackoverflow.com/questions/27939991
+Violation: IncorrectPrecondition, get(1)@row <= maxRow && column <= maxColumn
+Answer Id --- http://stackoverflow.com/questions/9212603
+Violation: IncorrectPrecondition, get(1)@all_persons.size() > 0 && p.emails.size() > 0
+Answer Id --- http://stackoverflow.com/questions/25759101
+Violation: IncorrectPrecondition, get(1)@i.hasNext()
+Answer Id --- http://stackoverflow.com/questions/17688422
+Violation: IncorrectPrecondition, get(1)@true
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/2832919
+Violation: IncorrectPrecondition, get(1)@subscribers.containsKey(key)
+Answer Id --- http://stackoverflow.com/questions/17812555
+Violation: IncorrectPrecondition, get(1)@keyIter.hasNext()
+Answer Id --- http://stackoverflow.com/questions/19857682
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/18242958
+Violation: IncorrectPrecondition, get(1)@reader.hasNext() && reader.hasNext() && reader.hasNext() && reader.hasNext() && reader.hasNext() && reader.hasNext()
+Answer Id --- http://stackoverflow.com/questions/3849933
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/10742537
+Violation: IncorrectPrecondition, get(1)@cache.containsKey(url)
+Answer Id --- http://stackoverflow.com/questions/20391805
+Violation: IncorrectPrecondition, get(1)@map.containsKey(currentKey) && map.size() > 0 && map.containsKey(val)
+Answer Id --- http://stackoverflow.com/questions/19826301
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/15213550
+Violation: IncorrectPrecondition, get(1)@i < pixels.length && map.containsKey(pixels[i])
+Answer Id --- http://stackoverflow.com/questions/25122117
+Violation: IncorrectPrecondition, get(1)@args.size() > 0
+Answer Id --- http://stackoverflow.com/questions/13717872
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/35620039
+Violation: IncorrectPrecondition, get(1)@records.size() > 0 && !(!mapDatesToIPs.containsKey(dates)) && mapDatesToIPs.containsKey(dates)
+Answer Id --- http://stackoverflow.com/questions/24033292
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/38900851
+Violation: IncorrectPrecondition, get(1)@roundEnv.getElementsAnnotatedWith(Overload.class).size() > 0
+Answer Id --- http://stackoverflow.com/questions/6375474
+Violation: IncorrectPrecondition, get(1)@rows.size() > 0 && row.containsKey(key) && row.size() > 0
+Answer Id --- http://stackoverflow.com/questions/7048628
+Violation: IncorrectPrecondition, get(1)@i < str.length() && map.containsKey(c)
+Answer Id --- http://stackoverflow.com/questions/20745080
+Violation: IncorrectPrecondition, get(1)@i < sz
+Answer Id --- http://stackoverflow.com/questions/35391657
+Violation: IncorrectPrecondition, get(1)@transformMap.containsKey(c) && !(index == s.length())
+Answer Id --- http://stackoverflow.com/questions/22342132
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/28637588
+Violation: IncorrectPrecondition, get(1)@multivalueHashMap.containsKey(key)
+Answer Id --- http://stackoverflow.com/questions/9707090
+Violation: IncorrectPrecondition, get(1)@inStock.entrySet().size() > 0
+Answer Id --- http://stackoverflow.com/questions/33403872
+Violation: IncorrectPrecondition, get(1)@Bukkit.getOnlinePlayers().size() > 0
+Answer Id --- http://stackoverflow.com/questions/10188792
+Violation: IncorrectPrecondition, get(1)@i < chars.length
+Answer Id --- http://stackoverflow.com/questions/34103848
+Violation: IncorrectPrecondition, get(1)@values.size() > 0 && keyStr.toLowerCase().startsWith("city|") && cityCount.containsKey(tokens[1])
+Answer Id --- http://stackoverflow.com/questions/17705597
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/25399188
+Violation: IncorrectPrecondition, get(1)@params.get(name) != null
+Answer Id --- http://stackoverflow.com/questions/14688099
+Violation: IncorrectPrecondition, get(1)@true
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/1861874
+Violation: IncorrectPrecondition, get(1)@this.FooList.size() > 0 && !(!map.containsKey(bar.getName()))
+Violation: IncorrectPrecondition, get(1)@this.FooList.size() > 0 && !(!map.containsKey(bar.getName()))
+Answer Id --- http://stackoverflow.com/questions/20450235
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/32313390
+Violation: IncorrectPrecondition, get(1)@asList.size() > 0 && map.containsKey(s)
+Answer Id --- http://stackoverflow.com/questions/962755
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/17631021
+Violation: IncorrectPrecondition, get(1)@i < crr_array.length && repetitions.containsKey(item)
+Answer Id --- http://stackoverflow.com/questions/25952073
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/30133030
+Violation: IncorrectPrecondition, get(1)@i < st.length()
+Answer Id --- http://stackoverflow.com/questions/37487477
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/12412010
+Violation: IncorrectPrecondition, get(1)@i < runs
+Answer Id --- http://stackoverflow.com/questions/28560373
+Violation: IncorrectPrecondition, get(1)@(line=br.readLine()) != null
+Answer Id --- http://stackoverflow.com/questions/27406704
+Violation: IncorrectPrecondition, get(1)@rows.size() > 0
+Answer Id --- http://stackoverflow.com/questions/21593268
+Violation: IncorrectPrecondition, get(1)@y < image.getHeight() && x < image.getWidth()
+Answer Id --- http://stackoverflow.com/questions/33313259
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/29819812
+Violation: IncorrectPrecondition, get(1)@a.size() > 0 && map.containsKey(x)
+Answer Id --- http://stackoverflow.com/questions/34145783
+Violation: IncorrectPrecondition, get(1)@loop && current > 0 && current < 51 && numbers.containsKey(current)
+Answer Id --- http://stackoverflow.com/questions/39190514
+Violation: IncorrectPrecondition, get(1)@list.size() > 0 && map.containsKey(key) && map.size() > 0
+Violation: IncorrectPrecondition, get(1)@list.size() > 0 && map.containsKey(key) && map.size() > 0
+Answer Id --- http://stackoverflow.com/questions/21176395
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/19037391
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/119362
+Violation: IncorrectPrecondition, get(1)@i < runs && !(i < runs && j < iterations && l != file.length())
+Answer Id --- http://stackoverflow.com/questions/24237904
+Violation: IncorrectPrecondition, get(1)@list.size() > 0 && entry.containsKey(key) && entry.size() > 0 && "Kids".equals(key)
+Answer Id --- http://stackoverflow.com/questions/22314273
+Violation: IncorrectPrecondition, get(1)@cList.size() > 0
+Answer Id --- http://stackoverflow.com/questions/29689729
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/8264747
+Violation: IncorrectPrecondition, get(1)@values.size() > 0
+Answer Id --- http://stackoverflow.com/questions/38293378
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/15400846
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/18100878
+Violation: IncorrectPrecondition, get(1)@one.length() == two.length() && s0.toCharArray().size() > 0
+Answer Id --- http://stackoverflow.com/questions/16188281
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/10426808
+Violation: IncorrectPrecondition, get(1)@path.split("/").size() > 0 && e.length() > 0
+Answer Id --- http://stackoverflow.com/questions/29717344
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/16816137
+Violation: IncorrectPrecondition, get(1)@myEmpls.size() > 0 && finalmap.containsKey(obj.getEmpcode())
+Answer Id --- http://stackoverflow.com/questions/35388046
+Violation: IncorrectPrecondition, get(1)@hand.size() > 0 && counts.containsKey(i)
+Answer Id --- http://stackoverflow.com/questions/35458804
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/13923620
+Violation: IncorrectPrecondition, get(1)@i < c.length && letterCountMap.containsKey(c[i])
+Answer Id --- http://stackoverflow.com/questions/6076126
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/15578961
+Violation: IncorrectPrecondition, get(1)@chars.toCharArray().size() > 0 && charCountMap.containsKey(c)
+Answer Id --- http://stackoverflow.com/questions/35235371
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/16378053
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/10339404
+Violation: IncorrectPrecondition, get(1)@true && !(logDir == null || logFileName == null || logDir.isEmpty() || logFileName.isEmpty())
+Answer Id --- http://stackoverflow.com/questions/992020
+Violation: IncorrectPrecondition, get(1)@iterator.hasNext()
+Answer Id --- http://stackoverflow.com/questions/8634645
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/22906384
+Violation: IncorrectPrecondition, get(1)@true
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/18589332
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/22033695
+Violation: IncorrectPrecondition, get(1)@data.size() > 0
+Answer Id --- http://stackoverflow.com/questions/34412095
+Violation: IncorrectPrecondition, get(1)@i >= 0
+Answer Id --- http://stackoverflow.com/questions/28890831
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/23198525
+Violation: IncorrectPrecondition, get(1)@!(hm.get(hd) == null) && !(root == null)
+Answer Id --- http://stackoverflow.com/questions/21926604
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/26595917
+Violation: IncorrectPrecondition, get(1)@ProductEntities != null && ProductEntities.size() > 0
+Answer Id --- http://stackoverflow.com/questions/8454952
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/32365184
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/20573682
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/9489704
+Violation: IncorrectPrecondition, get(1)@true && !(!cache.containsKey(id))
+Answer Id --- http://stackoverflow.com/questions/18105698
+Violation: IncorrectPrecondition, get(1)@!(isSelected)
+Answer Id --- http://stackoverflow.com/questions/16939413
+Violation: IncorrectPrecondition, get(1)@list.size() > 0 && !map.containsKey("value")
+Answer Id --- http://stackoverflow.com/questions/11822602
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/7060739
+Violation: IncorrectPrecondition, get(1)@!(!_cache.containsKey(key))
+Answer Id --- http://stackoverflow.com/questions/14135729
+Violation: IncorrectPrecondition, get(1)@fakeGetItems.size() > 0
+Answer Id --- http://stackoverflow.com/questions/21727418
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/29541739
+Violation: IncorrectPrecondition, get(1)@ColumnArray.size() > 0
+Answer Id --- http://stackoverflow.com/questions/17689287
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/29888921
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/2395787
+Violation: IncorrectPrecondition, get(1)@it.hasNext()
+Answer Id --- http://stackoverflow.com/questions/8645015
+Violation: IncorrectPrecondition, get(1)@itr.hasNext()
+Answer Id --- http://stackoverflow.com/questions/4268043
+Violation: IncorrectPrecondition, get(1)@i < x + 2 && j < y + 2
+Answer Id --- http://stackoverflow.com/questions/27437948
+Violation: IncorrectPrecondition, get(1)@i < 50 && map.containsKey(input)
+Answer Id --- http://stackoverflow.com/questions/21591084
+Violation: IncorrectPrecondition, get(1)@i < stringArray.size() && !(!indexMap.containsKey(s))
+Answer Id --- http://stackoverflow.com/questions/11010005
+Violation: IncorrectPrecondition, get(1)@playListSongs.size() > 0 && duplicateTracker.containsKey(hashMap.get(KEY_ARTIST)) == false
+Violation: IncorrectPrecondition, get(1)@playListSongs.size() > 0 && hashMap.get(KEY_ARTIST).equals(artist)
+Answer Id --- http://stackoverflow.com/questions/8580338
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/29285744
+Violation: IncorrectPrecondition, get(1)@i <= 1000000
+Answer Id --- http://stackoverflow.com/questions/28943093
+Violation: IncorrectPrecondition, get(1)@i <= 9 && digits.get((char)i + 48) > returnValue[1]
+Answer Id --- http://stackoverflow.com/questions/22326171
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/34487601
+Violation: IncorrectPrecondition, get(1)@list.size() > 0
+Violation: IncorrectPrecondition, get(1)@list.size() > 0
+Answer Id --- http://stackoverflow.com/questions/31166720
+Violation: IncorrectPrecondition, get(1)@current_rank < k && child.containsKey(c) && child.get(c).count + current_rank < k
+Answer Id --- http://stackoverflow.com/questions/5430409
+Violation: IncorrectPrecondition, get(1)@map.containsKey(option) && map.size() > 0 && optionIsTrue(option)
+Answer Id --- http://stackoverflow.com/questions/2753730
+Violation: IncorrectPrecondition, get(1)@fontmetrics.containsKey(font)
+Answer Id --- http://stackoverflow.com/questions/5761717
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/2967384
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/26358403
+Violation: IncorrectPrecondition, get(1)@numbers.size() > 0 && map.containsKey(sum - i)
+Answer Id --- http://stackoverflow.com/questions/33214495
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/19948067
+Violation: IncorrectPrecondition, get(1)@persons.size() > 0 && !(!map.contains(p.dob + p.contactNo + g_opp))
+Answer Id --- http://stackoverflow.com/questions/23036796
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/23225874
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/15738711
+Violation: IncorrectPrecondition, get(1)@!(!map.containsKey(key))
+Answer Id --- http://stackoverflow.com/questions/22948936
+Violation: IncorrectPrecondition, get(1)@i < NUM_ITERATIONS && sArr.size() > 0
+Answer Id --- http://stackoverflow.com/questions/22982298
+Violation: IncorrectPrecondition, get(1)@handlers.containsKey(id) && handlers.size() > 0
+Answer Id --- http://stackoverflow.com/questions/959776
+Violation: IncorrectPrecondition, get(1)@matcher.find()
+Answer Id --- http://stackoverflow.com/questions/29138770
+Violation: IncorrectPrecondition, get(1)@products.size() > 0 && mergedProducts.containsKey(product.getCategory())
+Answer Id --- http://stackoverflow.com/questions/222361
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/28429891
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/26954049
+Violation: IncorrectPrecondition, get(1)@check(s)
+Answer Id --- http://stackoverflow.com/questions/10094297
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/23772103
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/7121258
+Violation: IncorrectPrecondition, get(1)@numberList.size() > 0
+Answer Id --- http://stackoverflow.com/questions/23812977
+Violation: IncorrectPrecondition, get(1)@directory.listFiles().size() > 0 && wordsInFile.split(" ").size() > 0 && strippedWord.length() > 0 && wordCountMap.containsKey(strippedWord)
+Answer Id --- http://stackoverflow.com/questions/23356167
+Violation: IncorrectPrecondition, get(1)@i < number.length()
+Answer Id --- http://stackoverflow.com/questions/20850954
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/30009753
+Violation: IncorrectPrecondition, get(1)@thisLine != null
+Answer Id --- http://stackoverflow.com/questions/30161963
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/8862211
+Violation: IncorrectPrecondition, get(1)@tok.nextToken() != StreamTokenizer.TT_EOF && vars.containsKey(s)
+Answer Id --- http://stackoverflow.com/questions/30948184
+Violation: IncorrectPrecondition, get(1)@units.size() > 0 && unit.containsKey(key) && unit.size() > 0
+Answer Id --- http://stackoverflow.com/questions/10394638
+Violation: IncorrectPrecondition, get(1)@true && !(key == null)
+Answer Id --- http://stackoverflow.com/questions/18123342
+Violation: IncorrectPrecondition, get(1)@arr.size() > 0
+Answer Id --- http://stackoverflow.com/questions/19460269
+Violation: IncorrectPrecondition, get(1)@checkoutBooks.containsKey(isbn)
+Answer Id --- http://stackoverflow.com/questions/6783391
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/4460467
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/33188200
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/31235362
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/27678965
+Violation: IncorrectPrecondition, get(1)@y <= maxY - minY && x <= x1
+Answer Id --- http://stackoverflow.com/questions/5709265
+Violation: IncorrectPrecondition, get(1)@KNOWNCOLORS.containsKey(name) && KNOWNCOLORS.size() > 0
+Answer Id --- http://stackoverflow.com/questions/34552675
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/28989467
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/31355664
+Violation: IncorrectPrecondition, get(1)@list.size() > 0
+Answer Id --- http://stackoverflow.com/questions/960831
+Violation: IncorrectPrecondition, get(1)@dictMap.containsKey(dictCode)
+Answer Id --- http://stackoverflow.com/questions/26205211
+Violation: IncorrectPrecondition, get(1)@dataMap.containsKey(s) && dataMap.size() > 0 && s.equalsIgnoreCase(key)
+Answer Id --- http://stackoverflow.com/questions/35417173
+Violation: IncorrectPrecondition, get(1)@memoisation_table.containsKey(n - 1) && !(n == 0) && !(n == 1)
+Answer Id --- http://stackoverflow.com/questions/33541837
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/27956889
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/28799125
+Violation: IncorrectPrecondition, get(1)@normalTitles.size() > 0
+Answer Id --- http://stackoverflow.com/questions/32154626
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/11259141
+Violation: IncorrectPrecondition, get(1)@myList.size() > 0 && map.containsKey(str) && map.size() > 0
+Answer Id --- http://stackoverflow.com/questions/17212455
+Violation: IncorrectPrecondition, get(1)@i < tbNumbers.getRowCount()
+Answer Id --- http://stackoverflow.com/questions/23135839
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/19163568
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/9145440
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/491319
+Violation: IncorrectPrecondition, get(1)@(line=input.readLine()) != null && words.size() > 0
+Answer Id --- http://stackoverflow.com/questions/26971027
+Violation: IncorrectPrecondition, get(1)@i < resultJsonArray.length() && floorMap.containsKey(resultJsonArray.getJSONObject(i).getString("Floor"))
+Answer Id --- http://stackoverflow.com/questions/10309797
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/33266475
+Violation: IncorrectPrecondition, get(1)@rs.next() && results.containsKey(user.getUsername())
+Answer Id --- http://stackoverflow.com/questions/13407197
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/20802471
+Violation: IncorrectPrecondition, get(1)@i < adapter.getCount()
+Answer Id --- http://stackoverflow.com/questions/8591894
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/2457035
+Violation: IncorrectPrecondition, get(1)@!same.isEmpty() && same.size() > 0
+Answer Id --- http://stackoverflow.com/questions/4054711
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/37066844
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/15057662
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/38539461
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/31199219
+Violation: IncorrectPrecondition, get(1)@array.size() > 0
+Answer Id --- http://stackoverflow.com/questions/36485683
+Violation: IncorrectPrecondition, get(1)@params.containsKey(key) && params.size() > 0
+Answer Id --- http://stackoverflow.com/questions/33673025
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/22755502
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/35034404
+Violation: IncorrectPrecondition, get(1)@i < V
+Answer Id --- http://stackoverflow.com/questions/21584867
+Violation: IncorrectPrecondition, get(1)@(line=br.readLine()) != null && counter.containsKey(firstName)
+Answer Id --- http://stackoverflow.com/questions/25732663
+Violation: IncorrectPrecondition, get(1)@shoppingList.containsKey(category)
+Answer Id --- http://stackoverflow.com/questions/6712708
+Violation: IncorrectPrecondition, get(1)@i < s.length()
+Answer Id --- http://stackoverflow.com/questions/29717285
+Violation: IncorrectPrecondition, get(1)@map.containsKey(key)
+Answer Id --- http://stackoverflow.com/questions/38892977
+Violation: IncorrectPrecondition, get(1)@this.isRow
+Answer Id --- http://stackoverflow.com/questions/28396008
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/26158765
+Violation: IncorrectPrecondition, get(1)@i < left.length() && !(!occurence.containsKey(ch)) && !((null == left) || (null == right))
+Answer Id --- http://stackoverflow.com/questions/30273607
+Violation: IncorrectPrecondition, get(1)@user.size() != 0
+Answer Id --- http://stackoverflow.com/questions/32398802
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/34783355
+Violation: IncorrectPrecondition, get(1)@fileResource.words().size() > 0 && !(!wordInFilesMap.containsKey(word)) && wordInFilesMap.containsKey(word) && !wordInFilesMap.get(word).contains(fileName)
+Answer Id --- http://stackoverflow.com/questions/21699610
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/31362399
+Violation: IncorrectPrecondition, get(1)@i < array.length && counts.containsKey(word)
+Answer Id --- http://stackoverflow.com/questions/15454701
+Violation: IncorrectPrecondition, get(1)@threadIdToStartTimeNanos.containsKey(threadId) && threadIdToStartTimeNanos.size() > 0
+Answer Id --- http://stackoverflow.com/questions/22129297
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/11085849
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/25032778
+Violation: IncorrectPrecondition, get(1)@mPlatesList.size() > 0 && hashMap.containsKey(key) && hashMap.size() > 0 && key.equals(TAG_TARGA)
+Answer Id --- http://stackoverflow.com/questions/15430125
+Violation: IncorrectPrecondition, get(1)@bytes.size() > 0
+Answer Id --- http://stackoverflow.com/questions/11267067
+Violation: IncorrectPrecondition, get(1)@valueIt.hasNext() && keyIt.hasNext()
+Answer Id --- http://stackoverflow.com/questions/29062134
+Violation: IncorrectPrecondition, get(1)@map.containsKey(key) && map.size() > 0
+Answer Id --- http://stackoverflow.com/questions/20957793
+Violation: IncorrectPrecondition, get(1)@set.size() > 0
+Answer Id --- http://stackoverflow.com/questions/13556820
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/8363569
+Violation: IncorrectPrecondition, get(1)@_registeredEvents.containsKey(eventType)
+Answer Id --- http://stackoverflow.com/questions/26949818
+Violation: IncorrectPrecondition, get(1)@i < data.length && !(data[i].equals("minus")) && data[i].endsWith("ty")
+Answer Id --- http://stackoverflow.com/questions/18865165
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/32793929
+Violation: IncorrectPrecondition, get(1)@edgesIterator.hasNext()
+Answer Id --- http://stackoverflow.com/questions/20026750
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/35431110
+Violation: IncorrectPrecondition, get(1)@threadsCount.containsKey(key)
+Violation: IncorrectPrecondition, get(1)@Thread.getAllStackTraces().containsKey(t) && Thread.getAllStackTraces().size() > 0 && t instanceof Abc && t.getState() != Thread.State.TERMINATED && threadsCount.containsKey(key)
+Answer Id --- http://stackoverflow.com/questions/5657608
+Violation: IncorrectPrecondition, get(1)@inFile.hasNext() && stInput.hasMoreElements() && i == 0
+Answer Id --- http://stackoverflow.com/questions/22080607
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/10944274
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/37076495
+Violation: IncorrectPrecondition, get(1)@sc.hasNextLine() && matcher.find() && map.containsKey(task_number)
+Answer Id --- http://stackoverflow.com/questions/32633452
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/32956841
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/21811990
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/26549466
+Violation: IncorrectPrecondition, get(1)@sizesByExtension.containsKey(ext) && sizesByExtension.size() > 0
+Answer Id --- http://stackoverflow.com/questions/26824621
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/5698171
+Violation: IncorrectPrecondition, get(1)@lookup.containsKey(sval)
+Answer Id --- http://stackoverflow.com/questions/7565595
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/33915021
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/37892174
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/35465992
+Violation: IncorrectPrecondition, get(1)@cache.containsKey(key)
+Answer Id --- http://stackoverflow.com/questions/25841532
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/30421847
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/18387524
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/15370470
+Violation: IncorrectPrecondition, get(1)@subTopics.size() > 0
+Answer Id --- http://stackoverflow.com/questions/21827383
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/25263344
+Violation: IncorrectPrecondition, get(1)@words.size() > 0
+Answer Id --- http://stackoverflow.com/questions/8230652
+Violation: IncorrectPrecondition, get(1)@departmentList.size() > 0 && !(createdNodesMap.get(department) == null)
+Answer Id --- http://stackoverflow.com/questions/13889454
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/14186013
+Violation: IncorrectPrecondition, get(1)@it.hasNext()
+Answer Id --- http://stackoverflow.com/questions/28757641
+Violation: IncorrectPrecondition, get(1)@stringArray.size() > 0 && lettersToNumbers.containsKey(s) && lettersToNumbers.size() > 0 && s.contains(String.valueOf(letter))
+Violation: IncorrectPrecondition, get(1)@stringArray.size() > 0 && lettersToNumbers.containsKey(letter)
+Answer Id --- http://stackoverflow.com/questions/32569043
+Violation: IncorrectPrecondition, get(1)@i < s1.length() && !(!hm.containsKey(s1.charAt(i)))
+Answer Id --- http://stackoverflow.com/questions/35211318
+Violation: IncorrectPrecondition, get(1)@!(!kmap.containsKey(kmapKey))
+Answer Id --- http://stackoverflow.com/questions/27141726
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/5324720
+Violation: IncorrectPrecondition, get(1)@i < keys.length
+Answer Id --- http://stackoverflow.com/questions/19420095
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/20717913
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/25740123
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/18209411
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/38961616
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/5526342
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/7921341
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/10948372
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/24886389
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/29289650
+Violation: IncorrectPrecondition, get(1)@bundle != null
+Answer Id --- http://stackoverflow.com/questions/1790058
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/19566356
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/35288546
+Violation: IncorrectPrecondition, get(1)@i < listOfFiles.length && fileMap.containsKey(listOfFiles[i])
+Answer Id --- http://stackoverflow.com/questions/13984985
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/6389333
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/11868507
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/13315495
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/37403307
+Violation: IncorrectPrecondition, get(1)@params.containsKey(key) && params.size() > 0
+Answer Id --- http://stackoverflow.com/questions/8204823
+Violation: IncorrectPrecondition, get(1)@input.containsKey(key) && input.size() > 0
+Answer Id --- http://stackoverflow.com/questions/27458769
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/21070559
+Violation: IncorrectPrecondition, get(1)@input.hasNext() && !(!fracs.containsKey(frac))
+Answer Id --- http://stackoverflow.com/questions/14774110
+Violation: IncorrectPrecondition, get(1)@matcher.find()
+Answer Id --- http://stackoverflow.com/questions/13315759
+Violation: IncorrectPrecondition, get(1)@i < chars.length
+Answer Id --- http://stackoverflow.com/questions/23239689
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/29641967
+Violation: IncorrectPrecondition, get(1)@(thisLine=br.readLine()) != null && str.size() > 0 && map.containsKey(s)
+Answer Id --- http://stackoverflow.com/questions/29584230
+Violation: IncorrectPrecondition, get(1)@(line=br.readLine()) != null && words.length == 2 && wordCount.containsKey(words[0])
+Answer Id --- http://stackoverflow.com/questions/31343369
+Violation: IncorrectPrecondition, get(1)@list.size() > 0 && map.containsKey(s)
+Answer Id --- http://stackoverflow.com/questions/7092576
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/10616009
+Violation: IncorrectPrecondition, get(1)@true
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/6503488
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/1071814
+Violation: IncorrectPrecondition, get(1)@map.containsKey(i) && map.size() > 0
+Answer Id --- http://stackoverflow.com/questions/33031158
+Violation: IncorrectPrecondition, get(1)@params.containsKey(key) && params.size() > 0
+Answer Id --- http://stackoverflow.com/questions/942990
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/34821546
+Violation: IncorrectPrecondition, get(1)@i < 10000 && freq.containsKey(hash)
+Answer Id --- http://stackoverflow.com/questions/33509920
+Violation: IncorrectPrecondition, get(1)@i < strs.length && !(map.get(t) == null) && !(strs == null || strs.length == 0)
+Answer Id --- http://stackoverflow.com/questions/7281056
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/16839191
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/22872110
+Violation: IncorrectPrecondition, get(1)@params.containsKey(key) && params.size() > 0
+Answer Id --- http://stackoverflow.com/questions/24073079
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/5804933
+Violation: IncorrectPrecondition, get(1)@it.hasNext()
+Answer Id --- http://stackoverflow.com/questions/15125239
+Violation: IncorrectPrecondition, get(1)@true
+Answer Id --- http://stackoverflow.com/questions/21449961
+Violation: IncorrectPrecondition, get(1)@characters.size() > 0 && map.containsKey(key)
+Missing Control-flow Structure: 0
+Disorder Control-flow Structure: 0
+Missing API Call: 0
+Disorder API Call: 0
+Incorrect Predicates: 943
+Total number of recognized snippets: 617
+Average score: 2.726094003241491
+Unreliable recognized snippets: 602
+Total number of unrecognized snippets: 353
+Unreliable unrecognized snippets: 341
+

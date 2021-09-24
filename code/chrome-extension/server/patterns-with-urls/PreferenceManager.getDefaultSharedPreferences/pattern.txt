@@ -1,0 +1,3 @@
+Total Count:20129
+1:[getDefaultSharedPreferences(Context)@true, getString(String,String)@true]:5604
+2:[getDefaultSharedPreferences(Context)@true, getBoolean(String,boolean)@true]:4100

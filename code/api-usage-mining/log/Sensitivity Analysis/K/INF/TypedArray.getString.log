@@ -1,0 +1,15 @@
+Mining time (millis) : 19162
+[getString(1)@true, recycle(0)@true]:(0.7,0.92)
+[getString(1)@true, IF, END_BLOCK]:(0.53,1.0)
+[obtainStyledAttributes(2)@true, getString(1)@true]:(0.33,0.93)
+[getString(1)@true, IF, END_BLOCK, recycle(0)@true]:(0.28,1.0)
+[obtainStyledAttributes(2)@true, getString(1)@true, recycle(0)@true]:(0.3,0.93)
+[TRY, getString(1)@true, END_BLOCK]:(0.27,1.0)
+[obtainStyledAttributes(4)@true, getString(1)@true]:(0.25,0.99)
+[obtainStyledAttributes(4)@true, getString(1)@true, recycle(0)@true]:(0.25,0.99)
+[TRY, getString(1)@true, recycle(0)@true, END_BLOCK]:(0.22,1.0)
+[obtainStyledAttributes(2)@true, getString(1)@true, IF, END_BLOCK]:(0.22,1.0)
+[getInt(2)@true, getString(1)@true]:(0.23,0.93)
+[TRY, getString(1)@true, IF, END_BLOCK, END_BLOCK]:(0.21,1.0)
+[getInt(2)@true, getString(1)@true, recycle(0)@true]:(0.22,0.92)
+

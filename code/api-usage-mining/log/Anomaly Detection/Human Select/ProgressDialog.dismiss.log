@@ -1,0 +1,513 @@
+Total number of relevant Java snippets: 193
+Total number of unreliable Java snippets: 179
+Answer Id --- http://stackoverflow.com/questions/8902163
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/30327229
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/21762734
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/35301773
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/18671842
+Violation: IncorrectPrecondition, dismiss(0)@pDialog.isShowing()
+Answer Id --- http://stackoverflow.com/questions/9527473
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/19462349
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/29189383
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/30059433
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/24116591
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/29163469
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/15702924
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/29216799
+Violation: IncorrectPrecondition, dismiss(0)@pd != null
+Answer Id --- http://stackoverflow.com/questions/9115480
+Violation: IncorrectPrecondition, dismiss(0)@progressDlg != null
+Answer Id --- http://stackoverflow.com/questions/33346687
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/34436968
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/28839665
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/23713913
+Violation: IncorrectPrecondition, dismiss(0)@pDialog != null
+Answer Id --- http://stackoverflow.com/questions/23075944
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/25519326
+Violation: IncorrectPrecondition, dismiss(0)@!sourceFile.isFile()
+Violation: IncorrectPrecondition, dismiss(0)@!sourceFile.isFile()
+Answer Id --- http://stackoverflow.com/questions/16635239
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/31253962
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/9780398
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/23052053
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/23419064
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/6719365
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/10468850
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/37671247
+Violation: IncorrectPrecondition, dismiss(0)@progressDialog != null
+Answer Id --- http://stackoverflow.com/questions/18901576
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/36418282
+Violation: IncorrectPrecondition, dismiss(0)@progressDialog != null
+Answer Id --- http://stackoverflow.com/questions/6511691
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/30344770
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/10898869
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/19393476
+Violation: IncorrectPrecondition, dismiss(0)@dialog.isShowing()
+Answer Id --- http://stackoverflow.com/questions/17917143
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/30521651
+Violation: IncorrectPrecondition, dismiss(0)@progressDialog.isShowing()
+Answer Id --- http://stackoverflow.com/questions/18271181
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/23035066
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/24236881
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/11274717
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/4211760
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/32702292
+Violation: IncorrectPrecondition, dismiss(0)@pDialog.isShowing()
+Answer Id --- http://stackoverflow.com/questions/8089944
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/18685470
+Violation: IncorrectPrecondition, dismiss(0)@pDialog.isShowing()
+Answer Id --- http://stackoverflow.com/questions/17049762
+Violation: IncorrectPrecondition, dismiss(0)@progressDialog.isShowing()
+Answer Id --- http://stackoverflow.com/questions/23840695
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/16644256
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/27461771
+Violation: IncorrectPrecondition, dismiss(0)@!sourceFile.isFile()
+Violation: IncorrectPrecondition, dismiss(0)@!sourceFile.isFile()
+Answer Id --- http://stackoverflow.com/questions/11610963
+Violation: IncorrectPrecondition, dismiss(0)@pd.isShowing()
+Answer Id --- http://stackoverflow.com/questions/11989605
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/9408000
+Violation: IncorrectPrecondition, dismiss(0)@dialog.isShowing()
+Answer Id --- http://stackoverflow.com/questions/22618314
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/8982203
+Violation: IncorrectPrecondition, dismiss(0)@m_progressDialog.isShowing()
+Answer Id --- http://stackoverflow.com/questions/24483900
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/33233128
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/12213567
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/36200874
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/23239197
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/34890818
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/27273382
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/16498143
+Violation: IncorrectPrecondition, dismiss(0)@pdialog != null
+Answer Id --- http://stackoverflow.com/questions/15515952
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/32819306
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/17120418
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/31819995
+Violation: IncorrectPrecondition, dismiss(0)@dialog.isShowing()
+Answer Id --- http://stackoverflow.com/questions/34609106
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/35864031
+Violation: IncorrectPrecondition, dismiss(0)@pd.isShowing()
+Answer Id --- http://stackoverflow.com/questions/28515507
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/11538160
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/35284944
+Violation: IncorrectPrecondition, dismiss(0)@pDialog.isShowing()
+Answer Id --- http://stackoverflow.com/questions/24469159
+Violation: IncorrectPrecondition, dismiss(0)@dialog.isShowing()
+Answer Id --- http://stackoverflow.com/questions/5902628
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/3028660
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/26470626
+Violation: IncorrectPrecondition, dismiss(0)@result.equals("Complete")
+Violation: IncorrectPrecondition, dismiss(0)@result.equals("Complete")
+Answer Id --- http://stackoverflow.com/questions/17844541
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/24773678
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/6105675
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/19971794
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/23874141
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/5970534
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/33847765
+Violation: IncorrectPrecondition, dismiss(0)@mProgressDialog.getProgress() == mProgressDialog.getMax()
+Violation: IncorrectPrecondition, dismiss(0)@mProgressDialog.getProgress() == mProgressDialog.getMax()
+Answer Id --- http://stackoverflow.com/questions/36982231
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/22440794
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/21716096
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/24010634
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/21519328
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/22343429
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/30362066
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/20853049
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/14376233
+Violation: IncorrectPrecondition, dismiss(0)@mProgressDialog != null || mProgressDialog.isShowing()
+Violation: IncorrectPrecondition, dismiss(0)@mProgressDialog != null || mProgressDialog.isShowing()
+Answer Id --- http://stackoverflow.com/questions/5168837
+Violation: IncorrectPrecondition, dismiss(0)@result
+Violation: IncorrectPrecondition, dismiss(0)@result
+Answer Id --- http://stackoverflow.com/questions/18029830
+Violation: IncorrectPrecondition, dismiss(0)@pd.isShowing()
+Answer Id --- http://stackoverflow.com/questions/29426710
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/17485318
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/37147508
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/10521218
+Violation: IncorrectPrecondition, dismiss(0)@mWorkingDialog != null
+Answer Id --- http://stackoverflow.com/questions/22601845
+Violation: IncorrectPrecondition, dismiss(0)@pDialog != null
+Answer Id --- http://stackoverflow.com/questions/16998696
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/30348671
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/18427371
+Violation: IncorrectPrecondition, dismiss(0)@pDialog.isShowing()
+Answer Id --- http://stackoverflow.com/questions/30801510
+Violation: IncorrectPrecondition, dismiss(0)@dialog.isShowing()
+Answer Id --- http://stackoverflow.com/questions/26297847
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/3343505
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/29919122
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/33937879
+Violation: IncorrectPrecondition, dismiss(0)@pDialog.isShowing()
+Answer Id --- http://stackoverflow.com/questions/36532009
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/20930420
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/17426163
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/23232761
+Violation: IncorrectPrecondition, dismiss(0)@context != null && !(!result)
+Violation: IncorrectPrecondition, dismiss(0)@context != null && !(!result)
+Answer Id --- http://stackoverflow.com/questions/10997519
+Violation: IncorrectPrecondition, dismiss(0)@dialog.isShowing()
+Answer Id --- http://stackoverflow.com/questions/18173812
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/6053982
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/12524440
+Violation: IncorrectPrecondition, dismiss(0)@mProgressDialog != null
+Answer Id --- http://stackoverflow.com/questions/10050701
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/20768114
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/7250173
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/37541746
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/27383197
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/30052047
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/22532591
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/14068349
+Violation: IncorrectPrecondition, dismiss(0)@Dialog.isShowing()
+Answer Id --- http://stackoverflow.com/questions/11468828
+Violation: IncorrectPrecondition, dismiss(0)@dialog.isShowing()
+Answer Id --- http://stackoverflow.com/questions/31221148
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/20415842
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/31937351
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/27537897
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/15068732
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/26844127
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/38358181
+Violation: IncorrectPrecondition, dismiss(0)@pDialog.isShowing()
+Answer Id --- http://stackoverflow.com/questions/17124032
+Violation: IncorrectPrecondition, dismiss(0)@progressDialog != null
+Answer Id --- http://stackoverflow.com/questions/29936371
+Violation: IncorrectPrecondition, dismiss(0)@result.equals("Success")
+Violation: IncorrectPrecondition, dismiss(0)@result.equals("Success")
+Answer Id --- http://stackoverflow.com/questions/30139155
+Violation: IncorrectPrecondition, dismiss(0)@mProgressDialog != null
+Answer Id --- http://stackoverflow.com/questions/36255852
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/11244386
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/11838910
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/28845728
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/20076657
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/34128579
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/21425087
+Violation: IncorrectPrecondition, dismiss(0)@pdialog.isShowing()
+Answer Id --- http://stackoverflow.com/questions/19023598
+Violation: IncorrectPrecondition, dismiss(0)@th == true
+Violation: IncorrectPrecondition, dismiss(0)@th == true
+Answer Id --- http://stackoverflow.com/questions/3283973
+Violation: IncorrectPrecondition, dismiss(0)@pd.isShowing()
+Answer Id --- http://stackoverflow.com/questions/24568721
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/32327773
+Violation: IncorrectPrecondition, dismiss(0)@pd != null
+Answer Id --- http://stackoverflow.com/questions/20385927
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/35417918
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/13608339
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/3347405
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/17120523
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/24000292
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/19926205
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/36360884
+Violation: IncorrectPrecondition, dismiss(0)@dialog.isShowing()
+Answer Id --- http://stackoverflow.com/questions/31710044
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/26169291
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/11718335
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/32251023
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/21676889
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/39205330
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/20538260
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/19627838
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/25333562
+Violation: IncorrectPrecondition, dismiss(0)@pDialog.isShowing()
+Answer Id --- http://stackoverflow.com/questions/33918300
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/18161914
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/30902023
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/25894037
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/30267713
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/32033484
+Violation: IncorrectPrecondition, dismiss(0)@dialog.isShowing()
+Answer Id --- http://stackoverflow.com/questions/33868902
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/11079758
+Violation: IncorrectPrecondition, dismiss(0)@progressDialog != null && newProgress >= 80
+Answer Id --- http://stackoverflow.com/questions/29791115
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/12599441
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/28161386
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/31759915
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/25123241
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/37140011
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/6213759
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/24041492
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Answer Id --- http://stackoverflow.com/questions/36385376
+Violation: IncorrectPrecondition, dismiss(0)@progressDialog != null
+Answer Id --- http://stackoverflow.com/questions/18525792
+Violation: IncorrectPrecondition, dismiss(0)@dialog != null
+Answer Id --- http://stackoverflow.com/questions/2098886
+Violation: IncorrectPrecondition, dismiss(0)@true
+Violation: IncorrectPrecondition, dismiss(0)@true
+Missing Control-flow Structure: 0
+Disorder Control-flow Structure: 0
+Missing API Call: 0
+Disorder API Call: 0
+Incorrect Predicates: 179
+Total number of recognized snippets: 126
+Average score: 13.682539682539682
+Unreliable recognized snippets: 115
+Total number of unrecognized snippets: 67
+Unreliable unrecognized snippets: 64
+

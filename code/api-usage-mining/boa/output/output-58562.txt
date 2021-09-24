@@ -1,0 +1,66 @@
+record[00f56e195f3a1773ad7bc26cc97e511297608935] = Finished card reader app
+
+record[0204bb5b1e427aafb442ca15d7869af53ac9b6e4] = more library refactoring
+
+record[1566437faf5692e7e112cc1bc53511527446b5cd] = Created the card reader project
+
+record[16a08524b341174ac218f99a0820a7e876bc6445] = Changed some logging stuff
+
+record[1c47a4604135651c5f8ab45b739680cf606ba9f8] = Updated the external device lib
+
+record[3a9eb970ef2d90f0afdd1928f0d897c3b6a1a338] = Fixed some stuff up in the SerialComm libs
+
+record[421b6b9ef840e4153c7359276df8f531dccbb53f] = Started writing unit tests
+
+record[44e8c271bfe6f0ca6c04595da79590943994e148] = Got most of the breathalyzer working
+
+record[5f3877b5c9d2e0e4f03fdcda86b908a58bf65df7] = Fixed a small code repetition bug in libs
+
+record[64c1b6fc0da4b5949a372def4ed5c4923386848a] = Finished the unit tests
+
+record[6eb5f767d43c521f610ea1bd83d7655956b5aa27] = Added new UI and some message support that doesn't work…
+
+record[7317c7cf66718690b140aa53e072284c82af796c] = Data back and forth succesful
+
+We can get data back and forth, but the USB connection is pretty
+fragile. If the app is running and the cable is disconnected, the
+connection won't restart if the cable is put back in. We tried
+everything.
+
+record[740cd298a0a6b76bcc7ff9fca37faa0e771c86a4] = Refactored the library some
+
+record[77a092e382914f530f31cc257d1026195a8b0088] = Tested new communication library and protocols
+
+Had to change how the Arduino side worked, so that's different as well.
+
+record[868b81ab45c14734a0df797a77d8e03bbc515c22] = Updated the External Device lib.
+
+Changed BluetoothComm's constructor -- must fix all bluetooth projects
+
+record[a47634f198c61388eb11437e6012fdf32be29a8a] = Got Bluetooth almost done
+
+For some reason, the Android app is dropping messages after it receives
+the data.
+
+record[b59fa679704f7884995c3872c916e1fb60c029ae] = Trying to make Bluetooth communication more robust
+
+record[c02ec18310e73eafbfed3bdfd699005adfbd0989] = Got communication working
+
+Still very buggy, needs a lot of cleanup.
+
+record[d7f85f245bc360590519d91840ceb6654ce1f218] = Fixed up the card reader app. Only gets the info and presents it.
+
+record[d9746c64a74ac14658dd1ab53db789bb17187393] = Got Andorid side working
+
+record[f0a98c9aada9cc1eeaeaaa4493028dc831add85d] = Started trying to write tests for RS232
+
+Had trouble figuring out how to run the tests with the Arduino
+
+record[fa2752644496489b15f94c3e12da5f60b328e485] = Made the bluetooth stuff more reliable
+
+Changed the null terminator code from 0 to 255 so we don't run into null
+termination issues with strings. The Arduino Bluetooth library now won't
+let anything through unless it has at least two characters, and only
+takes two character at a time. Also, I got the BTRS232 project working
+with the Bluetooth library, so I can finally do the tests for it.
+

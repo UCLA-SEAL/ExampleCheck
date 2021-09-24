@@ -1,0 +1,8 @@
+Mining time (millis) : 2742185
+[LOOP, next(0)@rcv.hasNext(), END_BLOCK]:(0.95,0.94)
+[next(0)@rcv.hasNext()]:(0.99,0.9)
+[iterator(0)@true, next(0)@rcv.hasNext()]:(0.87,0.89)
+[iterator(0)@true, LOOP, next(0)@rcv.hasNext(), END_BLOCK]:(0.84,0.91)
+[next(0)@rcv.hasNext(), IF, END_BLOCK]:(0.54,1.0)
+[LOOP, next(0)@rcv.hasNext(), IF, END_BLOCK, END_BLOCK]:(0.52,1.0)
+

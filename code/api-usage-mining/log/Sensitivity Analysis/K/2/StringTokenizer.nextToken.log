@@ -1,0 +1,7 @@
+Mining time (millis) : 214534
+[nextToken(0)@rcv.hasMoreTokens()]:(1.0,0.64)
+[LOOP, nextToken(0)@rcv.hasMoreTokens(), END_BLOCK]:(0.81,0.79)
+[IF, nextToken(0)@rcv.hasMoreTokens(), END_BLOCK]:(0.53,1.0)
+[new StringTokenizer(2)@true, LOOP, nextToken(0)@rcv.hasMoreTokens(), END_BLOCK]:(0.52,0.84)
+[new StringTokenizer(2)@true, nextToken(0)@rcv.hasMoreTokens()]:(0.66,0.66)
+

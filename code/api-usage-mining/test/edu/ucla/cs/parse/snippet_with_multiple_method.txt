@@ -1,0 +1,25 @@
+ @Override public boolean hasNext() { 
+        while (true) { 
+            if (inner != null) {
+                if (inner.hasNext()) {
+                    return true; 
+                } else { 
+                    inner = null;
+                    index++;
+                } 
+            } 
+            if (index == arr.length) return false;
+            if (arr[index] instanceof Object[]) {
+                inner = new RecursiveIterator((Object[]) arr[index]);
+            } else { 
+                return true; 
+            } 
+        } 
+    } 
+    @Override public Object next() {
+        if (!hasNext()) throw new NoSuchElementException();
+        return (inner != null) ? inner.next() : arr[index++];
+    } 
+    @Override public void remove() { 
+        throw new UnsupportedOperationException();
+    }

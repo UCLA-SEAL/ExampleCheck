@@ -1,0 +1,13 @@
+Mining time (millis) : 23238
+[new Dimension(2)@true, setPreferredSize(1)@true]:(0.92,0.98)
+[setPreferredSize(1)@true, setVisible(1)@true]:(0.78,0.98)
+[new Dimension(2)@true, setPreferredSize(1)@true, setVisible(1)@true]:(0.73,0.98)
+[setPreferredSize(1)@true, add(1)@true]:(0.64,0.98)
+[setPreferredSize(1)@true, pack(0)@true]:(0.64,0.97)
+[new Dimension(2)@true, setPreferredSize(1)@true, add(1)@true]:(0.6,0.99)
+[new Dimension(2)@true, setPreferredSize(1)@true, pack(0)@true]:(0.61,0.97)
+[setPreferredSize(1)@true, add(1)@true, setVisible(1)@true]:(0.53,0.99)
+[setPreferredSize(1)@true, pack(0)@true, setVisible(1)@true]:(0.54,0.97)
+[new Dimension(2)@true, setPreferredSize(1)@true, add(1)@true, setVisible(1)@true]:(0.51,0.99)
+[new Dimension(2)@true, setPreferredSize(1)@true, pack(0)@true, setVisible(1)@true]:(0.52,0.97)
+

@@ -1,0 +1,4 @@
+Total Count:7204
+1:[new Scanner(File)@true, nextLine()@true]:2300
+2:[LOOP, nextLine()@rcv.hasNextLine(), END_BLOCK]:2510
+3:[TRY, nextLine()@rcv.hasNextLine(), END_BLOCK, CATCH(Exception), END_BLOCK]:2496

@@ -1,0 +1,4 @@
+Mining time (millis) : 152
+[query(7)@true, IF, END_BLOCK]:(0.36,1.0)
+[query(7)@true, close(0)@true]:(0.42,0.75)
+

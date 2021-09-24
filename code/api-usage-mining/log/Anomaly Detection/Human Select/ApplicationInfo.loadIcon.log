@@ -1,0 +1,74 @@
+Total number of relevant Java snippets: 16
+Total number of unreliable Java snippets: 16
+Answer Id --- http://stackoverflow.com/questions/38996886
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/12387395
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Answer Id --- http://stackoverflow.com/questions/9393740
+Violation: DisorderMethodCall, loadIcon(1)@i < packs.size()
+Answer Id --- http://stackoverflow.com/questions/9142469
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Answer Id --- http://stackoverflow.com/questions/24714551
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/35782125
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Answer Id --- http://stackoverflow.com/questions/34352021
+Violation: MissingStructure, TRY
+Violation: DisorderStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: DisorderStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/7289300
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Answer Id --- http://stackoverflow.com/questions/19751858
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/37236741
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/19570751
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Answer Id --- http://stackoverflow.com/questions/9295014
+Violation: MissingStructure, TRY
+Violation: DisorderStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: DisorderStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/18909282
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Answer Id --- http://stackoverflow.com/questions/30145406
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/26508293
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Answer Id --- http://stackoverflow.com/questions/14271234
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Missing Control-flow Structure: 15
+Disorder Control-flow Structure: 2
+Missing API Call: 0
+Disorder API Call: 1
+Incorrect Predicates: 0
+Total number of recognized snippets: 11
+Average score: 1.2727272727272727
+Unreliable recognized snippets: 11
+Total number of unrecognized snippets: 5
+Unreliable unrecognized snippets: 5
+

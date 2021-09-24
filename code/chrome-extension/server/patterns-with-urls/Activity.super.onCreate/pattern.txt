@@ -1,0 +1,2 @@
+Total Count:108309
+1:[onCreate(Bundle)@true, setContentView(LinearLayout)@true]:56321

@@ -1,0 +1,4 @@
+Mining time (millis) : 38698
+[write(1)@true, close(0)@true]:(0.54,0.92)
+[new RandomAccessFile(2)@true, write(1)@true]:(0.52,0.91)
+

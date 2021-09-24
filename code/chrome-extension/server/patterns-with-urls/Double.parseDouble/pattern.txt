@@ -1,0 +1,2 @@
+Total Count:43240
+1:[TRY, parseDouble(String)@true, END_BLOCK, CATCH(Exception), END_BLOCK]:25944

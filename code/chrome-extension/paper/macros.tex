@@ -1,0 +1,365 @@
+% !TEX root = ./1critics.tex
+% -----------------------------------------------------------------
+% package
+% -----------------------------------------------------------------
+%\usepackage[numbers,sort&compress]{natbib}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{microtype}
+\usepackage{color}
+\usepackage{xcolor}
+\usepackage{xspace}
+%\usepackage[sort, space, compress]{cite}
+\usepackage{algpseudocode}
+%\usepackage[noend]{algorithmic}
+\usepackage{amssymb}
+\usepackage{pifont}
+\usepackage{alltt}
+\usepackage{framed,color}
+\usepackage{soul}
+\usepackage{multirow}
+\usepackage{enumerate}
+\usepackage{enumitem} % for better lists
+\usepackage{colortbl} % for table highlighting
+\makeatletter
+\newif\if@restonecol
+\makeatother
+\let\algorithm\relax
+\let\endalgorithm\relax
+\usepackage[ruled,vlined]{algorithm2e}
+%\usepackage[algo2e]{algorithm2e} 
+\usepackage{stmaryrd} %for arrows
+\usepackage{listings} %for code snippets
+\usepackage{url}
+\usepackage{pgfplots}
+\usepackage{tikz}
+\usepackage{balance}
+\usepackage[listings]{tcolorbox}
+\usepackage{soul}
+\usepackage{graphicx}
+\usepackage{qtree}
+\usepackage{booktabs}
+\usepackage{caption}
+\usepackage{subcaption}
+
+% enable line breaks in a long url
+\makeatletter
+\g@addto@macro{\UrlBreaks}{\UrlOrds}
+\makeatother
+
+% \makeatletter  
+%  \let\@copyrightspace\relax  
+% \makeatother  
+% -----------------------------------------------------------------
+% color
+% -----------------------------------------------------------------
+\definecolor{darkBlue}{rgb}{0.000000,0.000000,0.545098}
+\definecolor{darkGreen}{rgb}{0.000000,0.392157,0.000000}
+\definecolor{DarkGray}{gray}{0.4}
+\definecolor{javared}{rgb}{0.6,0,0} % for strings
+\definecolor{javagreen}{rgb}{0.25,0.5,0.35} % comments
+\definecolor{javapurple}{rgb}{0.5,0,0.35} % keywords
+\definecolor{javadocblue}{rgb}{0.25,0.35,0.75} % javadoc
+\definecolor{lightgray}{gray}{0.95}
+\definecolor{shadecolor}{RGB}{150,150,150}
+\definecolor{blueA}{RGB}{204,229,255}
+\definecolor{redA}{RGB}{112,0, 0}
+% -----------------------------------------------------------------
+% abbreviations
+% -----------------------------------------------------------------
+\newcommand{\jinn}{Jinn\xspace}
+\newcommand{\hidden}[1]{}
+\newcommand{\xtc}{{\small\textsf{xtc}}}
+\newcommand{\rats}{\textit{Rats!}}
+\newcommand{\typical}{{\small\textsf{Typical}}}
+\newcommand{\gctk}{GCTk\xspace}
+\newcommand{\mmtk}{MMTk\xspace}
+\newcommand{\jikes}{Jikes RVM\xspace}
+\newcommand{\jikesrvm}{\jikes\xspace}
+\newcommand{\jala}{Jalape\~{n}o\xspace}
+\newcommand{\jalapeno}{Jalape\~{n}o\xspace}
+\newcommand{\specjvm}{SPEC JVM\xspace}
+\newcommand{\jess}{\textsf{\_202\_jess}\xspace}
+\newcommand{\raytrace}{\textsf{\_205\_raytrace}\xspace}
+\newcommand{\db}{\textsf{\_209\_db}\xspace}
+\newcommand{\javac}{\textsf{\_213\_javac}\xspace}
+\newcommand{\jack}{\textsf{\_228\_jack}\xspace}
+\newcommand{\compress}{\textsf{\_201\_compress}\xspace}
+\newcommand{\mpegaudio}{\textsf{\_222\_mpegaudio}\xspace}
+\newcommand{\mtrt}{\textsf{\_227\_mtrt}\xspace}
+\newcommand{\jbb}{\textsf{pseudojbb}\xspace}
+\newcommand{\dacapo}{\textsf{DaCapo}\xspace}
+\newcommand{\dacapover}{\textsf{DaCapo b.050224}\xspace}
+\newcommand{\antlr}{\textsf{antlr}\xspace}
+\newcommand{\bloat}{\textsf{bloat}\xspace}
+\newcommand{\chart}{\textsf{chart}\xspace}
+\newcommand{\eclipse}{\textsf{eclipse}\xspace}
+\newcommand{\fop}{\textsf{fop}\xspace}
+\newcommand{\hsqldb}{\textsf{hsqldb}\xspace}
+\newcommand{\jython}{\textsf{jython}\xspace}
+\newcommand{\luindex}{\textsf{luindex}\xspace}
+\newcommand{\lusearch}{\textsf{lusearch}\xspace}
+\newcommand{\pmd}{\textsf{pmd}\xspace}
+\newcommand{\ps}{\textsf{ps}\xspace}
+\newcommand{\xalan}{\textsf{xalan}\xspace}
+\newcommand{\psfun}{\textsf{ps-fun}\xspace}
+\newcommand{\ipsixql}{\textsf{ipsixql}\xspace}
+\newcommand{\Ginseng}{{\sc Ginseng}\xspace}
+\newcommand{\fixme} [1] {\textcolor{red}{{\it FIXME}: #1}}
+\newcommand{\factfont}[1]{\scriptsize{{{#1}}}\normalsize}
+\newcommand{\codefont}[1]{\footnotesize{\texttt{#1}}\normalsize}
+\newcommand{\sydit}{\small \sc Sydit}
+\newcommand{\reffinder}{\small \sc RefFinder}
+\newcommand{\faulttracer}{\small \sc FaultTracer}
+\newcommand{\iberry}{\small \sc Iberry}
+\newcommand{\abs}[1]{\lvert#1\rvert}
+\newcommand{\lase}{{\small {\sc Lase}}}
+\newcommand{\genprog}{\small \sc GenProg}
+\newcommand{\lsdiff}{\small \sc LSDiff}
+\newcommand{\tool}{{\small{\sc{ExampleCheck}}}}
+\newcommand{\critics}{{\tool}}
+\newcommand{\maple}{{\small{\sc{Maple}}}}
+\newcommand{\soa}{{\small{\sc{ExampleCheck}}}}
+
+% -----------------------------------------------------------------
+% misc
+% -----------------------------------------------------------------
+\newcommand{\addCode}{\textcolor{blue}}
+\newcommand{\ax}{\textcolor{blue}{+}}
+\newcommand{\delCode}{\textcolor{red}}
+\newcommand{\dx}{\textcolor{red}{-}}
+\newcommand{\susCode}{\textcolor{javagreen}}
+\newcommand{\undoCode}{\textcolor{javagreen}{*}}
+\newcommand{\myhref}[2]{\texttt{\scriptsize{\href{#1}{#2}}}}
+\newcommand{\fix}[2]{\textbf{#1 asks:~\emph{ #2}}}
+\newcommand{\pagemark}[1]{\textcolor{blue}{PAGE: {#1}}}
+\newcommand{\todo}[1]{{\textcolor{red}{{\bf TODO}: {#1}}}}
+\newcommand{\tianyi}[1]{#1}
+\newcommand{\old}[1]{\textcolor{red}{{}}}
+\newcommand{\did}[1]{{\textcolor{red}{{#1}}}}
+\newcommand{\oo}[1]{{\scriptsize{\textcolor{red}{{\bf*} {#1}}}}}
+\newcommand{\ignore}[1]{}
+\newcommand{\mccenter}[1]{\multicolumn{1}{c|}{#1}}
+\newcommand{\m}[1]{\textcolor{blue}{#1}}
+\newcommand{\selectbox}[1]{\par\colorbox{blueA}
+{\parbox{\dimexpr\textwidth-17\fboxsep\relax}{#1}}}
+\newcommand{\hilight}[1]{\colorbox{blueA}{#1}}
+\newcommand{\hilightR}[1]{\colorbox{red}{\textcolor{yellow}{#1}}}
+\newcommand{\fn}[1]{\footnote{\scriptsize{#1}}}
+
+\newcommand{\ttt}[1]{\tt\small{#1}}
+\newcommand{\tttt}[1]{\tt\scriptsize{#1}}
+
+
+% -----------------------------------------------------------------
+% indent dense
+% -----------------------------------------------------------------
+\def\denseitems 
+{
+  \itemsep1pt plus1pt minus1pt
+  \parsep0pt plus0pt
+  \parskip0pt\topsep0pt
+}
+% -----------------------------------------------------------------
+% 
+% -----------------------------------------------------------------
+\chardef\oc=`\{
+\chardef\cc=`\}
+\chardef\us=`\_
+\def\Note#1{\emph{\textbf{\small $<$#1$>$}}}
+% -----------------------------------------------------------------
+% 
+% -----------------------------------------------------------------
+\newcommand{\cmark}{\ding{51}}%
+\newcommand*{\smalltt}[1]{\texttt{\small{}#1}}
+% ===============================================
+% MyJavaStyle
+% ===============================================
+\lstdefinestyle{MyJavaStyle} {
+  language=Java,
+  frame=lines,
+  xleftmargin=15pt, 
+  stepnumber=1, 
+  numbers=left, 
+  numbersep=5pt,
+  numberstyle=\tiny\color[gray]{0.777}, 
+  belowcaptionskip=\bigskipamount,
+  captionpos=b, 
+  escapeinside={*'}{'*},
+  tabsize=5,
+  emphstyle={\bf},
+  basicstyle=\footnotesize\ttfamily,
+  keywordstyle=\color{black}\bfseries,
+  stringstyle=\color{black},
+  commentstyle=\color{black},
+  morecomment=[s][\color{black}]{/**}{*/},
+  showspaces=false,
+  columns=flexible,
+  showstringspaces=false,
+  morecomment=[l]{//},
+  tabsize=2,
+  morekeywords={, Package,Invariant,Class,Method,Field,Where,in,Assert,ToLc,Split,Msg,Immutable,<<<,eq,neq,not,has,Assert,AssertExists,Attribute,Uc,Lc,},
+  breaklines=true
+}
+% ===============================================
+% MyJavaSmallStyle
+% ===============================================
+\lstdefinestyle{MyJavaSmallStyle} {
+  language=Java,
+  frame=none,
+  xleftmargin=15pt, 
+  stepnumber=1, 
+  numbers=left, 
+  numbersep=5pt,
+  numberstyle=\tiny\color[gray]{0.777}, 
+  belowcaptionskip=\bigskipamount,
+  captionpos=b, 
+  escapeinside={*'}{'*},
+  tabsize=5,
+  emphstyle={\bf},
+  basicstyle=\scriptsize\ttfamily,
+  keywordstyle=\color{javapurple}\bfseries,
+  stringstyle=\color{javared},
+  commentstyle=\color{javagreen},
+  morecomment=[s][\color{javadocblue}]{/**}{*/},
+  showspaces=false,
+  columns=flexible,
+  showstringspaces=false,
+  morecomment=[l]{//},
+  tabsize=2,
+  morekeywords={, Package,Invariant,Class,Method,Field,Where,in,Assert,ToLc,Split,Msg,Immutable,<<<,eq,neq,not,has,Assert,AssertExists,Attribute,Uc,Lc,},
+  breaklines=true
+}
+% ===============================================
+% MyJavaNonColorStyle
+% ===============================================
+\lstdefinestyle{MyJavaNonColorStyle} {
+  language=Java,
+  frame=lines,
+  xleftmargin=15pt, 
+  stepnumber=1, 
+  numbers=left, 
+  numbersep=5pt,
+  numberstyle=\tiny\color[gray]{0.3}, 
+  belowcaptionskip=\bigskipamount,
+  captionpos=b, 
+  escapeinside={*'}{'*},
+  tabsize=5,
+  emphstyle={\bf},
+  basicstyle=\scriptsize\ttfamily,
+  keywordstyle=\color{black}\bfseries,
+  stringstyle=\color{black},
+  commentstyle=\color{black},
+  morecomment=[s][\color{black}]{/**}{*/},
+  showspaces=false,
+  columns=flexible,
+  showstringspaces=false,
+  morecomment=[l]{//},
+  tabsize=2,
+  morekeywords={, Package,Invariant,Class,Method,Field,Where,in,Assert,ToLc,Split,Msg,Immutable,<<<,eq,neq,not,has,Assert,AssertExists,Attribute,Uc,Lc,},
+  breaklines=true
+}
+% ===============================================
+% Global Setting: MyJavaStyle
+% ===============================================
+\lstset{style=MyJavaStyle}
+% ===============================================
+
+% ===============================================
+%    URL style
+% ===============================================
+%% Define a new 'leo' style for the package that will use a smaller font.
+%% Now actually use the newly defined style.
+\urlstyle{leo}
+% ===============================================
+% -----------------------------------------------------------------
+% spacing
+% -----------------------------------------------------------------
+%\clubpenalty 10000
+%\widowpenalty 10000
+%\def\topfraction{0.9}
+%\def\bottomfraction{0.9}
+%\def\textfraction{0.1}
+%\newcommand{\singlespace}{\renewcommand{\baselinestretch}{1.00}\small\normalsize}
+%\newcommand{\doublespace}{\renewcommand{\baselinestretch}{1.5}\small\normalsize}
+%\newcommand{\tight}{\renewcommand{\baselinestretch}{1.10}\small\normalsize}
+%\renewcommand{\subfigbottomskip}{0.25ex}
+%\renewcommand{\subfigcapskip}{0ex}
+% -----------------------------------------------------------------
+% margins
+% -----------------------------------------------------------------
+%\topmargin -0.1truein
+%\textheight 9truein
+%\oddsidemargin .25truein
+%\evensidemargin .25truein
+%\textwidth 6truein
+% -----------------------------------------------------------------
+% sectioning commands See Latex Companion, pp24-30 for details
+% -----------------------------------------------------------------
+%\setcounter{secnumdepth}{2}
+%\makeatletter
+%%\parskip=0pt
+%\renewcommand\section{\@startsection{section}
+%        {1}%    level
+%        {\z@}%  indent
+%        {-2.5ex}% beforeskip
+%        {.5ex}% afterskip
+%        {\normalfont\normalsize\bfseries\parskip=0pt}}% style
+%\renewcommand\subsection{\@startsection{subsection}
+%        {2}%    level
+%        {\z@}%  indent
+%        {-1ex}% beforeskip
+%        {.2ex}% afterskip
+%        {\normalfont\normalsize\bfseries\parskip=0pt}}
+%\renewcommand\subsubsection{\@startsection{subsubsection}%
+%        {3}%    level
+%        {0em}%  indent
+%        {1ex}%  beforeskip
+%        {-.5em}% afterskip
+%        {\normalfont\normalsize\bfseries\parskip=0pt}}% style
+%% The following will generate compact para headings
+%\renewcommand\paragraph{\@startsection{paragraph}%
+%        {4}%    level
+%        {0em}%  indent
+%        {.5ex}%  beforeskip
+%        {-.5em}% afterskip
+%        {\normalfont\normalsize\bfseries\parskip=0pt}}% style
+%\setlength\partopsep{0pt}
+%\setlength\parskip{1.5ex}
+%\setlength\parindent{0pt}
+%\makeatother
+% -----------------------------------------------------------------
+% 
+% -----------------------------------------------------------------
+%\newenvironment{narrow}[1][\parindent]{%
+%  \list{}{%
+%    \setlength{\leftmargin}{#1}%
+%    \setlength{\rightmargin}{#1}%
+%  }%
+%  \item\relax%
+%}{%
+%  \endlist%
+%}
+% -----------------------------------------------------------------
+% jinnconstraint
+% -----------------------------------------------------------------
+%\newcommand{\jinnconstraint}[4]{%
+%\centerline{  
+%\vspace*{1ex}\noindent{%
+%    %\framebox{\begin{minipage}{0.973\columnwidth}%
+%    {\begin{minipage}{0.9\columnwidth}%
+%        \vspace*{4pt}\centerline{\hspace*{-1em}\rule{40em}{0.4pt}}
+%        \begin{list}{}{
+%            \setlength{\topsep}{0pt}
+%            \setlength{\parsep}{0pt}
+%          }
+%        \item[{\bf{#1}}:]    {#2}
+%        %\hspace*{-1em}\rule{20em}{0.4pt}
+%        \item[\emph{State}:] \hspace*{3pt}{#3}
+%        \item[\emph{Check}:] {#4}
+%        \end{list}%
+%        \vspace*{-6pt}\centerline{\hspace*{-1em}\rule{40em}{0.4pt}}
+%              \end{minipage}}}}}
+% -----------------------------------------------------------------
+% listings config
+% -----------------------------------------------------------------

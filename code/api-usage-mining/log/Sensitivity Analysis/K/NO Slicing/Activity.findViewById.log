@@ -1,0 +1,10 @@
+Mining time (millis) : 14423
+[findViewById(1)@true, IF, END_BLOCK]:(0.22,1.0)
+[getActivity(0)@true, findViewById(1)@true]:(0.2,0.98)
+[findViewById(1)@true, assertTrue(1)@true]:(0.13,1.0)
+[findViewById(1)@true, setOnClickListener(1)@true]:(0.11,0.96)
+[findViewById(1)@true, new Runnable(0)@true]:(0.1,1.0)
+[setUp(0)@true, findViewById(1)@true]:(0.1,1.0)
+[findViewById(1)@true, setVisibility(1)@true]:(0.11,0.86)
+[findViewById(1)@true, setText(1)@true]:(0.11,0.86)
+

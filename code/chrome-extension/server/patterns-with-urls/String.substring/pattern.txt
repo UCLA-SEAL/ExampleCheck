@@ -1,0 +1,20 @@
+Total Count:450358
+1:[substring(int,int)@rcv.endsWith("/",)]:12610
+2:[substring(int)@arg0!=-1]:2297
+3:[substring(int,int)@rcv.length()>arg1]:3153
+4:[substring(int,int)@arg1!=-1]:22068
+5:[substring(int)@arg1!=-1]:13781
+6:[substring(int,int)@arg1>arg0]:9458
+7:[substring(int)@arg1>arg0]:4594
+8:[substring(int)@rcv.startsWith("",)]:18375
+9:[substring(int,int)@arg1>-1]:3153
+10:[substring(int)@arg1>-1]:2297
+11:[substring(int,int)@rcv.startsWith("/",)]:6305
+12:[substring(int,int)@arg0<rcv.length()]:3153
+13:[substring(int)@arg0<rcv.length()]:2297
+14:[substring(int,int)@rcv!=null]:9458
+15:[substring(int)@rcv!=null]:9187
+16:[substring(int,int)@true]:157625
+17:[substring(int)@true]:124029
+18:[substring(int,int)@arg1>=arg0]:9458
+19:[substring(int)@arg1>=arg0]:6890

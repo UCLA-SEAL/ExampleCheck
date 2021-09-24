@@ -1,0 +1,5 @@
+Total Count:52460
+1:[makeText(Context,String,int)@true, show()@true]:23649
+2:[makeText(Context,CharSequence,int)@true, show()@true]:23166
+3:[makeText(Context,String,int)@true]:24677
+4:[makeText(Context,CharSequence,int)@true]:23670

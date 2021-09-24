@@ -1,0 +1,4 @@
+Total Count:51187
+1:[matcher(String)@true, IF, group(int)@rcv.find(), END_BLOCK]:14926
+2:[IF, group(int)@rcv.find(), END_BLOCK]:16446
+3:[matcher(String)@true, group(int)@true]:31511

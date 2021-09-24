@@ -1,0 +1,3 @@
+Mining time (millis) : 6348
+[getAsString(0)@rcv!=null]:(1.0,0.13)
+[getAsString(0)@rcv.isJsonPrimitive()]:(1.0,0.06)

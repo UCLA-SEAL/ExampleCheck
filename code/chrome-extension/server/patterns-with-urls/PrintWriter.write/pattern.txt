@@ -1,0 +1,6 @@
+Total Count:7990
+1:[TRY, write(String)@true, close()@true, END_BLOCK, CATCH(Exception), END_BLOCK]:2472
+2:[TRY, getWriter()@true, write(String)@true, END_BLOCK, CATCH(Exception), END_BLOCK]:2584
+3:[TRY, write(String)@true, END_BLOCK, CATCH(Exception), END_BLOCK]:5034
+4:[getWriter()@true, write(String)@true]:2584
+5:[write(String)@true, close()@true]:2461

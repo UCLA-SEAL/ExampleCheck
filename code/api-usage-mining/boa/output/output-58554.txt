@@ -1,0 +1,6 @@
+record[436f2e4e13a15b7baef7bf98fe1104d6e7706542] = First Release
+
+First release of the Android Remote Sensing (AIRS) platform, based on
+the original MIDP version called NORS (see
+http://sourceforge.com/projects/nors)
+

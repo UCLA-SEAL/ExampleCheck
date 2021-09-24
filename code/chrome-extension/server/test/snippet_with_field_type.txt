@@ -1,0 +1,20 @@
+// https://stackoverflow.com/questions/8327136
+
+public class CustomHorizontalScrollView extends HorizontalScrollView {
+ 
+    public ViewPager mParentView; 
+ 
+    public void setParent(ViewPager parentView) {
+        mParentView = parentView;
+    } 
+ 
+    @Override 
+    public synchronized boolean onTouchEvent(MotionEvent event) {
+        if ((event.getAction() == MotionEvent.ACTION_DOWN) &&
+            (mParentView != null)) { 
+            mParentView.requestDisallowInterceptTouchEvent(true); 
+        } 
+ 
+        return super.onTouchEvent(event);
+    }  
+} 

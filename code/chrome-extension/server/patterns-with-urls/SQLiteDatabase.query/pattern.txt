@@ -1,0 +1,2 @@
+Total Count:13095
+1:[query(String,String[],String,String[],String,String,String)@true, close()@true]:5563

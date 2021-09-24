@@ -1,0 +1,4 @@
+Mining time (millis) : 239
+[firstKey(0)@!(rcv==null||rcv.isEmpty())]:(1.0,0.0)
+[firstKey(0)@rcv.size()>0]:(1.0,0.0)
+[firstKey(0)@!(rcv.isEmpty())]:(1.0,0.0)

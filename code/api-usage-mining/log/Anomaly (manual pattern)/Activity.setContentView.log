@@ -1,0 +1,83 @@
+Total number of relevant Java snippets: 4425
+Total number of unreliable Java snippets: 35
+Answer Id --- http://stackoverflow.com/questions/14198153
+Violation: MissingMethodCall, super.onCreate(1)@true
+Answer Id --- http://stackoverflow.com/questions/19018721
+Violation: MissingMethodCall, super.onCreate(1)@true
+Answer Id --- http://stackoverflow.com/questions/34571392
+Violation: MissingMethodCall, super.onCreate(1)@true
+Answer Id --- http://stackoverflow.com/questions/5070922
+Violation: MissingMethodCall, super.onCreate(1)@true
+Answer Id --- http://stackoverflow.com/questions/36084734
+Violation: DisorderMethodCall, setContentView(1)@true
+Answer Id --- http://stackoverflow.com/questions/25271596
+Violation: MissingMethodCall, super.onCreate(1)@true
+Answer Id --- http://stackoverflow.com/questions/27221470
+Violation: DisorderMethodCall, setContentView(1)@true
+Answer Id --- http://stackoverflow.com/questions/12754919
+Violation: MissingMethodCall, super.onCreate(1)@true
+Answer Id --- http://stackoverflow.com/questions/18994233
+Violation: MissingMethodCall, super.onCreate(1)@true
+Answer Id --- http://stackoverflow.com/questions/24483388
+Violation: DisorderMethodCall, setContentView(1)@true
+Answer Id --- http://stackoverflow.com/questions/26190803
+Violation: MissingMethodCall, super.onCreate(1)@true
+Answer Id --- http://stackoverflow.com/questions/26988925
+Violation: DisorderMethodCall, setContentView(1)@true
+Answer Id --- http://stackoverflow.com/questions/14064673
+Violation: MissingMethodCall, super.onCreate(1)@true
+Answer Id --- http://stackoverflow.com/questions/20772237
+Violation: MissingMethodCall, super.onCreate(1)@true
+Answer Id --- http://stackoverflow.com/questions/9626165
+Violation: MissingMethodCall, super.onCreate(1)@true
+Answer Id --- http://stackoverflow.com/questions/7734703
+Violation: DisorderMethodCall, setContentView(1)@true
+Answer Id --- http://stackoverflow.com/questions/24895558
+Violation: MissingMethodCall, super.onCreate(1)@true
+Answer Id --- http://stackoverflow.com/questions/20456402
+Violation: DisorderMethodCall, setContentView(1)@true
+Answer Id --- http://stackoverflow.com/questions/29469557
+Violation: MissingMethodCall, super.onCreate(1)@true
+Answer Id --- http://stackoverflow.com/questions/2125082
+Violation: MissingMethodCall, super.onCreate(1)@true
+Answer Id --- http://stackoverflow.com/questions/21644114
+Violation: MissingMethodCall, super.onCreate(1)@true
+Answer Id --- http://stackoverflow.com/questions/20274698
+Violation: MissingMethodCall, super.onCreate(1)@true
+Answer Id --- http://stackoverflow.com/questions/20902933
+Violation: DisorderMethodCall, setContentView(1)@true
+Answer Id --- http://stackoverflow.com/questions/27223784
+Violation: MissingMethodCall, super.onCreate(1)@true
+Answer Id --- http://stackoverflow.com/questions/26247417
+Violation: MissingMethodCall, super.onCreate(1)@true
+Answer Id --- http://stackoverflow.com/questions/22800371
+Violation: MissingMethodCall, super.onCreate(1)@true
+Answer Id --- http://stackoverflow.com/questions/11697788
+Violation: MissingMethodCall, super.onCreate(1)@true
+Answer Id --- http://stackoverflow.com/questions/33268281
+Violation: MissingMethodCall, super.onCreate(1)@true
+Answer Id --- http://stackoverflow.com/questions/14483215
+Violation: MissingMethodCall, super.onCreate(1)@true
+Answer Id --- http://stackoverflow.com/questions/22532465
+Violation: MissingMethodCall, super.onCreate(1)@true
+Answer Id --- http://stackoverflow.com/questions/5149674
+Violation: MissingMethodCall, super.onCreate(1)@true
+Answer Id --- http://stackoverflow.com/questions/26191814
+Violation: MissingMethodCall, super.onCreate(1)@true
+Answer Id --- http://stackoverflow.com/questions/25385546
+Violation: MissingMethodCall, super.onCreate(1)@true
+Answer Id --- http://stackoverflow.com/questions/18881063
+Violation: MissingMethodCall, super.onCreate(1)@true
+Answer Id --- http://stackoverflow.com/questions/16400981
+Violation: MissingMethodCall, super.onCreate(1)@true
+Missing Control-flow Structure: 0
+Disorder Control-flow Structure: 0
+Missing API Call: 28
+Disorder API Call: 7
+Incorrect Predicates: 0
+Total number of recognized snippets: 2803
+Average score: 3.341063146628612
+Unreliable recognized snippets: 25
+Total number of unrecognized snippets: 1622
+Unreliable unrecognized snippets: 10
+

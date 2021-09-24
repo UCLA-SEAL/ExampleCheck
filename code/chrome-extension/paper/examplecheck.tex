@@ -1,0 +1,155 @@
+% ==================================================
+% FSE demo paper
+%   4 pages in the ACM proceedings format, including all text, references and figures.
+%
+%   The paper must communicate clearly the following information to the audience:
+%      1. the envisioned users
+%      2. the software engineering challenge it proposes to address;
+%      3. the methodology it implies for its users
+%      4. the results of validation studies already conducted for mature tools, or the design of planned studies for early prototypes.
+%   The paper must be accompanied by a short video (between 3 and 5 minutes long)
+%
+%   Paper    submission : June 29, 2018
+%   Author   notification : July 16, 2018
+%   Camera-ready deadline : July 30, 2018
+% ==================================================
+\documentclass[sigconf, screen]{acmart}
+%\settopmatter{authorsperrow=4}
+%\pdfpagewidth=8.5in
+%\pdfpageheight=11in
+\input{macros}
+
+%\setcopyright{rightsretained}
+\setcopyright{acmlicensed}
+%\setcopyright{acmcopyright}
+\acmPrice{15.00}
+\acmDOI{10.1145/3236024.3264585}
+\acmYear{2018}
+\copyrightyear{2018}
+\acmISBN{978-1-4503-5573-5/18/11}
+\acmConference[ESEC/FSE '18]{Proceedings of the 26th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering}{November 4--9, 2018}{Lake Buena Vista, FL, USA}
+\acmBooktitle{Proceedings of the 26th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE '18), November 4--9, 2018, Lake Buena Vista, FL, USA}
+
+
+% correct bad hyphenation here
+\hyphenation{op-tical net-works semi-conduc-tor}
+
+\begin{document}
+\title{Augmenting Stack Overflow with API Usage Patterns Mined from GitHub}
+
+%\author{Anastasia Reinhardt\textsuperscript{1,2}\footnotemark\,\,Tianyi Zhang\textsuperscript{1}\footnotemark\,\,Mihir Mathur\textsuperscript{1}\,\,Miryung Kim\textsuperscript{1}}
+%\authornote{Work done as an intern at University of California, Los Angeles.}
+%\authornote{Corresponding author.}
+%\affiliation{\textsuperscript{1}University of California, Los Angeles}
+%\affiliation{\textsuperscript{2}George Fox University}
+%\affiliation{areinhardt14@georgefox.edu, \{tianyi.zhang, miryung\}@cs.ucla.edu, mihirmathur@ucla.edu}
+
+\author{Anastasia Reinhardt}
+\authornote{Work done as an intern at University of California, Los Angeles.}
+\affiliation{
+  \institution{George Fox University}
+  \city{Newberg}
+  \state{Oregon}
+  \country{U.S.}
+}
+\email{areinhardt14@georgefox.edu}
+
+\author{Tianyi Zhang}
+\authornote{Corresponding author.}
+\affiliation{
+  \institution{University of California, Los Angeles}
+  \city{Los Angeles}
+  \state{California}
+  \country{U.S.}
+}
+\email{tianyi.zhang@cs.ucla.edu}
+
+\author{Mihir Mathur}
+\affiliation{
+  \institution{University of California, Los Angeles}
+  \city{Los Angeles}
+  \state{California}
+  \country{U.S.}
+}
+\email{mihirmathur@ucla.edu}
+
+\author{Miryung Kim}
+\affiliation{
+  \institution{University of California, Los Angeles}
+  \city{Los Angeles}
+  \state{California}
+  \country{U.S.}
+}
+\email{miryung@cs.ucla.edu}
+
+
+%\renewcommand{\authors}{Anastasia Reinhart, Tianyi Zhang, Mihir Mathur, and Miryung Kim}
+%\renewcommand{\shortauthors}{Anastasia Reinhart, Tianyi Zhang, Mihir Mathur, and Miryung Kim}
+\title[Augmenting Stack Overflow with API Usage Patterns from GitHub]{Augmenting Stack Overflow with API Usage Patterns Mined from GitHub}
+
+% ==================================================
+% abstract
+% ==================================================
+\input{abstract}
+
+\begin{CCSXML}
+<ccs2012>
+<concept>
+<concept_id>10011007.10010940.10011003.10011004</concept_id>
+<concept_desc>Software and its engineering~Software reliability</concept_desc>
+<concept_significance>300</concept_significance>
+</concept>
+<concept>
+%<concept_id>10011007.10011074.10011134</concept_id>
+%<concept_desc>Software and its engineering~Collaboration in software development</concept_desc>
+%<concept_significance>300</concept_significance>
+%</concept>
+<concept>
+<concept_id>10011007.10011006.10011066.10011069</concept_id>
+<concept_desc>Software and its engineering~Integrated and visual development environments</concept_desc>
+<concept_significance>300</concept_significance>
+</concept>
+</ccs2012>
+\end{CCSXML}
+
+\ccsdesc[300]{Software and its engineering~Software reliability}
+%\ccsdesc[300]{Software and its engineering~Collaboration in software development}
+\ccsdesc[300]{Software and its engineering~Integrated and visual development environments}
+\keywords{online Q\&A forum, API usage pattern, code assessment}  
+
+\maketitle
+
+% ==================================================
+% Introduction
+% ==================================================
+\input{intro}
+
+
+% ==================================================
+% Approach
+% ==================================================
+\input{impl}
+
+% ==================================================
+% Motivating Example and Tool Features
+% ==================================================
+\input{motive}
+
+% ==================================================
+% Related Work
+% ==================================================
+\input{related}
+
+% ==================================================
+% Summary
+% ==================================================
+\input{summary}
+
+\section*{Acknowledgment}
+
+Participants in this project are supported by AFRL grant FA8750-15-2-0075, NSF grants CCF-1764077, CCF-1527923, CCF-1460325, CCF-1723773, ONR grant N00014-18-1-2037 and gift from Huawei.
+
+\balance
+\bibliographystyle{ACM-Reference-Format}
+\bibliography{examplecheck}
+\end{document}

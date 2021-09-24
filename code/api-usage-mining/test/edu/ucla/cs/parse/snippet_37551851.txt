@@ -1,0 +1,53 @@
+public static void main( String[] args ) throws Exception
+{ 
+    //get desktop location 
+    String location = System.getenv( "USERPROFILE" ) + "\\Desktop\\SplitFile\\";
+ 
+    String regex = "^Rate..RMB";
+ 
+    //get input file 
+    FileInputStream inputfile = new FileInputStream( location + "InputTest.txt" );
+    BufferedReader br = new BufferedReader( new InputStreamReader( inputfile ) );
+ 
+    int count = 0;
+    String in = br.readLine();
+ 
+    //if the file starts with the pattern, skip the first line 
+    if( Pattern.matches( regex, in ) )
+        br.readLine();
+ 
+    //create first output file 
+    File outfile = new File( location + "OutputFile_" + count + ".txt" );
+    PrintWriter pw = new PrintWriter( outfile );
+ 
+    while( in != null )
+    { 
+        //if pattern matches start a new file 
+        if( Pattern.matches( regex, in ) )
+        { 
+            //close previous output 
+            pw.flush();
+            pw.close();
+ 
+            //create new output file 
+            outfile = new File( location + "OutputFile_" + count + ".txt" );
+            pw = new PrintWriter( outfile );
+ 
+            count++;
+            in = br.readLine();
+            continue; 
+        } 
+ 
+        //print to file 
+        pw.println( in );
+ 
+        in = br.readLine();
+    } 
+ 
+    //close final output 
+    pw.flush();
+    pw.close();
+ 
+    //close input 
+    br.close();
+} 

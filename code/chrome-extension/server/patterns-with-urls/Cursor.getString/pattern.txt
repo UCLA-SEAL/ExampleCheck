@@ -1,0 +1,2 @@
+Total Count:40887
+1:[getString(int)@true, close()@true]:10418

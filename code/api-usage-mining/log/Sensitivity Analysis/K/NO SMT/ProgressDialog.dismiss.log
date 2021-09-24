@@ -1,0 +1,4 @@
+Mining time (millis) : 1231
+[dismiss(0)@rcv!=null]:(1.0,0.22)
+[dismiss(0)@rcv!=null&&rcv.isShowing()]:(1.0,0.05)
+

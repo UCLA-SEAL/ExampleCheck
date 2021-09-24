@@ -1,0 +1,3 @@
+Total Count:179869
+1:[indexOf(String)@true, substring(int,int)@true]:51479
+2:[indexOf(String)@true, IF, END_BLOCK]:89935

@@ -1,0 +1,181 @@
+Total number of relevant Java snippets: 58
+Total number of unreliable Java snippets: 58
+Answer Id --- http://stackoverflow.com/questions/13253672
+Violation: IncorrectPrecondition, getAsString(0)@true
+Violation: IncorrectPrecondition, getAsString(0)@true
+Answer Id --- http://stackoverflow.com/questions/34667127
+Violation: IncorrectPrecondition, getAsString(0)@!(value.isBoolean()) && value.isString() && !(value.isBoolean())
+Violation: IncorrectPrecondition, getAsString(0)@!(value.isBoolean()) && value.isString() && !(value.isBoolean())
+Answer Id --- http://stackoverflow.com/questions/38039099
+Violation: IncorrectPrecondition, getAsString(0)@true
+Violation: IncorrectPrecondition, getAsString(0)@true
+Answer Id --- http://stackoverflow.com/questions/38279111
+Violation: IncorrectPrecondition, getAsString(0)@true
+Violation: IncorrectPrecondition, getAsString(0)@true
+Answer Id --- http://stackoverflow.com/questions/38740232
+Violation: IncorrectPrecondition, getAsString(0)@true
+Violation: IncorrectPrecondition, getAsString(0)@true
+Answer Id --- http://stackoverflow.com/questions/22092554
+Violation: IncorrectPrecondition, getAsString(0)@true
+Violation: IncorrectPrecondition, getAsString(0)@true
+Answer Id --- http://stackoverflow.com/questions/22132445
+Violation: IncorrectPrecondition, getAsString(0)@true
+Violation: IncorrectPrecondition, getAsString(0)@true
+Answer Id --- http://stackoverflow.com/questions/24959698
+Violation: IncorrectPrecondition, getAsString(0)@this.type.equals(java.lang.String.class) && !(jsonElement == null) && !(jsonElement == null || jsonElement.isJsonNull()) && !(valueJsonElement == null || valueJsonElement.isJsonNull()) && !(this.type.equals(java.lang.Integer.class))
+Answer Id --- http://stackoverflow.com/questions/14999788
+Violation: IncorrectPrecondition, getAsString(0)@true
+Violation: IncorrectPrecondition, getAsString(0)@true
+Answer Id --- http://stackoverflow.com/questions/17614017
+Violation: IncorrectPrecondition, getAsString(0)@rootJSonElement.getAsJsonArray().size() > 0 && jsonElement.getAsJsonArray().size() > 0
+Violation: IncorrectPrecondition, getAsString(0)@rootJSonElement.getAsJsonArray().size() > 0 && jsonElement.getAsJsonArray().size() > 0
+Answer Id --- http://stackoverflow.com/questions/21663438
+Violation: IncorrectPrecondition, getAsString(0)@true
+Violation: IncorrectPrecondition, getAsString(0)@true
+Answer Id --- http://stackoverflow.com/questions/38968307
+Violation: IncorrectPrecondition, getAsString(0)@true
+Violation: IncorrectPrecondition, getAsString(0)@true
+Answer Id --- http://stackoverflow.com/questions/32013201
+Violation: IncorrectPrecondition, getAsString(0)@true
+Violation: IncorrectPrecondition, getAsString(0)@true
+Answer Id --- http://stackoverflow.com/questions/26606923
+Violation: IncorrectPrecondition, getAsString(0)@true
+Violation: IncorrectPrecondition, getAsString(0)@true
+Answer Id --- http://stackoverflow.com/questions/8120175
+Violation: IncorrectPrecondition, getAsString(0)@true
+Violation: IncorrectPrecondition, getAsString(0)@true
+Answer Id --- http://stackoverflow.com/questions/33433383
+Violation: IncorrectPrecondition, getAsString(0)@true
+Violation: IncorrectPrecondition, getAsString(0)@true
+Answer Id --- http://stackoverflow.com/questions/25524340
+Violation: IncorrectPrecondition, getAsString(0)@true
+Violation: IncorrectPrecondition, getAsString(0)@true
+Answer Id --- http://stackoverflow.com/questions/38896001
+Violation: IncorrectPrecondition, getAsString(0)@true
+Violation: IncorrectPrecondition, getAsString(0)@true
+Answer Id --- http://stackoverflow.com/questions/35352028
+Violation: IncorrectPrecondition, getAsString(0)@true
+Violation: IncorrectPrecondition, getAsString(0)@true
+Answer Id --- http://stackoverflow.com/questions/26333874
+Violation: IncorrectPrecondition, getAsString(0)@true
+Violation: IncorrectPrecondition, getAsString(0)@true
+Violation: IncorrectPrecondition, getAsString(0)@true
+Violation: IncorrectPrecondition, getAsString(0)@true
+Answer Id --- http://stackoverflow.com/questions/19636110
+Violation: IncorrectPrecondition, getAsString(0)@json instanceof JsonObject && jeJson != null
+Violation: IncorrectPrecondition, getAsString(0)@json instanceof JsonObject && jeJson != null
+Answer Id --- http://stackoverflow.com/questions/32631484
+Violation: IncorrectPrecondition, getAsString(0)@iterator.hasNext() && urlOfListingBed != null && iter.hasNext() && jsonElementChild != null
+Violation: IncorrectPrecondition, getAsString(0)@iterator.hasNext() && urlOfListingBed != null && iter.hasNext() && jsonElementChild != null
+Answer Id --- http://stackoverflow.com/questions/36589416
+Violation: IncorrectPrecondition, getAsString(0)@typeObj != null
+Answer Id --- http://stackoverflow.com/questions/36436272
+Violation: IncorrectPrecondition, getAsString(0)@value.isJsonArray() && value.getAsJsonArray().size() > 0
+Violation: IncorrectPrecondition, getAsString(0)@value.isJsonArray() && value.getAsJsonArray().size() > 0
+Answer Id --- http://stackoverflow.com/questions/30713470
+Violation: IncorrectPrecondition, getAsString(0)@json != null
+Answer Id --- http://stackoverflow.com/questions/29860000
+Violation: IncorrectPrecondition, getAsString(0)@true
+Violation: IncorrectPrecondition, getAsString(0)@true
+Answer Id --- http://stackoverflow.com/questions/6205384
+Violation: IncorrectPrecondition, getAsString(0)@true
+Violation: IncorrectPrecondition, getAsString(0)@true
+Answer Id --- http://stackoverflow.com/questions/26021926
+Violation: IncorrectPrecondition, getAsString(0)@true
+Violation: IncorrectPrecondition, getAsString(0)@true
+Answer Id --- http://stackoverflow.com/questions/22208033
+Violation: IncorrectPrecondition, getAsString(0)@true
+Violation: IncorrectPrecondition, getAsString(0)@true
+Answer Id --- http://stackoverflow.com/questions/23685271
+Violation: IncorrectPrecondition, getAsString(0)@jsonArray.size() > 0
+Violation: IncorrectPrecondition, getAsString(0)@jsonArray.size() > 0
+Answer Id --- http://stackoverflow.com/questions/38655266
+Violation: IncorrectPrecondition, getAsString(0)@true
+Violation: IncorrectPrecondition, getAsString(0)@true
+Answer Id --- http://stackoverflow.com/questions/6460364
+Violation: IncorrectPrecondition, getAsString(0)@jsonObject.entrySet().size() > 0 && element.isJsonPrimitive() && !(!json.isJsonObject())
+Answer Id --- http://stackoverflow.com/questions/12204850
+Violation: IncorrectPrecondition, getAsString(0)@true
+Violation: IncorrectPrecondition, getAsString(0)@true
+Answer Id --- http://stackoverflow.com/questions/5397641
+Violation: IncorrectPrecondition, getAsString(0)@true
+Violation: IncorrectPrecondition, getAsString(0)@true
+Answer Id --- http://stackoverflow.com/questions/30465048
+Violation: IncorrectPrecondition, getAsString(0)@true
+Violation: IncorrectPrecondition, getAsString(0)@true
+Answer Id --- http://stackoverflow.com/questions/21787292
+Violation: IncorrectPrecondition, getAsString(0)@true
+Violation: IncorrectPrecondition, getAsString(0)@true
+Answer Id --- http://stackoverflow.com/questions/18563488
+Violation: IncorrectPrecondition, getAsString(0)@true
+Violation: IncorrectPrecondition, getAsString(0)@true
+Answer Id --- http://stackoverflow.com/questions/26046107
+Violation: IncorrectPrecondition, getAsString(0)@true
+Violation: IncorrectPrecondition, getAsString(0)@true
+Answer Id --- http://stackoverflow.com/questions/10063027
+Violation: IncorrectPrecondition, getAsString(0)@true
+Violation: IncorrectPrecondition, getAsString(0)@true
+Answer Id --- http://stackoverflow.com/questions/35427052
+Violation: IncorrectPrecondition, getAsString(0)@true
+Violation: IncorrectPrecondition, getAsString(0)@true
+Answer Id --- http://stackoverflow.com/questions/8081256
+Violation: IncorrectPrecondition, getAsString(0)@iterator.hasNext() && !(!value.isJsonPrimitive())
+Answer Id --- http://stackoverflow.com/questions/16018710
+Violation: IncorrectPrecondition, getAsString(0)@true
+Violation: IncorrectPrecondition, getAsString(0)@true
+Answer Id --- http://stackoverflow.com/questions/6299312
+Violation: IncorrectPrecondition, getAsString(0)@true && !(json.isJsonNull()) && !(jsonPrimitive.isNumber())
+Violation: IncorrectPrecondition, getAsString(0)@true && !(json.isJsonNull()) && !(jsonPrimitive.isNumber())
+Answer Id --- http://stackoverflow.com/questions/16609534
+Violation: IncorrectPrecondition, getAsString(0)@iterator.hasNext()
+Violation: IncorrectPrecondition, getAsString(0)@iterator.hasNext()
+Answer Id --- http://stackoverflow.com/questions/25455250
+Violation: IncorrectPrecondition, getAsString(0)@true
+Violation: IncorrectPrecondition, getAsString(0)@true
+Answer Id --- http://stackoverflow.com/questions/21974847
+Violation: IncorrectPrecondition, getAsString(0)@iterator.hasNext()
+Violation: IncorrectPrecondition, getAsString(0)@iterator.hasNext()
+Answer Id --- http://stackoverflow.com/questions/14848602
+Violation: IncorrectPrecondition, getAsString(0)@!(je instanceof JsonObject) && !(infos.size() == 0) && !(je instanceof JsonObject)
+Violation: IncorrectPrecondition, getAsString(0)@!(je instanceof JsonObject) && !(infos.size() == 0) && !(je instanceof JsonObject)
+Answer Id --- http://stackoverflow.com/questions/6275079
+Violation: IncorrectPrecondition, getAsString(0)@true
+Violation: IncorrectPrecondition, getAsString(0)@true
+Answer Id --- http://stackoverflow.com/questions/20338765
+Violation: IncorrectPrecondition, getAsString(0)@!(json == null) && t != null
+Answer Id --- http://stackoverflow.com/questions/38349465
+Violation: IncorrectPrecondition, getAsString(0)@i < jsonArray.size() && j < array.length
+Violation: IncorrectPrecondition, getAsString(0)@i < jsonArray.size() && j < array.length
+Answer Id --- http://stackoverflow.com/questions/6309258
+Violation: IncorrectPrecondition, getAsString(0)@json.isJsonPrimitive()
+Answer Id --- http://stackoverflow.com/questions/33329220
+Violation: IncorrectPrecondition, getAsString(0)@true
+Violation: IncorrectPrecondition, getAsString(0)@true
+Answer Id --- http://stackoverflow.com/questions/32156073
+Violation: IncorrectPrecondition, getAsString(0)@true
+Violation: IncorrectPrecondition, getAsString(0)@true
+Answer Id --- http://stackoverflow.com/questions/17257521
+Violation: IncorrectPrecondition, getAsString(0)@resultsArray.size() > 0
+Violation: IncorrectPrecondition, getAsString(0)@resultsArray.size() > 0
+Answer Id --- http://stackoverflow.com/questions/9550086
+Violation: IncorrectPrecondition, getAsString(0)@true
+Violation: IncorrectPrecondition, getAsString(0)@true
+Answer Id --- http://stackoverflow.com/questions/29792366
+Violation: IncorrectPrecondition, getAsString(0)@json.isJsonPrimitive()
+Answer Id --- http://stackoverflow.com/questions/38044334
+Violation: IncorrectPrecondition, getAsString(0)@true
+Violation: IncorrectPrecondition, getAsString(0)@true
+Answer Id --- http://stackoverflow.com/questions/28414921
+Violation: IncorrectPrecondition, getAsString(0)@true
+Violation: IncorrectPrecondition, getAsString(0)@true
+Missing Control-flow Structure: 0
+Disorder Control-flow Structure: 0
+Missing API Call: 0
+Disorder API Call: 0
+Incorrect Predicates: 58
+Total number of recognized snippets: 45
+Average score: 5.511111111111111
+Unreliable recognized snippets: 45
+Total number of unrecognized snippets: 13
+Unreliable unrecognized snippets: 13
+

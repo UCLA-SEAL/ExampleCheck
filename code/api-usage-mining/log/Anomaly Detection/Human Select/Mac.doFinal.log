@@ -1,0 +1,60 @@
+Total number of relevant Java snippets: 30
+Total number of unreliable Java snippets: 19
+Answer Id --- http://stackoverflow.com/questions/13237486
+Violation: MissingMethodCall, getBytes(1)@true
+Answer Id --- http://stackoverflow.com/questions/34705409
+Violation: MissingMethodCall, getBytes(1)@true
+Answer Id --- http://stackoverflow.com/questions/33951239
+Violation: MissingMethodCall, getBytes(1)@true
+Answer Id --- http://stackoverflow.com/questions/26296883
+Violation: MissingMethodCall, getBytes(1)@true
+Answer Id --- http://stackoverflow.com/questions/3485422
+Violation: MissingMethodCall, getBytes(1)@true
+Answer Id --- http://stackoverflow.com/questions/6124173
+Violation: MissingMethodCall, getBytes(1)@true
+Answer Id --- http://stackoverflow.com/questions/22732982
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/33808109
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/33388132
+Violation: MissingMethodCall, getBytes(1)@true
+Answer Id --- http://stackoverflow.com/questions/9100324
+Violation: MissingMethodCall, getBytes(1)@true
+Answer Id --- http://stackoverflow.com/questions/11102291
+Violation: MissingMethodCall, getBytes(1)@true
+Answer Id --- http://stackoverflow.com/questions/32421771
+Violation: MissingMethodCall, getBytes(1)@true
+Answer Id --- http://stackoverflow.com/questions/16065768
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/5815482
+Violation: MissingMethodCall, getBytes(1)@true
+Answer Id --- http://stackoverflow.com/questions/35252367
+Violation: MissingMethodCall, getBytes(1)@true
+Answer Id --- http://stackoverflow.com/questions/13597183
+Violation: MissingMethodCall, getBytes(1)@true
+Answer Id --- http://stackoverflow.com/questions/10859801
+Violation: MissingMethodCall, getBytes(1)@true
+Answer Id --- http://stackoverflow.com/questions/24153608
+Violation: MissingMethodCall, getBytes(1)@true
+Answer Id --- http://stackoverflow.com/questions/20725648
+Violation: MissingMethodCall, getBytes(1)@true
+Missing Control-flow Structure: 3
+Disorder Control-flow Structure: 0
+Missing API Call: 16
+Disorder API Call: 0
+Incorrect Predicates: 0
+Total number of recognized snippets: 22
+Average score: 5.0
+Unreliable recognized snippets: 13
+Total number of unrecognized snippets: 8
+Unreliable unrecognized snippets: 6
+

@@ -1,0 +1,5 @@
+Mining time (millis) : 262
+[getBytes(0)@true]:(0.73,0.93)
+[getBytes(0)@true, new ByteArrayInputStream(1)@true]:(0.31,0.95)
+[getBytes(1)@true]:(0.28,0.89)
+

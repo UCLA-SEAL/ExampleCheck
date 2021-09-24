@@ -1,0 +1,4 @@
+Total Count:428954
+1:[new StringBuilder()@true, append(String)@true]:237169
+2:[append(String)@true, toString()@true]:323689
+3:[new StringBuilder()@true, append(String)@true, toString()@true]:218595

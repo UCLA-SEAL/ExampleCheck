@@ -1,0 +1,63 @@
+@font-face {
+ font-family: "Proxima Nova";
+ font-style: normal;
+ font-weight: 700;
+ src: url(chrome.extension.getURL("ProximaNovaRegular.otf")); 
+}
+
+.popover {
+  max-width: 375px;
+  min-height: 500px;
+  white-space: pre-wrap;
+  font-family: 'Proxima Nova';
+  border-radius: 0;
+  border:0;
+}
+
+.popover-title {
+  font-weight: bolder;
+  padding: 1em 2em 1em 2em;
+}
+
+.popover-content{
+  padding: 2em;
+}
+
+#pagination-container{
+  position: absolute;
+  bottom: 1em;
+}
+
+.voteContainer {
+  position: relative;
+  top:-2.5em;
+  background-color: white;
+  border-radius: 30px;
+  box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.12);
+}
+
+.voteButton{
+  vertical-align: middle;
+  padding: 3px 3px 3px 15px;
+}
+
+.voteNumber{
+  vertical-align: middle;
+  padding: 3px 10px 3px 3px;
+}
+
+input:focus,
+select:focus,
+textarea:focus,
+button:focus {
+  outline: none;
+}
+
+.fix {
+  width: 320px;
+  white-space: pre-wrap;       /* Since CSS 2.1 */
+  white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+  white-space: -pre-wrap;      /* Opera 4-6 */
+  white-space: -o-pre-wrap;    /* Opera 7 */
+  word-wrap: break-word;       /* Internet Explorer 5.5+ */
+}

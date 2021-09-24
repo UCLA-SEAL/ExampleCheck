@@ -1,0 +1,10 @@
+Total Count:2230
+1:[TRY, flip()@true, write(ByteBuffer)@true, END_BLOCK, CATCH(IOException), END_BLOCK]:603
+2:[TRY, write(ByteBuffer)@true, END_BLOCK, CATCH(IOException), END_BLOCK]:1494
+3:[TRY, write(ByteBuffer)@true, close()@true, END_BLOCK, CATCH(Exception), END_BLOCK]:666
+4:[TRY, getChannel()@true, write(ByteBuffer)@true, END_BLOCK, CATCH(Exception), END_BLOCK]:768
+5:[getChannel()@true, write(ByteBuffer)@true]:759
+6:[TRY, flip()@true, write(ByteBuffer)@true, END_BLOCK, CATCH(Exception), END_BLOCK]:611
+7:[TRY, write(ByteBuffer)@true, END_BLOCK, CATCH(Exception), END_BLOCK]:1829
+8:[flip()@true, write(ByteBuffer)@true]:602
+9:[write(ByteBuffer)@true, close()@true]:666

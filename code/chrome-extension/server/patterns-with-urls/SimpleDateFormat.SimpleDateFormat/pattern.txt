@@ -1,0 +1,4 @@
+Total Count:56127
+1:[new SimpleDateFormat(String)@true, format(Date)@true]:23489
+2:[TRY, new SimpleDateFormat(String)@true, END_BLOCK, CATCH(Exception), END_BLOCK]:17961
+3:[new SimpleDateFormat(String)@true, parse(String)@true]:9783

@@ -1,0 +1,426 @@
+Total number of relevant Java snippets: 142
+Total number of unreliable Java snippets: 139
+Answer Id --- http://stackoverflow.com/questions/20922075
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/35764306
+Violation: DisorderStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/15490861
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/34990745
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/11444637
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/10815098
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/20971765
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/19373293
+Violation: DisorderStructure, IF
+Answer Id --- http://stackoverflow.com/questions/16567580
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/10184767
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/11923604
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/24116591
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/29525326
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/3988704
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/23816745
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/8712191
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/10344168
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/28120912
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/18820606
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/20705695
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/18965463
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/20293262
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/26830506
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/16828796
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/17209318
+Violation: DisorderMethodCall, getListView(0)@true
+Answer Id --- http://stackoverflow.com/questions/19393476
+Violation: DisorderStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/7388180
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/19820350
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/14619723
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/13560560
+Violation: DisorderStructure, IF
+Violation: MissingStructure, ELSE
+Violation: DisorderStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/29420414
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/17131978
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/21236644
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/26849573
+Violation: DisorderStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/32680103
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/16014811
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/20899266
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/18611144
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/35235371
+Violation: DisorderStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/20897286
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/11334446
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/23864049
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/22020648
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/25529322
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/15990955
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/19921420
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/25367869
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/16512295
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/34314348
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/9589997
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/23817730
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/31819995
+Violation: DisorderStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/26188229
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/30170506
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/7221075
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/9208223
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/8616674
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/10234850
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/29841244
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/4875324
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/18728917
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/36564577
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/19151260
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/22037757
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/8223332
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/25678467
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/31587832
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/32629323
+Violation: DisorderStructure, IF
+Answer Id --- http://stackoverflow.com/questions/26101117
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/3228964
+Violation: DisorderStructure, IF
+Answer Id --- http://stackoverflow.com/questions/14146768
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/15045546
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/17387340
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/22697211
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/4359955
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/22440794
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/13200737
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/27814497
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/15598767
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/28791887
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/36548310
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/21310875
+Violation: DisorderStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/26447890
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/19486649
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/33531915
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/4080235
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/23075155
+Violation: DisorderStructure, IF
+Answer Id --- http://stackoverflow.com/questions/38338751
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/11779759
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/21062444
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/10044746
+Violation: DisorderStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/12725198
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/32250978
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/6460765
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/24680133
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/14599748
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/29692805
+Violation: DisorderStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/10843759
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/17440392
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/34003541
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/16563283
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/21057124
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/22373094
+Violation: DisorderStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/30503662
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/20768114
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/15893783
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/36750478
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/20636849
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/20750615
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/29381267
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/18358901
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/13809450
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/19437403
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/18239210
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/9645642
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/24099511
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/15307267
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/5082843
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/25606981
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/27520090
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/25169360
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/7965764
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/7922352
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/29138555
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/22090231
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/38733653
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/10415432
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/7493897
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/14623618
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/25165324
+Violation: DisorderStructure, IF
+Answer Id --- http://stackoverflow.com/questions/8949655
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/32979331
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/16148926
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/20889693
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/5067995
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/10882946
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/19606211
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/36692208
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Answer Id --- http://stackoverflow.com/questions/9248890
+Violation: MissingStructure, IF
+Violation: MissingStructure, ELSE
+Missing Control-flow Structure: 133
+Disorder Control-flow Structure: 15
+Missing API Call: 0
+Disorder API Call: 1
+Incorrect Predicates: 0
+

@@ -1,0 +1,4 @@
+Mining time (millis) : 821
+[getBytes(0)@true, doFinal(1)@true]:(0.67,0.95)
+[TRY, getBytes(0)@true, doFinal(1)@true, END_BLOCK]:(0.47,1.0)
+[getBytes(1)@true, doFinal(1)@true]:(0.41,0.95)

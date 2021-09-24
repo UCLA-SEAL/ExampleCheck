@@ -1,0 +1,9 @@
+Total Count:38478
+1:[TRY, setString(int,String)@true, END_BLOCK, CATCH(Exception), END_BLOCK]:36189
+2:[TRY, prepareStatement(String)@true, setString(int,String)@true, END_BLOCK, CATCH(Exception), END_BLOCK]:25953
+3:[prepareStatement(String)@true, setString(int,String)@true]:25953
+4:[TRY, setString(int,String)@true, END_BLOCK, CATCH(SQLException), END_BLOCK]:25395
+5:[TRY, prepareStatement(String)@true, setString(int,String)@true, END_BLOCK, CATCH(SQLException), END_BLOCK]:17315
+6:[setString(int,String)@true, close()@true]:11359
+7:[TRY, setString(int,String)@true, close()@true, END_BLOCK, CATCH(Exception), END_BLOCK]:11359
+8:[TRY, TRY, setString(int,String)@true, END_BLOCK, CATCH(Exception), END_BLOCK, END_BLOCK]:15776

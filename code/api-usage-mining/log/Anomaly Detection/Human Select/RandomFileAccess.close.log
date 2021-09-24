@@ -1,0 +1,579 @@
+Total number of relevant Java snippets: 141
+Total number of unreliable Java snippets: 131
+Answer Id --- http://stackoverflow.com/questions/5511672
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/32546725
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/19436377
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Violation: DisorderStructure, END_BLOCK
+Violation: MissingStructure, TRY
+Violation: DisorderMethodCall, close(0)@true
+Violation: MissingStructure, CATCH
+Answer Id --- http://stackoverflow.com/questions/16155398
+Violation: MissingStructure, CATCH
+Answer Id --- http://stackoverflow.com/questions/16662533
+Violation: IncorrectPrecondition, close(0)@true
+Answer Id --- http://stackoverflow.com/questions/2173398
+Violation: IncorrectPrecondition, close(0)@true && !(nextImage >= images.size())
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/5742645
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Answer Id --- http://stackoverflow.com/questions/199954
+Violation: IncorrectPrecondition, close(0)@true
+Answer Id --- http://stackoverflow.com/questions/998447
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/29998082
+Violation: IncorrectPrecondition, close(0)@true
+Violation: IncorrectPrecondition, close(0)@true
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/8678284
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/20696023
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/1133881
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/10291282
+Violation: IncorrectPrecondition, close(0)@true && !(rfile.length() % 16L != 0L) && !(!(rfile.length() % 16L != 0L) && rfile.length() == 16)
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/13178980
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/858553
+Violation: IncorrectPrecondition, close(0)@file.exists()
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/15016898
+Violation: IncorrectPrecondition, close(0)@true
+Answer Id --- http://stackoverflow.com/questions/1367754
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/36199710
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/32800038
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/24547463
+Violation: IncorrectPrecondition, close(0)@true && !(nextImage >= images.size())
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/23647500
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/22095532
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/14338768
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/28242497
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/24760442
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/7352556
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/29078127
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/16694493
+Violation: IncorrectPrecondition, close(0)@true
+Answer Id --- http://stackoverflow.com/questions/13483501
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/19506317
+Violation: IncorrectPrecondition, close(0)@true
+Answer Id --- http://stackoverflow.com/questions/559146
+Violation: IncorrectPrecondition, close(0)@_running && !(len < _filePointer) && len > _filePointer
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/12471528
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/15673721
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/37034126
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/32016400
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/23719736
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/38479816
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/17732702
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/24476105
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/38137716
+Violation: IncorrectPrecondition, close(0)@true && !(nextImage >= images.size())
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/29895658
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/37579421
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/24174978
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/12709715
+Violation: DisorderMethodCall, close(0)@locked && raf != null
+Answer Id --- http://stackoverflow.com/questions/5318445
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/11390787
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/7405541
+Violation: IncorrectPrecondition, close(0)@i < 24
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Answer Id --- http://stackoverflow.com/questions/35862354
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Violation: DisorderStructure, END_BLOCK
+Violation: MissingStructure, TRY
+Violation: DisorderStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: DisorderStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/21757029
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/23383653
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/19867481
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/12743983
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Violation: DisorderStructure, END_BLOCK
+Violation: MissingStructure, TRY
+Violation: DisorderStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: DisorderStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/11260403
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, CATCH
+Answer Id --- http://stackoverflow.com/questions/38280190
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Violation: DisorderStructure, END_BLOCK
+Violation: MissingStructure, TRY
+Violation: DisorderStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: DisorderStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/30266645
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/28314871
+Violation: IncorrectPrecondition, close(0)@true && !(rfile.length() % 16L != 0L) && !(!(rfile.length() % 16L != 0L) && rfile.length() == 16)
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/22723753
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, CATCH
+Answer Id --- http://stackoverflow.com/questions/17150197
+Violation: IncorrectPrecondition, close(0)@new File(dir).listFiles().size() > 0
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Answer Id --- http://stackoverflow.com/questions/20407921
+Violation: IncorrectPrecondition, close(0)@true
+Answer Id --- http://stackoverflow.com/questions/38012294
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/21631145
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/12653311
+Violation: IncorrectPrecondition, close(0)@target > counter
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/26083751
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/13337754
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/28818516
+Violation: IncorrectPrecondition, close(0)@_running && !(len < _filePointer) && len > _filePointer
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/1927398
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/10011928
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Violation: DisorderStructure, END_BLOCK
+Violation: MissingStructure, TRY
+Violation: DisorderMethodCall, close(0)@true
+Violation: MissingStructure, CATCH
+Answer Id --- http://stackoverflow.com/questions/28200665
+Violation: IncorrectPrecondition, close(0)@ownFile
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/6477893
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/8204884
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/4576445
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, CATCH
+Answer Id --- http://stackoverflow.com/questions/12684568
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Violation: DisorderStructure, END_BLOCK
+Violation: MissingStructure, TRY
+Violation: DisorderStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: DisorderStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/24742364
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/30589546
+Violation: IncorrectPrecondition, close(0)@true && !(length != longlength)
+Answer Id --- http://stackoverflow.com/questions/6236324
+Violation: IncorrectPrecondition, close(0)@true && !(nextImage >= images.size())
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/1919074
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/14186253
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/5233697
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/31702114
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/27500421
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/8622438
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/5832334
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Violation: DisorderStructure, END_BLOCK
+Violation: MissingStructure, TRY
+Violation: DisorderMethodCall, close(0)@true
+Violation: MissingStructure, CATCH
+Answer Id --- http://stackoverflow.com/questions/34386762
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/35048111
+Violation: IncorrectPrecondition, close(0)@(line=raf.readLine()) != null && index != -1
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/1033128
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/30128327
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/19675480
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/21329010
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/14156945
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/1919067
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/19974236
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/36197765
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Violation: DisorderStructure, END_BLOCK
+Violation: DisorderMethodCall, close(0)@true
+Answer Id --- http://stackoverflow.com/questions/17207645
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/12315072
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/25058236
+Violation: IncorrectPrecondition, close(0)@true
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/27458667
+Violation: IncorrectPrecondition, close(0)@true
+Violation: DisorderMethodCall, close(0)@true
+Answer Id --- http://stackoverflow.com/questions/10000629
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/33906010
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/7528961
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/36097321
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/34849137
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/5729024
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/33169770
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/16665190
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/13194543
+Violation: IncorrectPrecondition, close(0)@files.size() > 0
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/825972
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/2605884
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/9670402
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, CATCH
+Answer Id --- http://stackoverflow.com/questions/27682316
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/6906912
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/37160830
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Violation: DisorderStructure, END_BLOCK
+Violation: MissingStructure, TRY
+Violation: DisorderMethodCall, close(0)@true
+Violation: MissingStructure, CATCH
+Answer Id --- http://stackoverflow.com/questions/26578355
+Violation: IncorrectPrecondition, close(0)@true
+Violation: DisorderMethodCall, close(0)@true
+Answer Id --- http://stackoverflow.com/questions/26746529
+Violation: IncorrectPrecondition, close(0)@true
+Answer Id --- http://stackoverflow.com/questions/18383294
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/2243731
+Violation: IncorrectPrecondition, close(0)@filename.exists()
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/25223417
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, CATCH
+Answer Id --- http://stackoverflow.com/questions/21870869
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/21927525
+Violation: IncorrectPrecondition, close(0)@array.len > 0
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/35589343
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/185076
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/26774598
+Violation: IncorrectPrecondition, close(0)@true && !(lock != null)
+Answer Id --- http://stackoverflow.com/questions/9733962
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/5803026
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Violation: DisorderStructure, END_BLOCK
+Violation: MissingStructure, TRY
+Violation: DisorderStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: DisorderStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/16292218
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/7591216
+Violation: IncorrectPrecondition, close(0)@true && !(length != longlength)
+Answer Id --- http://stackoverflow.com/questions/9078438
+Violation: IncorrectPrecondition, close(0)@true
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/35811028
+Violation: IncorrectPrecondition, close(0)@length != 0
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Answer Id --- http://stackoverflow.com/questions/571952
+Violation: IncorrectPrecondition, close(0)@true
+Answer Id --- http://stackoverflow.com/questions/37158963
+Violation: IncorrectPrecondition, close(0)@true
+Violation: MissingStructure, FINALLY
+Violation: DisorderStructure, END_BLOCK
+Violation: MissingStructure, TRY
+Violation: DisorderStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: DisorderStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/26765051
+Violation: MissingStructure, FINALLY
+Missing Control-flow Structure: 117
+Disorder Control-flow Structure: 11
+Missing API Call: 0
+Disorder API Call: 8
+Incorrect Predicates: 125
+Total number of recognized snippets: 100
+Average score: 5.64
+Unreliable recognized snippets: 90
+Total number of unrecognized snippets: 41
+Unreliable unrecognized snippets: 41
+

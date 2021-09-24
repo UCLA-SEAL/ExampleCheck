@@ -1,0 +1,95 @@
+Total number of relevant Java snippets: 34
+Total number of unreliable Java snippets: 22
+Answer Id --- http://stackoverflow.com/questions/36136387
+Violation: MissingMethodCall, close(0)@true
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/27891301
+Violation: MissingMethodCall, close(0)@true
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/34588482
+Violation: MissingMethodCall, close(0)@true
+Answer Id --- http://stackoverflow.com/questions/5803026
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Answer Id --- http://stackoverflow.com/questions/12558317
+Violation: MissingMethodCall, close(0)@true
+Answer Id --- http://stackoverflow.com/questions/26083751
+Violation: MissingMethodCall, close(0)@true
+Answer Id --- http://stackoverflow.com/questions/13483501
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/13115831
+Violation: MissingMethodCall, close(0)@true
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Answer Id --- http://stackoverflow.com/questions/10011928
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Answer Id --- http://stackoverflow.com/questions/8129589
+Violation: MissingMethodCall, close(0)@true
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/10291282
+Violation: MissingMethodCall, close(0)@true
+Answer Id --- http://stackoverflow.com/questions/34389522
+Violation: MissingMethodCall, close(0)@true
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Answer Id --- http://stackoverflow.com/questions/14280426
+Violation: MissingMethodCall, close(0)@true
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/20231597
+Violation: MissingMethodCall, close(0)@true
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/7557368
+Violation: MissingMethodCall, close(0)@true
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Answer Id --- http://stackoverflow.com/questions/19179193
+Violation: MissingMethodCall, close(0)@true
+Answer Id --- http://stackoverflow.com/questions/12684568
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Answer Id --- http://stackoverflow.com/questions/3581445
+Violation: MissingMethodCall, close(0)@true
+Answer Id --- http://stackoverflow.com/questions/12983074
+Violation: MissingMethodCall, close(0)@true
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/23719736
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/31179554
+Violation: MissingMethodCall, close(0)@true
+Answer Id --- http://stackoverflow.com/questions/737410
+Violation: MissingMethodCall, close(0)@true
+Missing Control-flow Structure: 14
+Disorder Control-flow Structure: 0
+Missing API Call: 17
+Disorder API Call: 0
+Incorrect Predicates: 0
+Total number of recognized snippets: 25
+Average score: 3.4
+Unreliable recognized snippets: 19
+Total number of unrecognized snippets: 9
+Unreliable unrecognized snippets: 3

@@ -1,0 +1,2141 @@
+Total number of relevant Java snippets: 724
+Total number of unreliable Java snippets: 676
+Answer Id --- http://stackoverflow.com/questions/9962845
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/37565880
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/36651401
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/16786819
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/24076522
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/28397108
+Violation: DisorderStructure, TRY
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/10830715
+Violation: MissingStructure, TRY
+Violation: DisorderStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: DisorderStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: DisorderStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/29101334
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/11485853
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/17438588
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/18244158
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/28828847
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/18046523
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/26821545
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/31565214
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/33575655
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/9301067
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/28790330
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/30668144
+Violation: DisorderStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/23064067
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/8588518
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/29249817
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/24076554
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/22380456
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/22074308
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/25903697
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/13370471
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/22213541
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/17130491
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/7876067
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/34300855
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/31319286
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/28200663
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/21754945
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/32647930
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/36243874
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/23175158
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/37872257
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/29319283
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/21764528
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/11682896
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/36769425
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/39069137
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/10515514
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/19063604
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/29214997
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/5568131
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/34388031
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/30395328
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/23048842
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/7458332
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/15342525
+Violation: DisorderMethodCall, new File(1)@true
+Answer Id --- http://stackoverflow.com/questions/20405824
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/30437081
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/36541008
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/4954288
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/12163386
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/27428392
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/19286510
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/9653986
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/13185882
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/7618049
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/29944856
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/11377641
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/29268316
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/25516555
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/7859553
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/13403140
+Violation: DisorderStructure, CATCH
+Answer Id --- http://stackoverflow.com/questions/10083680
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/22617464
+Violation: DisorderStructure, CATCH
+Answer Id --- http://stackoverflow.com/questions/23089207
+Violation: DisorderMethodCall, new File(1)@true
+Answer Id --- http://stackoverflow.com/questions/39047863
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/12271902
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/33597030
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/31141407
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/20246337
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/16549515
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/31381879
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/29872385
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/20333120
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/18584758
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/32490994
+Violation: DisorderStructure, TRY
+Violation: DisorderStructure, CATCH
+Answer Id --- http://stackoverflow.com/questions/34006268
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/18413290
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/26474929
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/12117834
+Violation: DisorderMethodCall, new File(1)@true
+Answer Id --- http://stackoverflow.com/questions/26532479
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/18884990
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/11499467
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/9441130
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/30064862
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/13475512
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/27369356
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/6771414
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/33767612
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/31649518
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/36295015
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/13919406
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/23660668
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/21359746
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/29402398
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/30251828
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/35824958
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/5800151
+Violation: DisorderMethodCall, new File(1)@true
+Answer Id --- http://stackoverflow.com/questions/18870785
+Violation: DisorderMethodCall, new File(1)@true
+Answer Id --- http://stackoverflow.com/questions/18905107
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/13516769
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/34410586
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/26626424
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/34795130
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/20224907
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/10907651
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/18844559
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/13190349
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/31571892
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/8830157
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/29933665
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/29841271
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/13173899
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/25591113
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/33681659
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/27851013
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/29109556
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/16772510
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/3825561
+Violation: DisorderStructure, TRY
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/19901773
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/18933249
+Violation: DisorderMethodCall, new File(1)@true
+Answer Id --- http://stackoverflow.com/questions/19611721
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/27427991
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/7019884
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/27620283
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/7417173
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/26422734
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/26840338
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/9079576
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/36410363
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/25284032
+Violation: DisorderMethodCall, new File(1)@true
+Answer Id --- http://stackoverflow.com/questions/23628134
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/33816762
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/35878899
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/29765120
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/16478493
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/14109916
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/20008927
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/20157157
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/34054227
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/15439775
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/38561986
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/39163116
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/34875825
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/30055286
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/30388791
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/17964905
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/14792205
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/13066609
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/12733071
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/20753627
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/17914168
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/13030241
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/18318807
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/3231685
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/12638402
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/23796099
+Violation: DisorderMethodCall, new File(1)@true
+Answer Id --- http://stackoverflow.com/questions/24109653
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/25194548
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/22024953
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/25588204
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/29718478
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/24784538
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/30668251
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/29115959
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/17610070
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/5687456
+Violation: DisorderMethodCall, new File(1)@true
+Answer Id --- http://stackoverflow.com/questions/11991990
+Violation: DisorderStructure, CATCH
+Answer Id --- http://stackoverflow.com/questions/4537024
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/6208531
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/12224937
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/36076771
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/36975527
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/26661526
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/28953140
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/22516112
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/27533045
+Violation: DisorderStructure, CATCH
+Answer Id --- http://stackoverflow.com/questions/37837005
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/30543751
+Violation: DisorderStructure, CATCH
+Answer Id --- http://stackoverflow.com/questions/37481936
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/25230397
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/6483000
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/17610004
+Violation: DisorderStructure, CATCH
+Answer Id --- http://stackoverflow.com/questions/22681045
+Violation: DisorderStructure, TRY
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/1381041
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/5595261
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/35148055
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/32448634
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/12120288
+Violation: DisorderMethodCall, new File(1)@true
+Answer Id --- http://stackoverflow.com/questions/27973685
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/13488439
+Violation: DisorderMethodCall, new File(1)@true
+Violation: DisorderStructure, CATCH
+Answer Id --- http://stackoverflow.com/questions/16832199
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/18981806
+Violation: DisorderMethodCall, new File(1)@true
+Answer Id --- http://stackoverflow.com/questions/32295163
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/21974227
+Violation: DisorderStructure, CATCH
+Answer Id --- http://stackoverflow.com/questions/20049028
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/24442846
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/30039127
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/13480908
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/24818364
+Violation: DisorderMethodCall, new File(1)@true
+Answer Id --- http://stackoverflow.com/questions/7819620
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/16131112
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/28774598
+Violation: DisorderMethodCall, new File(1)@true
+Answer Id --- http://stackoverflow.com/questions/20241938
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/18301793
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/9584709
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/14362951
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/31077642
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/684266
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/8830524
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/21051753
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/20667350
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/21859171
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/36428056
+Violation: DisorderStructure, CATCH
+Answer Id --- http://stackoverflow.com/questions/26807995
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/16757360
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/33062385
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/27436526
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/26322298
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/20381636
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/6812521
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/9809683
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/18660311
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/21303741
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/4909024
+Violation: DisorderStructure, CATCH
+Answer Id --- http://stackoverflow.com/questions/15248560
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/32701647
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/35859943
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/12420818
+Violation: DisorderStructure, CATCH
+Answer Id --- http://stackoverflow.com/questions/6771396
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/26587170
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/16787045
+Violation: MissingStructure, TRY
+Violation: DisorderStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: DisorderStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: DisorderStructure, END_BLOCK
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/23487173
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/25717155
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/20357226
+Violation: DisorderStructure, CATCH
+Answer Id --- http://stackoverflow.com/questions/38711286
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/16651128
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/20242299
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/22240655
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/17193873
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/37693776
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/657376
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/30152131
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/6559226
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/22138694
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/12575233
+Violation: DisorderMethodCall, new File(1)@args.length == 2
+Answer Id --- http://stackoverflow.com/questions/36632334
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/17757230
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/26417231
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/18066861
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/38928206
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/20495232
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/27428432
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/29972265
+Violation: DisorderStructure, CATCH
+Answer Id --- http://stackoverflow.com/questions/9206787
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/10969795
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/14534121
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/30490836
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/21429958
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/2083957
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/8216960
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/22809431
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/15249189
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/22659602
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/20799718
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/14615473
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/13439811
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/24939779
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/30200784
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/22653028
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/17646500
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/15109172
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/31763514
+Violation: DisorderMethodCall, new File(1)@true
+Answer Id --- http://stackoverflow.com/questions/20729590
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/23923823
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/32459629
+Violation: DisorderMethodCall, new File(1)@true
+Answer Id --- http://stackoverflow.com/questions/9265322
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/31715750
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/38159616
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/27028845
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/22182030
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/24748923
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/20418394
+Violation: DisorderMethodCall, new File(1)@true
+Answer Id --- http://stackoverflow.com/questions/20495131
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/27343732
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/22935946
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/39042093
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/21090957
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/36294546
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/13900571
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/36011926
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/8800895
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/17907751
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/34803459
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/22838502
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/9810744
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/8760071
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/4052055
+Violation: DisorderMethodCall, new File(1)@true
+Answer Id --- http://stackoverflow.com/questions/7778332
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/10669240
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/21429695
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/20517821
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/21224239
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/27881920
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/93528
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/34932251
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/16625096
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/16989699
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/13991540
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/16166549
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/23344811
+Violation: DisorderMethodCall, new File(1)@true
+Answer Id --- http://stackoverflow.com/questions/38092267
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/10208479
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/3853665
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/11877276
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/23849305
+Violation: DisorderMethodCall, new File(1)@true
+Answer Id --- http://stackoverflow.com/questions/37592893
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/27428692
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/27939621
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/23145444
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/16384133
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/12560294
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/28971267
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/20961813
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/27109673
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/2618952
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/8276638
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/19697980
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/22642058
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/16564624
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/31435082
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/5738235
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/12118415
+Violation: DisorderMethodCall, new File(1)@true
+Answer Id --- http://stackoverflow.com/questions/22248604
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/35971140
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/18556038
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/6406422
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/17070290
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/36427984
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/15666265
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/16285135
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/11544240
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/18647471
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/27659405
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/18166384
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/23343904
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/12387003
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/14215864
+Violation: DisorderStructure, CATCH
+Answer Id --- http://stackoverflow.com/questions/25571867
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/21120504
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/22907939
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/15352950
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/17612326
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/35983163
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/16164895
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/18995043
+Violation: DisorderStructure, CATCH
+Answer Id --- http://stackoverflow.com/questions/18926432
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/14926299
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/8669994
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/28449748
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/29972356
+Violation: DisorderStructure, CATCH
+Answer Id --- http://stackoverflow.com/questions/10643834
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/38479816
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/21737689
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/27220826
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/18329199
+Violation: DisorderMethodCall, new File(1)@true && !(args == null || args.length == 0)
+Answer Id --- http://stackoverflow.com/questions/21949891
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/26445778
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/4727996
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/16445936
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/22483272
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/33449484
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/1856620
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/17927790
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/22113729
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/6559233
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/15744984
+Violation: DisorderMethodCall, new File(1)@true
+Answer Id --- http://stackoverflow.com/questions/19186102
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/31377470
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/29908967
+Violation: DisorderMethodCall, new File(1)@true
+Answer Id --- http://stackoverflow.com/questions/21880882
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/21868495
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/17199116
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/22810957
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/24877646
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/33906495
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/20118422
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/15514646
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/8778869
+Violation: DisorderMethodCall, new File(1)@true
+Answer Id --- http://stackoverflow.com/questions/24648900
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/33989438
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/38852356
+Violation: DisorderMethodCall, new File(1)@true
+Answer Id --- http://stackoverflow.com/questions/23375750
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/34261992
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/24894459
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/26574809
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/18622133
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/24307666
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/12981854
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/30490872
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/18682887
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/32663007
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/30152123
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/5841690
+Violation: DisorderMethodCall, new File(1)@true
+Answer Id --- http://stackoverflow.com/questions/27324423
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/12787489
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/26478941
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/20316217
+Violation: DisorderStructure, CATCH
+Answer Id --- http://stackoverflow.com/questions/25028943
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/29925125
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/31470299
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/14144153
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/16135558
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/29489720
+Violation: MissingStructure, TRY
+Violation: DisorderStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: DisorderStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: DisorderStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/3806154
+Violation: DisorderMethodCall, new File(1)@true
+Answer Id --- http://stackoverflow.com/questions/26389390
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/31039320
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/27154767
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/4555733
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/17640959
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Violation: DisorderMethodCall, new File(1)@args.length > 0
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/23761632
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/24428869
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/14638390
+Violation: DisorderMethodCall, new File(1)@true
+Answer Id --- http://stackoverflow.com/questions/29972064
+Violation: DisorderStructure, CATCH
+Answer Id --- http://stackoverflow.com/questions/11330941
+Violation: DisorderStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/28328917
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/30632052
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/19205200
+Violation: MissingStructure, TRY
+Violation: DisorderStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: DisorderStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: DisorderStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/6306361
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/17627747
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/14555600
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/5846151
+Violation: DisorderMethodCall, new File(1)@true
+Answer Id --- http://stackoverflow.com/questions/7665734
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/26808841
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/32394713
+Violation: DisorderMethodCall, new File(1)@true
+Answer Id --- http://stackoverflow.com/questions/21068240
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/13211604
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/29896484
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/12769389
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/15473616
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/25686161
+Violation: DisorderMethodCall, new File(1)@true
+Answer Id --- http://stackoverflow.com/questions/37025945
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/26246925
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/17168725
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/23724073
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/37132207
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/29436668
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/19967984
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/4726043
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/37804122
+Violation: DisorderMethodCall, new File(1)@args.length > 0
+Answer Id --- http://stackoverflow.com/questions/28989763
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/19468792
+Violation: DisorderMethodCall, new File(1)@true
+Answer Id --- http://stackoverflow.com/questions/19697685
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/33386688
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/20850921
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/22935755
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/12245127
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/18101145
+Violation: DisorderStructure, CATCH
+Answer Id --- http://stackoverflow.com/questions/10969802
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/7650344
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/6592436
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/18669638
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/23274147
+Violation: DisorderStructure, CATCH
+Answer Id --- http://stackoverflow.com/questions/28247987
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/33065256
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/27220864
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/13741943
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/19632248
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/12585369
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/5632895
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/28954387
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/14155088
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/18413872
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/29988777
+Violation: DisorderStructure, CATCH
+Answer Id --- http://stackoverflow.com/questions/18556041
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/30815776
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/27538960
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/24923374
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/22451525
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/20425093
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/29583857
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/30576131
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/26569759
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/34642505
+Violation: MissingStructure, TRY
+Violation: DisorderStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: DisorderStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: DisorderStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/27606824
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/4332964
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/37985619
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/19492227
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/25446531
+Violation: DisorderStructure, TRY
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/23856978
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/27930793
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/30371567
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/37594792
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/10907640
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/10125325
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/11828081
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/23858762
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/23951254
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/28450118
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/16606023
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/32024775
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/14046495
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/23543217
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/13647492
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/29070390
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/18942348
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/29534781
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/31340402
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/31647358
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/30487611
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/29620897
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/4332932
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/39239973
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/6559241
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/11726934
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/18979213
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/20843004
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/36539991
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/13333565
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/23301219
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/36111504
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/10946353
+Violation: DisorderMethodCall, new File(1)@true
+Answer Id --- http://stackoverflow.com/questions/38719658
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/19926245
+Violation: DisorderMethodCall, new File(1)@true
+Answer Id --- http://stackoverflow.com/questions/27861852
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/5511176
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/30047765
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/22549161
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/14613934
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/24488414
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/38120986
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/4533737
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/34867061
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/30137810
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/12746228
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/37837052
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/21584867
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/22460933
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/27089302
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/17464773
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/32367487
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/29976444
+Violation: DisorderStructure, CATCH
+Answer Id --- http://stackoverflow.com/questions/36608733
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/19001973
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/39198018
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/7455004
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/32018600
+Violation: DisorderStructure, CATCH
+Answer Id --- http://stackoverflow.com/questions/20563130
+Violation: DisorderStructure, CATCH
+Answer Id --- http://stackoverflow.com/questions/21761381
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/4092108
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/32396027
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/15454767
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/34235755
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/34548376
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/23729089
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/36490901
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/26785445
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/36309358
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/26377544
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/23004802
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/33261518
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/19920958
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/24571094
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/16644538
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/26826280
+Violation: DisorderStructure, TRY
+Violation: MissingStructure, CATCH
+Answer Id --- http://stackoverflow.com/questions/15777050
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/33804461
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/33476497
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/36802290
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/33662655
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/15681465
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/10436774
+Violation: DisorderMethodCall, new File(1)@true
+Answer Id --- http://stackoverflow.com/questions/4667885
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/36415984
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/31289497
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/15327923
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/29663671
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/28816207
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/35101458
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/27590898
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/23719178
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/6138919
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/36491105
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/18472312
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/11200967
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/36847149
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/23888793
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/6984797
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/20343262
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/22084998
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/1633647
+Violation: DisorderMethodCall, new File(1)@true
+Answer Id --- http://stackoverflow.com/questions/32720894
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/16527467
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/34300274
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/29583369
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/22877330
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/29753784
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/30055093
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/21640161
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/1876503
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/13432957
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/15802422
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/27269928
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/34195989
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/14969690
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/17193887
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/13333726
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/18070847
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/19920956
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/15776325
+Violation: MissingStructure, TRY
+Violation: DisorderStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: DisorderStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: DisorderStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/23180233
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/22575814
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/24374755
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/31747872
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/27538871
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/29794308
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/29316768
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/36665013
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/1377322
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/20231157
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/14536252
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/29136353
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/12813708
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/31358465
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/23225947
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/7180704
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/23145215
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/26299914
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/19874282
+Violation: DisorderStructure, TRY
+Answer Id --- http://stackoverflow.com/questions/25072883
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/17044782
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/17919824
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/2293230
+Violation: DisorderStructure, CATCH
+Answer Id --- http://stackoverflow.com/questions/26216808
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/5841729
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/20637843
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/19996895
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/38229135
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/33929953
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/38487805
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/3922620
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/32031949
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/18689397
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/23260994
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/2706091
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/13169692
+Violation: DisorderMethodCall, new File(1)@true
+Answer Id --- http://stackoverflow.com/questions/29814459
+Violation: DisorderMethodCall, new File(1)@true
+Answer Id --- http://stackoverflow.com/questions/17934855
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/13486832
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/22287415
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/22704276
+Violation: DisorderMethodCall, new File(1)@true
+Answer Id --- http://stackoverflow.com/questions/37935912
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/27648436
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/11823782
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/36287329
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/15198537
+Violation: DisorderStructure, CATCH
+Violation: DisorderStructure, CATCH
+Answer Id --- http://stackoverflow.com/questions/19598730
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/11149934
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/29430102
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/18116859
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/39047859
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/16211587
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/37678429
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/11302672
+Violation: MissingStructure, TRY
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, FINALLY
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/18825588
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/25591218
+Violation: DisorderMethodCall, new File(1)@true
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/35249835
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/11045586
+Violation: MissingStructure, TRY
+Violation: MissingStructure, CATCH
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/34256372
+Violation: MissingStructure, FINALLY
+Answer Id --- http://stackoverflow.com/questions/11130742
+Violation: MissingStructure, FINALLY
+Missing Control-flow Structure: 605
+Disorder Control-flow Structure: 41
+Missing API Call: 0
+Disorder API Call: 106
+Incorrect Predicates: 0
+Total number of recognized snippets: 420
+Average score: 2.0880952380952382
+Unreliable recognized snippets: 391
+Total number of unrecognized snippets: 304
+Unreliable unrecognized snippets: 285
+

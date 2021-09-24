@@ -1,0 +1,42 @@
+Total number of relevant Java snippets: 22
+Total number of unreliable Java snippets: 14
+Answer Id --- http://stackoverflow.com/questions/14899964
+Violation: IncorrectPrecondition, firstKey(0)@true
+Answer Id --- http://stackoverflow.com/questions/25441632
+Violation: IncorrectPrecondition, firstKey(0)@true
+Answer Id --- http://stackoverflow.com/questions/9007448
+Violation: IncorrectPrecondition, firstKey(0)@true
+Answer Id --- http://stackoverflow.com/questions/28731721
+Violation: IncorrectPrecondition, firstKey(0)@true
+Answer Id --- http://stackoverflow.com/questions/31822211
+Violation: IncorrectPrecondition, firstKey(0)@true
+Answer Id --- http://stackoverflow.com/questions/6566962
+Violation: IncorrectPrecondition, firstKey(0)@data.size() > size && !(data.size() > 0 && length < data.firstKey())
+Answer Id --- http://stackoverflow.com/questions/36429066
+Violation: IncorrectPrecondition, firstKey(0)@true
+Answer Id --- http://stackoverflow.com/questions/21983867
+Violation: IncorrectPrecondition, firstKey(0)@true
+Answer Id --- http://stackoverflow.com/questions/17300387
+Violation: IncorrectPrecondition, firstKey(0)@true
+Answer Id --- http://stackoverflow.com/questions/10015694
+Violation: IncorrectPrecondition, firstKey(0)@n <= sortedMap.size() - 1 && i < n
+Answer Id --- http://stackoverflow.com/questions/10980179
+Violation: IncorrectPrecondition, firstKey(0)@true
+Answer Id --- http://stackoverflow.com/questions/1509487
+Violation: IncorrectPrecondition, firstKey(0)@true
+Answer Id --- http://stackoverflow.com/questions/20414656
+Violation: IncorrectPrecondition, firstKey(0)@true
+Answer Id --- http://stackoverflow.com/questions/21983940
+Violation: IncorrectPrecondition, firstKey(0)@true
+Violation: IncorrectPrecondition, firstKey(0)@true
+Missing Control-flow Structure: 0
+Disorder Control-flow Structure: 0
+Missing API Call: 0
+Disorder API Call: 0
+Incorrect Predicates: 14
+Total number of recognized snippets: 13
+Average score: 21.076923076923077
+Unreliable recognized snippets: 6
+Total number of unrecognized snippets: 9
+Unreliable unrecognized snippets: 8
+

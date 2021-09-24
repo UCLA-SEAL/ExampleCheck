@@ -1,0 +1,3 @@
+TimeStamp ts= rs.getTimeStamp(1);
+SimpleDateFormat formater = new SimpleDateFormat("yyyy-MM-dd hh:mm");
+String yourFormatedDate = formater.format(ts);

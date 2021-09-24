@@ -1,0 +1,4 @@
+Total Count:8814
+1:[TRY, getInstance(String)@true, load(InputStream,char[])@true, END_BLOCK, CATCH(Exception), END_BLOCK]:5246
+2:[TRY, load(InputStream,char[])@true, END_BLOCK, CATCH(Exception), END_BLOCK]:6431
+3:[getInstance(String)@true, load(InputStream,char[])@true]:5246

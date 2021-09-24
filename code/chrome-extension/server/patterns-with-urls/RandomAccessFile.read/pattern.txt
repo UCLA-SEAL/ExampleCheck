@@ -1,0 +1,5 @@
+Total Count:3621
+1:[TRY, read(byte[])@true, END_BLOCK, CATCH(Exception), END_BLOCK]:1582
+2:[TRY, read(byte[],int,int)@true, END_BLOCK, CATCH(Exception), END_BLOCK]:1086
+3:[read(byte[])@true]:1582
+4:[read(byte[],int,int)@true]:1086

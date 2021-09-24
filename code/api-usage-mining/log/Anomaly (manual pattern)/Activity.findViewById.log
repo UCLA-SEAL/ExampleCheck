@@ -1,0 +1,86 @@
+Total number of relevant Java snippets: 27
+Total number of unreliable Java snippets: 24
+Answer Id --- http://stackoverflow.com/questions/14364346
+Violation: MissingStructure, IF
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/23913975
+Violation: MissingStructure, IF
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/14619972
+Violation: MissingStructure, IF
+Violation: MissingStructure, END_BLOCK
+Violation: MissingStructure, IF
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/7405144
+Violation: MissingStructure, IF
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/38542129
+Violation: MissingStructure, IF
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/20360971
+Violation: MissingStructure, IF
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/29588538
+Violation: MissingStructure, IF
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/18259601
+Violation: MissingStructure, IF
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/36377770
+Violation: MissingStructure, IF
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/35648466
+Violation: MissingStructure, IF
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/9147132
+Violation: MissingStructure, IF
+Answer Id --- http://stackoverflow.com/questions/34125959
+Violation: MissingStructure, IF
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/29382186
+Violation: MissingStructure, IF
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/31607118
+Violation: MissingStructure, IF
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/25588432
+Violation: MissingStructure, IF
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/31899811
+Violation: MissingStructure, IF
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/37933475
+Violation: MissingStructure, IF
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/7374832
+Violation: MissingStructure, IF
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/7676396
+Violation: MissingStructure, IF
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/33805239
+Violation: MissingStructure, IF
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/15325021
+Violation: MissingStructure, IF
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/28488428
+Violation: MissingStructure, IF
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/23176311
+Violation: MissingStructure, IF
+Violation: MissingStructure, END_BLOCK
+Answer Id --- http://stackoverflow.com/questions/30045517
+Violation: MissingStructure, IF
+Violation: MissingStructure, END_BLOCK
+Missing Control-flow Structure: 24
+Disorder Control-flow Structure: 0
+Missing API Call: 0
+Disorder API Call: 0
+Incorrect Predicates: 0
+Total number of recognized snippets: 18
+Average score: 1.6111111111111112
+Unreliable recognized snippets: 15
+Total number of unrecognized snippets: 9
+Unreliable unrecognized snippets: 9
+

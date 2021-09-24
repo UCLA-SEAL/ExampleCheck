@@ -1,0 +1,7 @@
+Mining time (millis) : 11872
+[get(1)@true, IF, END_BLOCK]:(0.41,1.0)
+[IF, get(1)@rcv.containsKey(arg0,), END_BLOCK]:(0.42,0.08)
+[get(1)@rcv.containsKey(arg0,), IF, END_BLOCK]:(0.41,0.08)
+[IF, get(1)@rcv!=null, END_BLOCK]:(0.42,0.04)
+[get(1)@rcv!=null, IF, END_BLOCK]:(0.41,0.04)
+

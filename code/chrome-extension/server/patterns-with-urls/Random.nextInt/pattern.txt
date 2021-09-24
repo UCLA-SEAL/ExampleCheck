@@ -1,0 +1,2 @@
+Total Count:73467
+1:[TRY, nextInt(int)@true, END_BLOCK, CATCH(Exception), END_BLOCK]:19101

@@ -1,0 +1,4 @@
+Total Count:643
+1:[firstKey()@rcv.size()>0]:64
+2:[firstKey()@!(rcv==null||rcv.isEmpty())]:64
+3:[firstKey()@!(rcv.isEmpty())]:64

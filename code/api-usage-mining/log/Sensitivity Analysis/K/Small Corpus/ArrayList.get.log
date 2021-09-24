@@ -1,0 +1,12 @@
+Mining time (millis) : 4236
+[IF, get(1)@rcv.size()>arg0, END_BLOCK]:(0.58,0.4)
+[get(1)@rcv.size()>arg0, IF, END_BLOCK]:(0.49,0.47)
+[get(1)@rcv.size()>arg0]:(1.0,0.23)
+[LOOP, get(1)@rcv.size()>arg0, END_BLOCK]:(0.74,0.31)
+[IF, get(1)@arg0<size, END_BLOCK]:(0.58,0.3)
+[get(1)@arg0<size, IF, END_BLOCK]:(0.49,0.35)
+[LOOP, get(1)@arg0<size, END_BLOCK]:(0.74,0.23	)
+[get(1)@true, IF, END_BLOCK]:(0.49,0.28)
+[IF, get(1)@arg0<n, END_BLOCK]:(0.58,0.22)
+[get(1)@arg0<n, IF, END_BLOCK]:(0.49,0.26)
+

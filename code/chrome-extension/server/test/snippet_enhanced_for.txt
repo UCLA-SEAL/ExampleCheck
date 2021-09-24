@@ -1,0 +1,11 @@
+String tags2 = "[[\"pdf\",\"java\",\"c++\"],[\"perl\",\"pdf\",\"c\"],[\"java\",\"c++\"]]"; 
+// added commas between the arrays to make sure the JSON is valid
+// your code: String tags2=dbo.getString("Tags");
+Set<String> elems = new HashSet<String>();
+JsonElement rootJSonElement  = new JsonParser().parse(tags2);
+for (JsonElement jsonElement : rootJSonElement.getAsJsonArray()) {
+    for (JsonElement innerJsonElement : jsonElement.getAsJsonArray()) {
+        elems.add(innerJsonElement.getAsString());
+    } 
+}
+System.out.println(elems);

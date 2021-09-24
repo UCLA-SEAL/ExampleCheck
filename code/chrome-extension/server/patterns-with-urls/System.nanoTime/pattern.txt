@@ -1,0 +1,2 @@
+Total Count:23153
+1:[TRY, nanoTime()@true, END_BLOCK, CATCH(Exception), END_BLOCK]:9493

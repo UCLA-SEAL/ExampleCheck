@@ -1,0 +1,5 @@
+Total Count:16322
+1:[getContentPane()@true, setVisible(boolean)@true]:6808
+2:[pack()@true, setVisible(boolean)@true]:6581
+3:[setDefaultCloseOperation(int)@true, setVisible(boolean)@true]:6878
+4:[new JFrame(String)@true, setVisible(boolean)@true]:7441

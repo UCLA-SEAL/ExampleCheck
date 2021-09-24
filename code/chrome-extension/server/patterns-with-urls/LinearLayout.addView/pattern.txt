@@ -1,0 +1,7 @@
+Total Count:12158
+1:[setText(String)@true, addView(TextView)@true]:1751
+2:[new LinearLayout(Context)@true, addView(LinearLayout)@true]:1324
+3:[new TextView(Context)@true, setText(String)@true, addView(TextView)@true]:1502
+4:[new TextView(Context)@true, addView(TextView)@true]:1685
+5:[findViewById(int)@true, addView(View)@true]:1179
+6:[addView(View)@arg0!=null]:219

@@ -1,0 +1,700 @@
+Total number of relevant Java snippets: 848
+Total number of unreliable Java snippets: 337
+Answer Id --- http://stackoverflow.com/questions/27099763
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/28978683
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/22192482
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/15058512
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/37720077
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/10099105
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/31293190
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/9599732
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/32331442
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/17489575
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/28856743
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/21810409
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/29812943
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Violation: IncorrectPrecondition, createNewFile(0)@i <= numberOfSplits
+Answer Id --- http://stackoverflow.com/questions/12934273
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/5940395
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/20603855
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/22283965
+Violation: IncorrectPrecondition, createNewFile(0)@i < 10
+Answer Id --- http://stackoverflow.com/questions/16859589
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/22706355
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/29249817
+Violation: IncorrectPrecondition, createNewFile(0)@f1.exists()
+Violation: IncorrectPrecondition, createNewFile(0)@f1.exists()
+Answer Id --- http://stackoverflow.com/questions/27794674
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/25390531
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/6761391
+Violation: IncorrectPrecondition, createNewFile(0)@true && !(s_logcatProcess != null)
+Answer Id --- http://stackoverflow.com/questions/9456947
+Violation: IncorrectPrecondition, createNewFile(0)@f.exists()
+Answer Id --- http://stackoverflow.com/questions/12529688
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/25092148
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/18554271
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/36581934
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/17230764
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/31494341
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/22869523
+Violation: IncorrectPrecondition, createNewFile(0)@file.exists()
+Answer Id --- http://stackoverflow.com/questions/19799556
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/22785239
+Violation: IncorrectPrecondition, createNewFile(0)@true && !(!(key instanceof RSAPublicKey) && !(key instanceof DSAPublicKey)) && !(bytes == null) && !(!(keyType.equals("ssh-rsa")) && !(keyType.equals("ssh-dss")))
+Answer Id --- http://stackoverflow.com/questions/20884567
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/9635409
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/19854224
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/17883343
+Violation: IncorrectPrecondition, createNewFile(0)@!f.exsist()
+Answer Id --- http://stackoverflow.com/questions/14781880
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/19810209
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/12175460
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/16727310
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/25092131
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/13102033
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/22279773
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/18100563
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/14149535
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/27150454
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/35876054
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/5929427
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/32984977
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/22522795
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/11227374
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/16032303
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/35945505
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/20611486
+Violation: IncorrectPrecondition, createNewFile(0)@days < 3
+Answer Id --- http://stackoverflow.com/questions/29285559
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/8693629
+Violation: IncorrectPrecondition, createNewFile(0)@!fileExists
+Answer Id --- http://stackoverflow.com/questions/36793439
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/25352575
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/13388162
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/34430215
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/13102032
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/24685319
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/9366008
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/16859459
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/20184485
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/34512859
+Violation: IncorrectPrecondition, createNewFile(0)@true && !(!new File("Results\\" + p.getName()).exists() && !new File("Results\\" + p.getName()).mkdir())
+Answer Id --- http://stackoverflow.com/questions/15172363
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/14965840
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/18612884
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/4322811
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/23733624
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/34772006
+Violation: IncorrectPrecondition, createNewFile(0)@true && !(!dir.exists() && !dir.mkdirs())
+Answer Id --- http://stackoverflow.com/questions/28115797
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/20480753
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/9477920
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/21905927
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/12890700
+Violation: IncorrectPrecondition, createNewFile(0)@true && !(tarPath == null || tarFileName == null || tarFileName.isEmpty()) && !(file2WriteName == null || file2WriteName.isEmpty())
+Answer Id --- http://stackoverflow.com/questions/9639202
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/15922719
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/23960218
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/38425942
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/38888986
+Violation: IncorrectPrecondition, createNewFile(0)@!fileIsLocked(file)
+Answer Id --- http://stackoverflow.com/questions/17315735
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/30762910
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/14969452
+Violation: IncorrectPrecondition, createNewFile(0)@f.length() != 0
+Answer Id --- http://stackoverflow.com/questions/8622438
+Violation: IncorrectPrecondition, createNewFile(0)@cacheFile.createNewFile() == false
+Answer Id --- http://stackoverflow.com/questions/10265024
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/7439352
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/15448262
+Violation: IncorrectPrecondition, createNewFile(0)@src.listFiles().size() > 0 && !(f.isDirectory()) && !(src.listFiles().size() > 0 && f.isDirectory() && !new File(newPath).mkdirs())
+Answer Id --- http://stackoverflow.com/questions/22527728
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/11383622
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/26688542
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/31626032
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/21159650
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/22279759
+Violation: IncorrectPrecondition, createNewFile(0)@!file.isFile()
+Answer Id --- http://stackoverflow.com/questions/4089170
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/16234787
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/24880320
+Violation: IncorrectPrecondition, createNewFile(0)@!file.isFile()
+Answer Id --- http://stackoverflow.com/questions/37096431
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/34671223
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/27307856
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/1952364
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/31668356
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/15289119
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/10607476
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/21708276
+Violation: IncorrectPrecondition, createNewFile(0)@file.getParentFile().exists || file.getParentFile().mkdirs()
+Answer Id --- http://stackoverflow.com/questions/22857071
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/24400397
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/26158219
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/26146277
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/23970922
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/2452811
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/18150442
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/17149695
+Violation: IncorrectPrecondition, createNewFile(0)@files != null && files.length > 0
+Answer Id --- http://stackoverflow.com/questions/20267649
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/35325736
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/30525545
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/9277766
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/22495257
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/18535939
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/10530714
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/34293890
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/19978704
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/38048920
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/8256325
+Violation: IncorrectPrecondition, createNewFile(0)@file.isDirectory()
+Answer Id --- http://stackoverflow.com/questions/25679571
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/29712896
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/20267665
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/18628034
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Violation: IncorrectPrecondition, createNewFile(0)@file.getParentFile().mkdir()
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/4318068
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/36816059
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/30120987
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/9838978
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/12263724
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/30382962
+Violation: IncorrectPrecondition, createNewFile(0)@true && !(!fileDirectory.exists() && !fileDirectory.mkdirs())
+Answer Id --- http://stackoverflow.com/questions/11745026
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/12248149
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/9734268
+Violation: IncorrectPrecondition, createNewFile(0)@!f.exsist()
+Answer Id --- http://stackoverflow.com/questions/32517687
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/33880676
+Violation: IncorrectPrecondition, createNewFile(0)@!newFile.exists
+Answer Id --- http://stackoverflow.com/questions/18888523
+Violation: IncorrectPrecondition, createNewFile(0)@fileChannel.size() > FILE_MAX_SIZE
+Answer Id --- http://stackoverflow.com/questions/32410567
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/17097787
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/20716300
+Violation: IncorrectPrecondition, createNewFile(0)@!new java.io.File("store.db").exists()
+Answer Id --- http://stackoverflow.com/questions/24203167
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/35449767
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/36620497
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/29236544
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/33218819
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/8714247
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/26159125
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/6076678
+Violation: IncorrectPrecondition, createNewFile(0)@root.canWrite()
+Answer Id --- http://stackoverflow.com/questions/6315298
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/23977278
+Violation: IncorrectPrecondition, createNewFile(0)@!(!newFile.exists())
+Answer Id --- http://stackoverflow.com/questions/12558317
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/29626419
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/18388603
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/36659705
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/2452747
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/825768
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/32326335
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/36809058
+Violation: IncorrectPrecondition, createNewFile(0)@x == 0 && !(fileChooser.showSaveDialog(compile.this) != JFileChooser.APPROVE_OPTION)
+Answer Id --- http://stackoverflow.com/questions/29878289
+Violation: IncorrectPrecondition, createNewFile(0)@file.delete()
+Answer Id --- http://stackoverflow.com/questions/31773230
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/36581991
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/4807199
+Violation: IncorrectPrecondition, createNewFile(0)@canExport && fileCreated
+Answer Id --- http://stackoverflow.com/questions/29473555
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/27841423
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/14156214
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/4530863
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/9328789
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/10546773
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/20267622
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/20267655
+Violation: IncorrectPrecondition, createNewFile(0)@!f.exists
+Answer Id --- http://stackoverflow.com/questions/25041533
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/32411159
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/13198776
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/5196539
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/22327826
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/22937908
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/35545324
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/14130811
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/34505420
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/17971481
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/29679382
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/20238438
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/11430531
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/24807677
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/26304938
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/8041900
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/21799649
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/27801520
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/21020522
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/10652163
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/20204844
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/22680449
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/34389888
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/5421626
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/7427356
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/23218223
+Violation: IncorrectPrecondition, createNewFile(0)@exportDir.getParentFile().mkdirs()
+Answer Id --- http://stackoverflow.com/questions/9620718
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/17776539
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/16790099
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/10061060
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/19557169
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/23028138
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/27988004
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/9477323
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/25091908
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/35642143
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/2589757
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/18347904
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/32067137
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/13130974
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/5323317
+Violation: IncorrectPrecondition, createNewFile(0)@i < total * 2
+Answer Id --- http://stackoverflow.com/questions/17622525
+Violation: IncorrectPrecondition, createNewFile(0)@!existsFlag
+Answer Id --- http://stackoverflow.com/questions/14671378
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/20280469
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/30302609
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/21175579
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/11904467
+Violation: IncorrectPrecondition, createNewFile(0)@!outputFile.exist()
+Answer Id --- http://stackoverflow.com/questions/11944425
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/28421266
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/30712566
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/28185246
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/16082818
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/21428824
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/32067055
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/2541434
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/25859175
+Violation: IncorrectPrecondition, createNewFile(0)@!file.isFile()
+Answer Id --- http://stackoverflow.com/questions/19978831
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/19952653
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/34315511
+Violation: IncorrectPrecondition, createNewFile(0)@c <= '9'
+Answer Id --- http://stackoverflow.com/questions/7536891
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/27783879
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/33620590
+Violation: IncorrectPrecondition, createNewFile(0)@file.exists() || file.mkdir()
+Answer Id --- http://stackoverflow.com/questions/775745
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/23763426
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/11381977
+Violation: IncorrectPrecondition, createNewFile(0)@true && !(!databaseDir.isDirectory() && !databaseDir.mkdirs())
+Answer Id --- http://stackoverflow.com/questions/25698766
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/36851756
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/25256577
+Violation: IncorrectPrecondition, createNewFile(0)@!file.isEmpty()
+Answer Id --- http://stackoverflow.com/questions/37717510
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/12175450
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/36632334
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/14319161
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/1951684
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/27542028
+Violation: IncorrectPrecondition, createNewFile(0)@!new File("title.txt").exists()
+Answer Id --- http://stackoverflow.com/questions/7940622
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/6748415
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/4534947
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/32328556
+Violation: IncorrectPrecondition, createNewFile(0)@true && !(!targetDir.exists() && false == targetDir.mkdirs())
+Answer Id --- http://stackoverflow.com/questions/2593752
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/37250950
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/19459884
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/6064298
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/19845162
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/18454044
+Violation: IncorrectPrecondition, createNewFile(0)@subs == null
+Answer Id --- http://stackoverflow.com/questions/18536594
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/22279751
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/13642690
+Violation: IncorrectPrecondition, createNewFile(0)@e.hasMoreElements() && !(entry.isDirectory())
+Answer Id --- http://stackoverflow.com/questions/29361199
+Violation: IncorrectPrecondition, createNewFile(0)@!(source.isDirectory())
+Answer Id --- http://stackoverflow.com/questions/10049791
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/17970263
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/27930788
+Violation: IncorrectPrecondition, createNewFile(0)@!f.exists
+Answer Id --- http://stackoverflow.com/questions/18373469
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/27783867
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/11838564
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/9697233
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/19974236
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/8092847
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/5316148
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/37660656
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/30865313
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/34918111
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/15347430
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/27930311
+Violation: IncorrectPrecondition, createNewFile(0)@textFile.exists()
+Answer Id --- http://stackoverflow.com/questions/29111926
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/36470657
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/24430265
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/30417255
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/4188655
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/29892942
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/34905845
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/35652725
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/24005019
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/39183027
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/20683490
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/31494337
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/20043302
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/16687164
+Violation: IncorrectPrecondition, createNewFile(0)@f.exists()
+Answer Id --- http://stackoverflow.com/questions/12661964
+Violation: IncorrectPrecondition, createNewFile(0)@!file.exist()
+Answer Id --- http://stackoverflow.com/questions/25580749
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/24149826
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/9697265
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/6582650
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/11943537
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/25665276
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/15172374
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/14658665
+Violation: IncorrectPrecondition, createNewFile(0)@extras != null && !(resultCode != RESULT_OK)
+Answer Id --- http://stackoverflow.com/questions/10406869
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/25961043
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/1951630
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/13862451
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/30145538
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/28185696
+Violation: IncorrectPrecondition, createNewFile(0)@f1.exists()
+Answer Id --- http://stackoverflow.com/questions/18100674
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/34654057
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/29553079
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/16676607
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/18373434
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/13729729
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/15739414
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/6656623
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/26996935
+Violation: IncorrectPrecondition, createNewFile(0)@file.exists()
+Answer Id --- http://stackoverflow.com/questions/27003277
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/23408776
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/35084279
+Violation: IncorrectPrecondition, createNewFile(0)@i <= 100 && i % 30 == 0
+Answer Id --- http://stackoverflow.com/questions/10027117
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/28013667
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/1830948
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/22300083
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/36287329
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/13991540
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/15204367
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/21749543
+Violation: IncorrectPrecondition, createNewFile(0)@!file.isFile()
+Answer Id --- http://stackoverflow.com/questions/38661189
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/16702258
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/16984117
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/24340058
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/14127350
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/32117335
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/24064408
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/37875711
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/9477321
+Violation: IncorrectPrecondition, createNewFile(0)@true
+Answer Id --- http://stackoverflow.com/questions/17327466
+Violation: IncorrectPrecondition, createNewFile(0)@android.os.Environment.getExternalStorageState().equals(android.os.Environment.MEDIA_MOUNTED) && path.exists()
+Missing Control-flow Structure: 0
+Disorder Control-flow Structure: 0
+Missing API Call: 0
+Disorder API Call: 0
+Incorrect Predicates: 337
+Total number of recognized snippets: 530
+Average score: 4.084905660377358
+Unreliable recognized snippets: 226
+Total number of unrecognized snippets: 318
+Unreliable unrecognized snippets: 111
+

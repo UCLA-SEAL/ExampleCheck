@@ -1,0 +1,3 @@
+Total Count:780
+1:[TRY, loadIcon(PackageManager)@true, END_BLOCK, CATCH(Exception), END_BLOCK]:452
+2:[getPackageManager()@true, loadIcon(PackageManager)@true]:400

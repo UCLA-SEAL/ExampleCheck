@@ -1,0 +1,116 @@
+/** 
+ * This method validates the given time stamp in String format 
+ * @param timestamp 
+ * @return 
+ */ 
+ 
+public static boolean isTimeStampValid(String timestamp) {
+    //(Considering that formal will be yyyy-MM-dd HH:mm:ss.SSSSSS ) 
+    //Tokenize string and separate date and time 
+    boolean time = false;
+    try { 
+            //Tokenize string and separate date and time 
+            StringTokenizer st = new StringTokenizer(timestamp, " ");
+ 
+            if (st.countTokens() != 2) {
+                return false; 
+            } 
+ 
+            String[] dateAndTime = new String[2];
+ 
+            int i = 0;
+            while (st.hasMoreTokens()) {
+                dateAndTime[i] = st.nextToken();
+                i++;
+            } 
+ 
+            String timeToken = dateAndTime[1];
+ 
+            StringTokenizer timeTokens = new StringTokenizer(timeToken, ":");
+            if (timeTokens.countTokens() != 3) {
+                return false; 
+            } 
+ 
+            String[] timeAt = new String[4];
+            int j = 0;
+            while (timeTokens.hasMoreTokens()) {
+                timeAt[j] = timeTokens.nextToken();
+                j++;
+            } 
+            try { 
+                    int HH = Integer.valueOf(timeAt[0].toString());
+                    int mm = Integer.valueOf(timeAt[1].toString());
+                    float ss = Float.valueOf(timeAt[2].toString());
+ 
+ 
+                    if (HH < 60 && HH >= 0 && mm < 60 && mm >= 0 && ss < 60 && ss >= 0) {
+                        time = true;
+                    } else { 
+                    } 
+            } catch (Exception e) {
+                e.printStackTrace();
+            } 
+            //Got Date 
+            String dateToken = dateAndTime[0];//st.nextToken();
+ 
+            //Tokenize separated date and separate year-month-day 
+            StringTokenizer dateTokens = new StringTokenizer(dateToken, "-");
+            if (dateTokens.countTokens() != 3) {
+                return false; 
+            } 
+            String[] tokenAt = new String[3];
+ 
+            //This will give token string array with year month and day value. 
+            int k = 0;
+            while (dateTokens.hasMoreTokens()) {
+                tokenAt[k] = dateTokens.nextToken();
+                k++;
+            } 
+ 
+            //Now try to create new date with got value of date 
+            int dayInt = Integer.parseInt(tokenAt[2]);
+            int monthInt = Integer.parseInt(tokenAt[1]);
+            int yearInt = Integer.parseInt(tokenAt[0]);
+            Calendar cal = new GregorianCalendar();
+            cal.setLenient(false);
+            cal.set(yearInt, monthInt - 1, dayInt);
+            cal.getTime();//If not able to create date it will throw error
+ 
+ 
+ 
+    } catch (Exception e) {
+        e.printStackTrace();
+        return false; 
+    } 
+    //Here we ll check for correct format is provided else it ll return false 
+    try { 
+            Pattern p = Pattern.compile("^\\d{4}[-]?\\d{1,2}[-]?\\d{1,2} \\d{1,2}:\\d{1,2}:\\d{1,2}[.]?\\d{1,6}$");
+            if (p.matcher(timestamp).matches()) {
+            } else { 
+                return false; 
+            } 
+ 
+    } catch (Exception e) {
+        e.printStackTrace();
+        return false; 
+    } 
+    //Cross checking with simple date format to get correct time stamp only 
+    SimpleDateFormat format = new java.text.SimpleDateFormat("yyyy-MM-dd HH:mm:ss.SSSSSS");
+    try { 
+            format.parse(timestamp);
+            //return true; 
+ 
+            if (time) {
+                return true; 
+            } else { 
+                return false; 
+            } 
+    } catch (ParseException e) { 
+        e.printStackTrace(); 
+        return false; 
+    } catch (Exception e) {
+        e.printStackTrace();
+        return false; 
+    } 
+ 
+}

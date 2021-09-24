@@ -1,0 +1,57 @@
+Total number of relevant Java snippets: 138
+Total number of unreliable Java snippets: 19
+Answer Id --- http://stackoverflow.com/questions/19927699
+Violation: MissingMethodCall, pack(0)@true
+Violation: MissingMethodCall, setVisible(1)@true
+Violation: MissingMethodCall, new Dimension(2)@true
+Answer Id --- http://stackoverflow.com/questions/7516611
+Violation: DisorderMethodCall, pack(0)@true
+Answer Id --- http://stackoverflow.com/questions/10601777
+Violation: MissingMethodCall, pack(0)@true
+Answer Id --- http://stackoverflow.com/questions/24744907
+Violation: MissingMethodCall, new Dimension(2)@true
+Answer Id --- http://stackoverflow.com/questions/31758938
+Violation: MissingMethodCall, pack(0)@true
+Answer Id --- http://stackoverflow.com/questions/27512597
+Violation: MissingMethodCall, pack(0)@true
+Violation: MissingMethodCall, setVisible(1)@true
+Answer Id --- http://stackoverflow.com/questions/23363960
+Violation: MissingMethodCall, setVisible(1)@true
+Answer Id --- http://stackoverflow.com/questions/26310769
+Violation: MissingMethodCall, pack(0)@true
+Violation: MissingMethodCall, setVisible(1)@true
+Answer Id --- http://stackoverflow.com/questions/18491301
+Violation: MissingMethodCall, new Dimension(2)@true
+Answer Id --- http://stackoverflow.com/questions/28808398
+Violation: MissingMethodCall, pack(0)@true
+Answer Id --- http://stackoverflow.com/questions/20554735
+Violation: MissingMethodCall, new Dimension(2)@true
+Answer Id --- http://stackoverflow.com/questions/22119218
+Violation: MissingMethodCall, pack(0)@true
+Answer Id --- http://stackoverflow.com/questions/2536423
+Violation: MissingMethodCall, pack(0)@true
+Violation: MissingMethodCall, setVisible(1)@true
+Answer Id --- http://stackoverflow.com/questions/31880779
+Violation: MissingMethodCall, pack(0)@true
+Answer Id --- http://stackoverflow.com/questions/6947713
+Violation: MissingMethodCall, setVisible(1)@true
+Answer Id --- http://stackoverflow.com/questions/16164197
+Violation: MissingMethodCall, setVisible(1)@true
+Answer Id --- http://stackoverflow.com/questions/36399911
+Violation: MissingMethodCall, pack(0)@true
+Violation: DisorderMethodCall, setVisible(1)@true
+Answer Id --- http://stackoverflow.com/questions/30519114
+Violation: MissingMethodCall, setVisible(1)@true
+Answer Id --- http://stackoverflow.com/questions/13945322
+Violation: MissingMethodCall, setVisible(1)@true
+Missing Control-flow Structure: 0
+Disorder Control-flow Structure: 0
+Missing API Call: 18
+Disorder API Call: 2
+Incorrect Predicates: 0
+Total number of recognized snippets: 106
+Average score: 3.669811320754717
+Unreliable recognized snippets: 14
+Total number of unrecognized snippets: 32
+Unreliable unrecognized snippets: 5
+

@@ -1,0 +1,2 @@
+FileChannel fileOut = new FileOutputStream(file).getChannel();
+fileOut.write(ByteBuffer.wrap("Whatever you want to write".getBytes()));

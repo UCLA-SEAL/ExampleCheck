@@ -1,0 +1,12 @@
+Mining time (millis) : 6899
+[put(1)@true, IF, END_BLOCK, getInt(0)@true]:(0.42,1.0)
+[put(1)@true, getInt(0)@true, IF, END_BLOCK]:(0.4,1.0)
+[allocate(1)@true, put(1)@true, getInt(0)@true]:(0.54,0.65)
+[put(1)@true, IF, END_BLOCK, getInt(0)@true, IF, END_BLOCK]:(0.34,1.0)
+[put(1)@true, position(1)@true, getInt(0)@true]:(0.49,0.67)
+[put(1)@true, rewind(0)@true, getInt(0)@true]:(0.31,0.87)
+[put(1)@true, get(0)@true, getInt(0)@true]:(0.33,0.78)
+[put(1)@true, getInt(0)@true, position(1)@true]:(0.37,0.55)
+[order(1)@true, put(1)@true, getInt(0)@true]:(0.37,0.53)
+[put(1)@true, flip(0)@true, getInt(0)@true]:(0.33,0.53)
+

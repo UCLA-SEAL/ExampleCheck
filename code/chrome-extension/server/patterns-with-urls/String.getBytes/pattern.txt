@@ -1,0 +1,5 @@
+Total Count:111864
+1:[getBytes()@true]:63807
+2:[getBytes(String)@true]:35707
+3:[TRY, getBytes()@true, END_BLOCK, CATCH(Exception), END_BLOCK]:51457
+4:[TRY, getBytes(String)@true, END_BLOCK, CATCH(Exception), END_BLOCK]:36009

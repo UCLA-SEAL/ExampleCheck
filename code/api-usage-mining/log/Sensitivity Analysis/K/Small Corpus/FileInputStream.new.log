@@ -1,0 +1,4 @@
+Mining time (millis) : 300
+[new FileInputStream(1)@arg0.exists()]:(1.0,0.07)
+[TRY, new FileInputStream(1)@arg0.exists(), END_BLOCK]:(0.61,0.11)
+

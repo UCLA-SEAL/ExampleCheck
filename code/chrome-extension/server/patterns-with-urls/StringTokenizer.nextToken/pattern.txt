@@ -1,0 +1,6 @@
+Total Count:57682
+1:[nextToken()@rcv.hasMoreTokens()]:36178
+2:[new StringTokenizer(String,String)@true, LOOP, nextToken()@rcv.hasMoreTokens(), END_BLOCK]:24711
+3:[IF, nextToken()@rcv.hasMoreTokens(), END_BLOCK]:29418
+4:[LOOP, nextToken()@rcv.hasMoreTokens(), END_BLOCK]:35976
+5:[new StringTokenizer(String,String)@true, nextToken()@rcv.hasMoreTokens()]:24746

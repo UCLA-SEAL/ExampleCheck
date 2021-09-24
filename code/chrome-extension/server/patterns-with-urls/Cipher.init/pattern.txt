@@ -1,0 +1,4 @@
+Total Count:9872
+1:[TRY, init(int,Key)@true, END_BLOCK, CATCH(Exception), END_BLOCK]:2598
+2:[getInstance(String)@true, init(int,Key)@true]:1969
+3:[TRY, getInstance(String)@true, init(int,Key)@true, END_BLOCK, CATCH(Exception), END_BLOCK]:1969

@@ -1,0 +1,17 @@
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+ 
+public class Test { 
+ 
+    public static void main(String[] args) {
+        // the compiled pattern can be re-used, are thread-safe  
+        // and thus can be static final 
+        Pattern p = Pattern.compile("([A-Z][a-z]?[0-9]*)+?");
+ 
+        // Per molecule (well, string) a matcher must be obtained. 
+        Matcher m = p.matcher("HeKiLH2B6");
+        while(m.find()) {
+            System.out.println(m.group());
+        } 
+    } 
+} 

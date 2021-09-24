@@ -1,0 +1,3 @@
+Total Count:146711
+1:[LOOP, charAt(int)@arg0<rcv.length(), END_BLOCK]:27083
+2:[charAt(int)@arg0<rcv.length()]:27596

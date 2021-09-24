@@ -1,0 +1,16 @@
+//https://stackoverflow.com/questions/5868369
+
+// Open the file 
+FileInputStream fstream = new FileInputStream("textfile.txt");
+BufferedReader br = new BufferedReader(new InputStreamReader(fstream));
+ 
+String strLine;
+ 
+//Read File Line By Line 
+while ((strLine = br.readLine()) != null)   {
+  // Print the content on the console 
+  System.out.println (strLine);
+} 
+ 
+//Close the input stream 
+br.close();

@@ -1,0 +1,6 @@
+Mining time (millis) : 7627
+[loadIcon(1)@true, IF, END_BLOCK]:(0.79,1.0)
+[TRY, loadIcon(1)@true, END_BLOCK]:(0.6,1.0)
+[getPackageManager(0)@true, loadIcon(1)@true, IF, END_BLOCK]:(0.53,0.9)
+[getPackageManager(0)@true, loadIcon(1)@true]:(0.59,0.8)
+

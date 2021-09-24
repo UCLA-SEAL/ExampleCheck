@@ -1,0 +1,12 @@
+HashMap numbers = new HashMap<String, List<String>>();
+List col2Array=null;
+for (int i=0; i<tbNumbers.getRowCount(); i++) 
+{ 
+    col1 = mdNumbers.getValueAt(i,0).toString();
+    col2Array = numbers.get(col1);
+    if(col2Array==null){
+        col2Array=new ArrayList<String>();
+        numbers.put(col1,col2Array);
+   } 
+    col2Array.add(mdNumbers.getValueAt(i,1).toString());
+} 

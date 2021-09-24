@@ -1,0 +1,5 @@
+Mining time (millis) : 127656
+[read(0)@true, IF, END_BLOCK]:(0.47,1.0)
+[TRY, read(0)@true, END_BLOCK]:(0.29,1.0)
+[read(0)@true, close(0)@true]:(0.23,0.88)
+[getInputStream(0)@true, read(0)@true]:(0.17,0.97)

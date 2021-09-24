@@ -1,0 +1,5 @@
+Mining time (millis) : 81375
+[onCreate(1)@true, setContentView(1)@true]:(0.99,0.99)
+[setContentView(1)@true, findViewById(1)@true]:(0.56,0.99)
+[onCreate(1)@true, setContentView(1)@true, findViewById(1)@true]:(0.56,0.99)
+

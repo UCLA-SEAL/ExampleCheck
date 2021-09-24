@@ -1,0 +1,2 @@
+String str = "*ab**c*d*";
+str.replaceAll("(^\\*)|(\\*$)|\\*", "<$1|$2>");

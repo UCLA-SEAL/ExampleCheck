@@ -1,0 +1,13 @@
+Mining time (millis) : 126
+[getInstance(1)@true, init(2)@true, doFinal(1)@true]:(1.0,1.0)
+[getInstance(1)@true, init(2)@true]:(1.0,1.0)
+[init(2)@true, doFinal(1)@true]:(1.0,1.0)
+[TRY, getInstance(1)@true, init(2)@true, END_BLOCK]:(0.5,1.0)
+[TRY, init(2)@true, doFinal(1)@true, END_BLOCK]:(0.5,1.0)
+[getAlgorithm(0)@true, init(2)@true]:(0.5,1.0)
+[getAlgorithm(0)@true, getInstance(1)@true, init(2)@true]:(0.5,1.0)
+[TRY, getInstance(1)@true, init(2)@true, doFinal(1)@true, END_BLOCK]:(0.5,1.0)
+[TRY, init(2)@true, END_BLOCK]:(0.5,1.0)
+[getAlgorithm(0)@true, getInstance(1)@true, init(2)@true, doFinal(1)@true]:(0.5,1.0)
+[getAlgorithm(0)@true, init(2)@true, doFinal(1)@true]:(0.5,1.0)
+

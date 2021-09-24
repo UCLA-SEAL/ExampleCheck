@@ -1,0 +1,9 @@
+Total Count:4636
+1:[TRY, write(byte[])@true, END_BLOCK, CATCH(IOException), END_BLOCK]:2318
+2:[TRY, write(byte[],int,int)@true, END_BLOCK, CATCH(IOException), END_BLOCK]:1590
+3:[TRY, write(byte[])@true, close()@true, END_BLOCK, CATCH(Exception), END_BLOCK]:1407
+4:[TRY, write(byte[])@true, END_BLOCK, CATCH(Exception), END_BLOCK]:2745
+5:[TRY, write(byte[],int,int)@true, END_BLOCK, CATCH(Exception), END_BLOCK]:1578
+6:[write(byte[])@true, close()@true]:1407
+7:[write(byte[])@true]:2745
+8:[write(byte[],int,int)@true]:1578

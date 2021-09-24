@@ -1,0 +1,2 @@
+Total Count:15906
+1:[findViewById(int)@true, setAdapter(ArrayAdapter<String>)@true]:2182

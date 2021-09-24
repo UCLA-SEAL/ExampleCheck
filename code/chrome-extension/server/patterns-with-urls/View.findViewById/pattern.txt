@@ -1,0 +1,2 @@
+Total Count:67285
+1:[inflate(int,ViewGroup)@true, findViewById(int)@true]:20414

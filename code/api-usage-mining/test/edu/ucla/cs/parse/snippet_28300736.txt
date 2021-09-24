@@ -1,0 +1,11 @@
+public static boolean haveCommonKeys(TreeMap<String,?> map1, TreeMap<String,?> map2) {
+    if(map1.isEmpty()) return false;
+    for(String s=map1.firstKey(); s!=null; ) {
+        String s2=map2.ceilingKey(s);
+        if(s2==null) break;
+        if(s2.equals(s)) return true;
+        s=map1.ceilingKey(s2);
+        if(s2.equals(s)) return true;
+    } 
+    return false; 
+} 

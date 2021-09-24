@@ -1,0 +1,199 @@
+Class Name	Method Name	Total Examples	Pattern	Supporting Examples	Valid?	Required	Consequence
+SwingUtilities	invokeLater	23159	new Runnable()@true, invokeLater(Runnable)@true	20406	1	1	incomplete
+JFrame	pack	8552	pack()@true, setVisible(boolean)@true	6651	1	1	incomplete
+JFrame	pack	8552	new JFrame(String)@true, pack()@true	4550	1	1	incomplete
+SharedPreferences	getString	16710	getString(String,String)@true, IF, END_BLOCK	5013	1	1	exception
+MessageDigest	digest	16949	TRY, digest()@true, END_BLOCK, CATCH(Exception), END_BLOCK	8814	1	1	exception
+MessageDigest	digest	16949	getInstance(String)@true, digest()@true	7048	1	1	incomplete
+FileChannel	write	2230	TRY, write(ByteBuffer)@true, END_BLOCK, CATCH(Exception), END_BLOCK	1829	1	1	exception
+FileChannel	write	2230	TRY, write(ByteBuffer)@true, END_BLOCK, CATCH(IOException), END_BLOCK	1495	1	0	exception
+FileChannel	write	2230	TRY, getChannel()@true, write(ByteBuffer)@true, END_BLOCK, CATCH(Exception), END_BLOCK	1369	1	1	exception
+FileChannel	write	2230	getChannel()@true, write(ByteBuffer)@true	1359	1	0	incomplete
+FileChannel	write	2230	TRY, write(ByteBuffer)@true, close()@true, END_BLOCK, CATCH(Exception), END_BLOCK	1267	1	1	exception
+FileChannel	write	2230	write(ByteBuffer)@true, close()@true	1262	1	0	resource leaks
+SimpleDateFormat	SimpleDateFormat	56127	new SimpleDateFormat(String)@true, format(Date)@true	23490	1	0	incomplete
+SimpleDateFormat	SimpleDateFormat	56127	TRY, new SimpleDateFormat(String)@true, END_BLOCK, CATCH(Exception), END_BLOCK	17961	1	1	exception
+SimpleDateFormat	SimpleDateFormat	56127	new SimpleDateFormat(String)@true, parse(String)@true	9783	1	0	incomplete
+Pattern	compile	57881	compile(String)@true, matcher(String)@true	24889	1	1	incomplete
+PreferenceManager	getDefaultSharedPreferences						
+Activity	setContentView	119566	onCreate(Bundle)@true, setContentView(View)@true	96848	1	1	incomplete
+URLEncoder	encode	18033	TRY, encode(String,String)@true, END_BLOCK, CATCH(Exception), END_BLOCK	14113	1	1	exception
+Intent	putExtra	64259	new Intent(String,Uri)@true, putExtra(String,String)@true	15583	1	0	incomplete
+Intent	putExtra	64259	new Intent(String)@true, putExtra(String,String)@true	12467	1	0	incomplete
+StringBuilder	append	428954	new StringBuilder()@true, append(String)@true	237169	1	1	incomplete
+Bundle	getString	16188	IF, getString(String)@rcv!=null, END_BLOCK	4714	1	1	exception
+Iterator	next	290246	LOOP, next()@rcv.hasNext(), END_BLOCK	253734	1	0	exception
+Iterator	next	290246	next()@rcv.hasNext()	253385	1	0	exception
+Iterator	next	290246	iterator()@true, next()@rcv.hasNext()	219572	1	1	incomplete
+Iterator	next	290246	iterator()@true, LOOP, next()@rcv.hasNext(), END_BLOCK	218962	1	0	incomplete
+JSONObject	getString	34526	TRY, getString(String)@true, END_BLOCK, CATCH(Exception), END_BLOCK	29500	1	0	exception
+JSONObject	getString	34526	iterator()@true, LOOP, next()@rcv.hasNext(), END_BLOCK	21061	1	0	exception
+LayoutInflater	inflate						
+List	get	103454	LOOP, get(int)@arg0<rcv.size(), END_BLOCK	31254	1	1	exception
+JFrame	setDefaultCloseOperation	9484	setDefaultCloseOperation(int)@true, setVisible(boolean)@true	6971	1	1	incomplete
+JFrame	setDefaultCloseOperation	9484	new JFrame(String)@true, setDefaultCloseOperation(int)@true	5165	1	1	incomplete
+LayoutInflater	from	24675	from(Context)@true, inflate(int,ViewGroup)@true	8252	1	1	incomplete
+String	indexOf	179869	indexOf(String)@true, IF, END_BLOCK	89935	1	1	exception
+Pattern	matcher						
+Activity	super	108309	onCreate(Bundle)@true, setContentView(LinearLayout)@true	56321	1	1	incomplete
+Double	parseDouble	43240	TRY, parseDouble(String)@true, END_BLOCK, CATCH(Exception), END_BLOCK	25944	1	1	exception
+RandomAccessFile	write	4636	TRY, write(byte[])@true, END_BLOCK, CATCH(Exception), END_BLOCK	2746	1	0	exception
+RandomAccessFile	write	4636	TRY, write(byte[])@true, END_BLOCK, CATCH(IOException), END_BLOCK	2318	1	0	exception
+RandomAccessFile	write	4636	TRY, write(byte[],int,int)@true, END_BLOCK, CATCH(IOException), END_BLOCK	1591	1	0	exception
+RandomAccessFile	write	4636	TRY, write(byte[],int,int)@true, END_BLOCK, CATCH(Exception), END_BLOCK	1578	1	0	exception
+RandomAccessFile	write	4636	write(byte[])@true, close()@true	1408	1	0	resource leaks
+RandomAccessFile	write	4636	TRY, write(byte[])@true, close()@true, END_BLOCK, CATCH(Exception), END_BLOCK	1408	1	1	exception
+JFrame	setVisible	16322	new JFrame(String)@true, setVisible(boolean)@true	7442	1	1	incomplete
+JSONObject	getJSONObject	12784	TRY, getJSONObject(String)@true, END_BLOCK, CATCH(Exception), END_BLOCK	9868	1	1	exception
+Cursor	moveToFirst	14928	moveToFirst()@true, close()@true	6502	1	1	resource leaks
+System	nanoTime						
+SharedPreferences	Editor	9247	edit()@true, commit()@true	7965	1	1	incomplete
+ProcessBuilder	start	4306	TRY, start()@true, END_BLOCK, CATCH(Exception), END_BLOCK	4221	1	0	exception
+ProcessBuilder	start	4306	TRY, start()@true, END_BLOCK, CATCH(IOException), END_BLOCK	2283	1	0	exception
+ProcessBuilder	start	4306	TRY, start()@true, getInputStream()@true, END_BLOCK, CATCH(Exception), END_BLOCK	2256	1	1	exception
+ProcessBuilder	start	4306	start()@true, getInputStream()@true	2233	1	0	incomplete
+Activity	getId	781	getId()@true, IF, END_BLOCK	344	1	1	exception
+PrintWriter	write	7990	TRY, write(String)@true, END_BLOCK, CATCH(Exception), END_BLOCK	5034	1	1	exception
+PrintWriter	write	7990	TRY, write(String)@true, close()@true, END_BLOCK, CATCH(Exception), END_BLOCK	2473	1	1	exception
+PrintWriter	write	7990	write(String)@true, close()@true	2461	1	1	resource leaks
+Cursor	getString	40887	getString(int)@true, close()@true	10419	1	1	resource leaks
+TypedArray	getString	3348	getString(int)@true, recycle()@true	2126	1	1	resource leaks
+TypedArray	getString	3348	getString(int)@true, IF, END_BLOCK	1708	1	1	exception
+ListView	setAdapter						
+HttpServletRequest	getParameter	44528	TRY, getParameter(String)@true, END_BLOCK, CATCH(Exception), END_BLOCK	32506	1	1	exception
+HttpServletRequest	getParameter	44528	getParameter(String)@true, IF, END_BLOCK	24491	1	1	exception
+StringTokenizer	nextToken	57682	nextToken()@rcv.hasMoreTokens()	36179	1	0	exception
+StringTokenizer	nextToken	57682	LOOP, nextToken()@rcv.hasMoreTokens(), END_BLOCK	35977	1	0	incomplete
+StringTokenizer	nextToken	57682	IF, nextToken()@rcv.hasMoreTokens(), END_BLOCK	29418	1	0	incomplete
+StringTokenizer	nextToken	57682	new StringTokenizer(String,String)@true, nextToken()@rcv.hasMoreTokens()	24746	1	1	incomplete
+StringTokenizer	nextToken	57682	new StringTokenizer(String,String)@true, LOOP, nextToken()@rcv.hasMoreTokens(), END_BLOCK	24711	1	0	incomplete
+Jsoup	connect	541	TRY, connect(String)@true, END_BLOCK, CATCH(Exception), END_BLOCK	504	1	0	exception
+Jsoup	connect	541	connect(String)@true, get()@true	377	1	0	incomplete
+Jsoup	connect	541	TRY, connect(String)@true, get()@true, END_BLOCK, CATCH(Exception), END_BLOCK	376	1	1	incomplete
+Jsoup	connect	541	TRY, connect(String)@true, END_BLOCK, CATCH(IOException), END_BLOCK	325	1	0	exception
+Map	get	113493	get(String)@true, IF, END_BLOCK	46533	1	1	exception
+File	createNewFile	17869	TRY, createNewFile()@true, END_BLOCK, CATCH(Exception), END_BLOCK	11322	1	1	other
+File	createNewFile	17869	TRY, createNewFile()@!(rcv.exists()), END_BLOCK, CATCH(IOException), END_BLOCK	5493	1	0	other
+File	createNewFile	17869	IF, createNewFile()@!(rcv.exists()), END_BLOCK	5483	1	0	other
+URL	openConnection	33998	TRY, openConnection()@true, END_BLOCK, CATCH(Exception), END_BLOCK	30680	1	1	exception
+URL	openConnection	33998	TRY, new URL(String)@true, openConnection()@true, END_BLOCK, CATCH(Exception), END_BLOCK	19056	1	1	incomplete
+URL	openConnection	33998	new URL(String)@true, openConnection()@true	19056	1	1	incomplete
+URL	openConnection	33998	openConnection()@true, getInputStream()@true	16126	1	1	incomplete
+URL	openConnection	33998	TRY, openConnection()@true, getInputStream()@true, END_BLOCK, CATCH(Exception), END_BLOCK	16126	1	1	incomplete
+JFrame	getContentPane	9497	new JFrame(String)@true, getContentPane()@true	4924	1	1	incomplete
+SQLiteDatabase	query	13095	query(String,String[],String,String[],String,String,String)@true, close()@true	5563	1	1	resource leaks
+Calendar	getInstance						
+JsonElement	getAsString	865	getAsString()@rcv!=null	119	1	1	exception
+JsonElement	getAsString	865	TRY, getAsString()@rcv!=null, END_BLOCK, CATCH(Exception), END_BLOCK	117	1	1	exception
+JsonElement	getAsString	865	getAsString()@rcv.isJsonPrimitive()	51	1	1	exception
+JsonElement	getAsString	865	TRY, getAsString()@rcv.isJsonPrimitive(), END_BLOCK, CATCH(Exception), END_BLOCK	48	1	1	exception
+ByteBuffer	get	2826	flip()@true, get(byte[])@true	356	1	0	exception
+ByteBuffer	get	2826	LOOP, get()@rcv.hasRemaining(), END_BLOCK	191	1	0	exception
+ByteBuffer	get	2826	get()@rcv.hasRemaining()	187	1	0	exception
+String	substring	450358	substring(int,int)@arg1>=arg0	9458	1	0	exception
+String	substring	450358	substring(int,int)@rcv!=null	9458	1	0	exception
+String	substring	450358	substring(int,int)@arg1>arg0	9458	1	0	exception
+String	substring	450358	substring(int)@rcv!=null	9188	1	0	exception
+String	substring	450358	substring(int)@arg1>=arg0	6891	1	0	exception
+String	substring	450358	substring(int)@arg1>arg0	4594	1	0	exception
+String	substring	450358	substring(int,int)@rcv.length()>arg1	3153	1	0	exception
+String	substring	450358	substring(int)@arg0<rcv.length()	2297	1	0	exception
+String	format						
+Matcher	find	7746	matcher(String)@true, find()@true	5851	1	1	incomplete
+String	getBytes	111864	getBytes(String)@true	35707	1	1	other
+JFrame	setPreferredSize	536	new Dimension(int,int)@true, setPreferredSize(Dimension)@true	468	1	0	incomplete
+JFrame	setPreferredSize	536	setPreferredSize(Dimension)@true, pack()@true	394	1	1	incomplete
+JFrame	setPreferredSize	536	setPreferredSize(Dimension)@true, setVisible(boolean)@true	390	1	0	incomplete
+JFrame	setPreferredSize	536	new Dimension(int,int)@true, setPreferredSize(Dimension)@true, pack()@true	379	1	0	incomplete
+JFrame	setPreferredSize	536	new Dimension(int,int)@true, setPreferredSize(Dimension)@true, setVisible(boolean)@true	359	1	0	incomplete
+JFrame	setPreferredSize	536	setPreferredSize(Dimension)@true, pack()@true, setVisible(boolean)@true	342	1	0	incomplete
+JFrame	setPreferredSize	536	new Dimension(int,int)@true, setPreferredSize(Dimension)@true, pack()@true, setVisible(boolean)@true	335	1	0	incomplete
+JFrame	setPreferredSize	536	new JFrame(String)@true, setPreferredSize(Dimension)@true	274	1	0	incomplete
+FileInputStream	FileInputStream	124525	TRY, new FileInputStream(File)@true, END_BLOCK, CATCH(Exception), END_BLOCK	72723	1	1	exception
+Socket	getOutputStream	19705	TRY, getOutputStream()@true, END_BLOCK, CATCH(Exception), END_BLOCK	17223	1	0	exception
+Socket	getOutputStream	19705	TRY, getOutputStream()@true, END_BLOCK, CATCH(IOException), END_BLOCK	9853	1	0	exception
+String	replaceAll	56229	TRY, replaceAll(String,String)@rcv!=null, END_BLOCK, CATCH(Exception), END_BLOCK	4566	1	1	exception
+String	replaceAll	56229	IF, replaceAll(String,String)@rcv!=null, END_BLOCK	4454	1	1	exception
+Random	nextInt	73467	TRY, nextInt(int)@true, END_BLOCK, CATCH(Exception), END_BLOCK	19102	1	1	exception
+List	add						
+SortedMap	firstKey	643	firstKey()@rcv.size()>0	65	1	0	exception
+SortedMap	firstKey	643	firstKey()@!(rcv.isEmpty())	65	1	0	exception
+SortedMap	firstKey	643	firstKey()@!(rcv==null||rcv.isEmpty())	65	1	0	exception
+ResultSet	getString	56431	getString(String)@rcv.next()	18933	1	1	exception
+ResultSet	getString	56431	TRY, getString(String)@rcv.next(), END_BLOCK, CATCH(Exception), END_BLOCK	18933	1	1	exception
+DataOutputStream	close	18281	TRY, close()@true, END_BLOCK, CATCH(Exception), END_BLOCK	16108	1	0	exception
+DataOutputStream	close	18281	TRY, close()@true, END_BLOCK, CATCH(IOException), END_BLOCK	12249	1	0	exception
+SimpleDateFormat	parse	17785	TRY, parse(String)@true, END_BLOCK, CATCH(Exception), END_BLOCK	13581	1	1	exception
+SimpleDateFormat	parse	17785	new SimpleDateFormat(String)@true, parse(String)@true	7769	1	1	incomplete
+JFrame	add						
+Scanner	nextLine	7204	LOOP, nextLine()@rcv.hasNextLine(), END_BLOCK	2510	1	1	exception
+Scanner	nextLine	7204	TRY, nextLine()@rcv.hasNextLine(), END_BLOCK, CATCH(Exception), END_BLOCK	2497	1	1	exception
+Scanner	nextLine	7204	new Scanner(File)@true, nextLine()@true	2300	1	1	incomplete
+ProgressDialog	dismiss	12668	IF, dismiss()@rcv!=null, END_BLOCK	2909	1	1	exception
+Mac-String	doFinal-String						
+String	charAt	146711	charAt(int)@arg0<rcv.length()	27597	1	0	exception
+String	charAt	146711	LOOP, charAt(int)@arg0<rcv.length(), END_BLOCK	27083	1	0	exception
+View	findViewById						
+Mac-String	doFinal-getBytes	2389	TRY, getBytes()@true, doFinal(byte[])@true, END_BLOCK, CATCH(Exception), END_BLOCK	502	1	1	exception
+Mac-String	doFinal-getBytes	2389	TRY, getInstance(String)@true, getBytes()@true, doFinal(byte[])@true, END_BLOCK, CATCH(Exception), END_BLOCK	474	1	1	incomplete
+Mac-String	doFinal-getBytes	2389	getInstance(String)@true, getBytes()@true, doFinal(byte[])@true	464	1	1	incomplete
+Environment	getExternalStorageDirectory	7587	TRY, getExternalStorageDirectory()@true, END_BLOCK, CATCH(Exception), END_BLOCK	2352	1	1	exception
+TextView	setText						
+RandomAccessFile	read	3621	TRY, read(byte[])@true, END_BLOCK, CATCH(Exception), END_BLOCK	1582	1	0	exception
+RandomAccessFile	read	3621	TRY, read(byte[],int,int)@true, END_BLOCK, CATCH(Exception), END_BLOCK	1087	1	0	exception
+HttpResponse	getEntity	12899	TRY, getEntity()@true, END_BLOCK, CATCH(Exception), END_BLOCK	10549	1	1	exception
+Thread	sleep	171917	TRY, sleep(int)@true, END_BLOCK, CATCH(Exception), END_BLOCK	154881	1	1	exception
+SimpleDateFormat	format	38090	new SimpleDateFormat(String)@true, format(Date)@true	18977	1	1	incomplete
+InputStream	read	48125	TRY, read()@true, END_BLOCK, CATCH(Exception), END_BLOCK	19481	1	1	exception
+Matcher	group	51187	matcher(String)@true, group(int)@true	31511	1	1	incomplete
+Matcher	group	51187	IF, group(int)@rcv.find(), END_BLOCK	16447	1	1	exception
+Matcher	group	51187	matcher(String)@true, IF, group(int)@rcv.find(), END_BLOCK	14927	1	1	incomplete
+SharedPreferences	edit	18579	edit()@true, commit()@true	9650	1	1	incomplete
+KeyStore	load	8814	TRY, load(InputStream,char[])@true, END_BLOCK, CATCH(Exception), END_BLOCK	6431	1	1	exception
+KeyStore	load	8814	getInstance(String)@true, load(InputStream,char[])@true	5247	1	1	incomplete
+KeyStore	load	8814	TRY, getInstance(String)@true, load(InputStream,char[])@true, END_BLOCK, CATCH(Exception), END_BLOCK	5247	1	1	incomplete
+Cipher	init	9872	TRY, init(int,Key)@true, END_BLOCK, CATCH(Exception), END_BLOCK	2599	1	1	exception
+Cipher	init	9872	TRY, getInstance(String)@true, init(int,Key)@true, END_BLOCK, CATCH(Exception), END_BLOCK	1970	1	1	incomplete
+Cipher	init	9872	getInstance(String)@true, init(int,Key)@true	1970	1	1	incomplete
+EditText	setText						
+Map	put						
+Scanner	nextInt	4748	new Scanner(String)@true, nextInt()@true	3212	1	1	incomplete
+Toast	makeText	52460	makeText(Context,String,int)@true, show()@true	23649	1	0	incomplete
+Toast	makeText	52460	makeText(Context,CharSequence,int)@true, show()@true	23167	1	0	incomplete
+JSONObject	getJSONArray	13040	TRY, getJSONArray(String)@true, END_BLOCK, CATCH(Exception), END_BLOCK	10391	1	1	exception
+JSONObject	getJSONArray	13040	TRY, getJSONArray(String)@true, END_BLOCK, CATCH(JSONException), END_BLOCK	7433	1	0	exception
+JSONObject	getJSONArray	13040	getJSONArray(String)@true, getJSONObject(int)@arg0<rcv.length()	3662	1	1	exception
+JSONObject	getJSONArray	13040	TRY, getJSONArray(String)@true, getJSONObject(int)@arg0<rcv.length(), END_BLOCK, CATCH(Exception), END_BLOCK	3658	1	1	exception
+Class	forName	89386	TRY, forName(String)@true, END_BLOCK, CATCH(Exception), END_BLOCK	72394	1	1	exception
+File	mkdir	58737	mkdirs()@true	26343	1	1	exception
+HttpClient	execute	8347	TRY, execute(HttpGet)@true, END_BLOCK, CATCH(Exception), END_BLOCK	3058	1	1	exception
+HttpClient	execute	8347	new HttpGet(String)@true, execute(HttpGet)@true	2536	1	1	incomplete
+Integer	parseInt	252008	TRY, parseInt(String)@true, END_BLOCK, CATCH(Exception), END_BLOCK	143645	1	1	exception
+JOptionPane	showMessageDialog						
+JPanel	add	72045	new JPanel()@true, add(JButton)@true	17652	1	1	incomplete
+String	split	138224	IF, split(String)@rcv!=null, END_BLOCK	20402	1	1	exception
+String	split	138224	TRY, split(String)@rcv!=null, END_BLOCK, CATCH(Exception), END_BLOCK	20402	1	1	exception
+LinearLayout	addView	12158	new TextView(Context)@true, addView(TextView)@true	1686	1	0	incomplete
+LinearLayout	addView	12158	new LinearLayout(Context)@true, addView(LinearLayout)@true	1325	1	0	incomplete
+LinearLayout	addView	12158	findViewById(int)@true, addView(View)@true	1180	1	0	incomplete
+LinearLayout	addView	12158	addView(View)@arg0!=null	219	1	0	exception
+JButton	addActionListener	48073	new JButton(String)@true, addActionListener(ActionListener)@true	23556	1	1	incomplete
+ApplicationInfo	loadIcon	780	TRY, loadIcon(PackageManager)@true, END_BLOCK, CATCH(Exception), END_BLOCK	453	1	1	exception
+ApplicationInfo	loadIcon	780	getPackageManager()@true, loadIcon(PackageManager)@true	400	1	1	incomplete
+Set	add						
+Intent	getStringExtra	14828	getStringExtra(String)@true, IF, END_BLOCK	6377	1	1	exception
+Activity	findViewById						
+BufferedReader	readLine	49614	TRY, readLine()@true, END_BLOCK, CATCH(Exception), END_BLOCK	46171	1	1	exception
+BufferedReader	readLine	49614	new BufferedReader(InputStreamReader)@true, readLine()@true	31580	1	1	incomplete
+BufferedReader	readLine	49614	TRY, new BufferedReader(InputStreamReader)@true, readLine()@true, END_BLOCK, CATCH(Exception), END_BLOCK	31257	1	1	incomplete
+BufferedReader	readLine	49614	TRY, readLine()@true, END_BLOCK, CATCH(IOException), END_BLOCK	27784	1	1	incomplete
+Bundle	putString	18030	new Bundle()@true, putString(String,String)@true	10617	1	1	incomplete
+Cursor	close	50568	TRY, close()@rcv!=null, END_BLOCK, CATCH(Exception), END_BLOCK	15813	1	1	exception
+Cursor	close	50568	FINALLY, close()@rcv!=null, END_BLOCK	15732	1	1	resource leaks
+PreparedStatement	setString	38478	TRY, setString(int,String)@true, END_BLOCK, CATCH(Exception), END_BLOCK	36189	1	1	exception
+PreparedStatement	setString	38478	prepareStatement(String)@true, setString(int,String)@true	25954	1	1	incomplete
+PreparedStatement	setString	38478	TRY, prepareStatement(String)@true, setString(int,String)@true, END_BLOCK, CATCH(Exception), END_BLOCK	25954	1	1	incomplete
+PreparedStatement	setString	38478	TRY, setString(int,String)@true, END_BLOCK, CATCH(SQLException), END_BLOCK	25396	1	1	exception
+PreparedStatement	setString	38478	TRY, prepareStatement(String)@true, setString(int,String)@true, END_BLOCK, CATCH(SQLException), END_BLOCK	17316	1	1	incomplete
+PreparedStatement	setString	38478	TRY, setString(int,String)@true, close()@true, END_BLOCK, CATCH(Exception), END_BLOCK	11359	1	1	resource leaks
+PreparedStatement	setString	38478	setString(int,String)@true, close()@true	11359	1	1	resource leaks

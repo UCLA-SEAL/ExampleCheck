@@ -1,0 +1,7 @@
+Mining time (millis) : 67899
+[new SimpleDateFormat(1)@true]:(0.84,0.98)
+[new SimpleDateFormat(1)@true, format(1)@true]:(0.5,0.92)
+[new SimpleDateFormat(1)@true, IF, END_BLOCK]:(0.22,1.0)
+[new SimpleDateFormat(1)@true, parse(1)@true]:(0.22,0.83)
+[new SimpleDateFormat(2)@true]:(0.16,0.95)
+

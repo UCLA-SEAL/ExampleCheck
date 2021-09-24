@@ -1,0 +1,12 @@
+Mining time (millis) : 168
+[write(1)@true, close(0)@true]:(0.59,1.0)
+[new DataOutputStream(1)@true, write(1)@true]:(0.59,1.0)
+[new DataOutputStream(1)@true, write(1)@true, close(0)@true]:(0.59,1.0)
+[writeInt(1)@true, write(1)@true]:(0.59,1.0)
+[getOutputStream(0)@true, write(1)@true, close(0)@true]:(0.4,1.0)
+[write(1)@true, flush(0)@true]:(0.4,1.0)
+[writeInt(1)@true, write(1)@true, flush(0)@true]:(0.4,1.0)
+[getOutputStream(0)@true, new DataOutputStream(1)@true, write(1)@true, close(0)@true]:(0.4,1.0)
+[getOutputStream(0)@true, new DataOutputStream(1)@true, write(1)@true]:(0.4,1.0)
+[getOutputStream(0)@true, write(1)@true]:(0.4,1.0)
+

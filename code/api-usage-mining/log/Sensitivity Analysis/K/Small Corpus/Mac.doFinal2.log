@@ -1,0 +1,10 @@
+Mining time (millis) : 102
+[doFinal(1)@true, encode(1)@true, new String(1)@true]:(1.0,1.0)
+[doFinal(1)@true, new Base64(0)@true, encode(1)@true, new String(1)@true]:(1.0,1.0)
+[getBytes(0)@true, doFinal(1)@true, new Base64(0)@true, encode(1)@true, new String(1)@true]:(1.0,1.0)
+[getBytes(0)@true, doFinal(1)@true, encode(1)@true, new String(1)@true]:(1.0,1.0)
+[doFinal(1)@true, new String(1)@true]:(1.0,1.0)
+[getBytes(0)@true, doFinal(1)@true, new String(1)@true]:(1.0,1.0)
+[getBytes(0)@true, doFinal(1)@true, new Base64(0)@true, new String(1)@true]:(1.0,1.0)
+[doFinal(1)@true, new Base64(0)@true, new String(1)@true]:(1.0,1.0)
+

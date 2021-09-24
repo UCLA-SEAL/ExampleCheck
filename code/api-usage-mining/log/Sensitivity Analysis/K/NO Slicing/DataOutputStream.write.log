@@ -1,0 +1,4 @@
+Mining time (millis) : 45138
+[new DataOutputStream(1)@true, write(1)@true]:(0.56,0.97)
+[write(1)@true, close(0)@true]:(0.42,0.93)
+

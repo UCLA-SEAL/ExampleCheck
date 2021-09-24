@@ -1,0 +1,5 @@
+// https://stackoverflow.com/questions/4298407
+
+Iterator<String> itr = Collections.singleton("Hey").iterator();
+itr.next(); // ok!
+itr.next(); //will throw NoSuchElementException

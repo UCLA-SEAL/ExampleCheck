@@ -1,0 +1,2 @@
+record[https://github.com/jfinkels/tuxguitar ** src/main/java/org/herac/tuxguitar/io/tef/TEInputStream.java] = https://github.com/jfinkels/tuxguitar/blob/1f38bb942576c95fe3338f2e95a81f6c36fc386f/src/main/java/org/herac/tuxguitar/io/tef/TEInputStream.java
+record[https://github.com/riis/AndroidArduino ** libs/ExternalDevice/src/com/riis/androidarduino/lib/SerialComm.java] = https://github.com/riis/AndroidArduino/blob/1c47a4604135651c5f8ab45b739680cf606ba9f8/libs/ExternalDevice/src/com/riis/androidarduino/lib/SerialComm.java

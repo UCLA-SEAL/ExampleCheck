@@ -1,0 +1,2 @@
+Total Count:14928
+1:[moveToFirst()@true, close()@true]:6501

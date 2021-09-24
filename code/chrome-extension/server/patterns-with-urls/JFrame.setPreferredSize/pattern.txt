@@ -1,0 +1,9 @@
+Total Count:536
+1:[setPreferredSize(Dimension)@true, setVisible(boolean)@true]:390
+2:[new Dimension(int,int)@true, setPreferredSize(Dimension)@true, pack()@true, setVisible(boolean)@true]:334
+3:[setPreferredSize(Dimension)@true, pack()@true, setVisible(boolean)@true]:341
+4:[new JFrame(String)@true, setPreferredSize(Dimension)@true]:273
+5:[new Dimension(int,int)@true, setPreferredSize(Dimension)@true]:467
+6:[new Dimension(int,int)@true, setPreferredSize(Dimension)@true, setVisible(boolean)@true]:359
+7:[new Dimension(int,int)@true, setPreferredSize(Dimension)@true, pack()@true]:378
+8:[setPreferredSize(Dimension)@true, pack()@true]:394

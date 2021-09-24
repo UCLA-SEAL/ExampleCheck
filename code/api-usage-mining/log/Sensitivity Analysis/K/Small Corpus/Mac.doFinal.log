@@ -1,0 +1,6 @@
+Mining time (millis) : 96
+[getBytes(0)@true, doFinal(1)@true]:(1.0,1.0)
+[getBytes(0)@true, doFinal(1)@true, encode(1)@true]:(1.0,1.0)
+[getBytes(0)@true, doFinal(1)@true, new String(1)@true]:(1.0,1.0)
+[getBytes(0)@true, doFinal(1)@true, encode(1)@true, new String(1)@true]:(1.0,1.0)
+

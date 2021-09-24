@@ -1,0 +1,58 @@
+# retrieve valid GitHub urls, given the repo urls and file paths of a set of code examples
+p: Project = input;
+record: output collection[string] of string;
+
+# repo urls of selected code examples
+q_urls : array of string;
+q_urls = {"https://github.com/kiesel/experiments","https://github.com/gogoego-gerrit/iucn-sis","https://github.com/maikeps/TCC","https://github.com/svn2github/jcaptcha","https://github.com/svn2github/jcaptcha-trunk","https://github.com/eugenp/stackexchange2twitter","https://github.com/maikeps/TCC","https://github.com/myGrid/scufl2","https://github.com/svn2github/jcaptcha-trunk","https://github.com/gvtools/gvtools-legacy"};
+
+# file paths of selected code examples
+q_files : array of string;
+q_files = {"maven/xararchiver/src/main/java/net/xp_framework/xararchiver/XarArchiver.java","org.iucn.sis.server.crazy/src/org/iucn/sis/server/utils/ReportGenerator.java","src/tcc/ValueNoise2D.java","jcaptcha/engine/src/java/com/octo/captcha/engine/image/utils/ImageToFile.java","jcaptcha/src/main/java/com/octo/captcha/engine/image/utils/ImageToFile.java","src/test/java/org/tweet/twitter/util/DataCleanupManualTest.java","src/javaPlayExtras/PerlinNoise2D.java","scufl2-api/src/main/java/uk/org/taverna/scufl2/api/io/structure/StructureWriter.java","jcaptcha/engine/src/java/com/octo/captcha/engine/image/utils/ImageToFile.java","extensions/extRasterTools-SE/src/org/gvsig/rastertools/raw/tools/VRTFileCreator.java"};
+
+last_commit_sha1 : string;
+last_commit_message : string;
+
+# Merge revisions (merging from branches) are associated with empty files
+# merge_filter := "merge";
+
+# Get the last snapshot of a given file in a given GitHub repo
+getLastSnapshot := function(repo : CodeRepository, file : string) : ChangedFile {
+    snapshot : ChangedFile;
+    commit_sha1 : string;
+    commit_message : string;
+    
+    visit(repo, visitor {
+        before node: Revision -> {
+            #if (match(merge_filter, lowercase(node.log))) stop;
+            commit_sha1 = node.id;
+            commit_message = node.log;
+        }
+        
+        before node: ChangedFile -> {
+            if (node.name != file) stop;
+            snapshot = node;
+            last_commit_sha1 = commit_sha1;
+            last_commit_message = commit_message;
+        }
+    });
+    
+    return snapshot;
+};
+
+visit(p, visitor {
+	before node: CodeRepository -> {
+	    foreach(i:int; def(q_urls[i])) {
+	        q_url := q_urls[i];
+	        if(p.project_url == q_url) {
+	           q_file := q_files[i];
+	           snapshot := getLastSnapshot(node, q_file); 
+	           id := format("%s ** %s", q_url, q_file);
+	           url := format("%s/blob/%s/%s", q_url, last_commit_sha1, q_file);
+	           record[id] << url;
+	        }
+	    }
+	    
+	    stop;
+	}
+});

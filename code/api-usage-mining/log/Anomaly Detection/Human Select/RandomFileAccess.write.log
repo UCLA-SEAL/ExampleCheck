@@ -1,0 +1,25 @@
+Total number of relevant Java snippets: 47
+Total number of unreliable Java snippets: 6
+Answer Id --- http://stackoverflow.com/questions/7740406
+Violation: MissingMethodCall, close(0)@true
+Answer Id --- http://stackoverflow.com/questions/15815496
+Violation: MissingMethodCall, close(0)@true
+Answer Id --- http://stackoverflow.com/questions/10291282
+Violation: MissingMethodCall, close(0)@true
+Answer Id --- http://stackoverflow.com/questions/15016898
+Violation: MissingMethodCall, close(0)@true
+Answer Id --- http://stackoverflow.com/questions/26083751
+Violation: MissingMethodCall, close(0)@true
+Answer Id --- http://stackoverflow.com/questions/26423494
+Violation: MissingMethodCall, close(0)@true
+Missing Control-flow Structure: 0
+Disorder Control-flow Structure: 0
+Missing API Call: 6
+Disorder API Call: 0
+Incorrect Predicates: 0
+Total number of recognized snippets: 33
+Average score: 5.545454545454546
+Unreliable recognized snippets: 6
+Total number of unrecognized snippets: 14
+Unreliable unrecognized snippets: 0
+

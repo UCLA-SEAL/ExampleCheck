@@ -1,0 +1,406 @@
+Total number of relevant Java snippets: 729
+Total number of unreliable Java snippets: 194
+Answer Id --- http://stackoverflow.com/questions/4102800
+Violation: IncorrectPrecondition, nextToken(0)@line.contains("[LoadFile]")
+Answer Id --- http://stackoverflow.com/questions/8544699
+Violation: IncorrectPrecondition, nextToken(0)@(line1=br1.readLine()) != null && (line2=br2.readLine()) != null && i <= st.countTokens() && !((i == n1) || (i == n1 + n2))
+Answer Id --- http://stackoverflow.com/questions/24583707
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/27829209
+Violation: IncorrectPrecondition, nextToken(0)@st.countTokens() == 2
+Answer Id --- http://stackoverflow.com/questions/27858773
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/19184007
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/22504493
+Violation: IncorrectPrecondition, nextToken(0)@counter == 3
+Answer Id --- http://stackoverflow.com/questions/22699238
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/200854
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/38947904
+Violation: IncorrectPrecondition, nextToken(0)@response != null && resp
+Answer Id --- http://stackoverflow.com/questions/30083843
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/16211652
+Violation: IncorrectPrecondition, nextToken(0)@st.hasNextToken()
+Answer Id --- http://stackoverflow.com/questions/21053397
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/22291002
+Violation: IncorrectPrecondition, nextToken(0)@scan.hasNextLine()
+Answer Id --- http://stackoverflow.com/questions/35883604
+Violation: IncorrectPrecondition, nextToken(0)@f.exists() && i < data.length && data[i] != null && i > 0 && !StringUtils.isEmpty(line)
+Answer Id --- http://stackoverflow.com/questions/36962521
+Violation: IncorrectPrecondition, nextToken(0)@true
+Violation: IncorrectPrecondition, nextToken(0)@i < count
+Answer Id --- http://stackoverflow.com/questions/31756374
+Violation: IncorrectPrecondition, nextToken(0)@scanner.hasNext()
+Answer Id --- http://stackoverflow.com/questions/35554002
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/35889584
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/14632770
+Violation: IncorrectPrecondition, nextToken(0)@(input=Main.ReadLn(255)) != null
+Answer Id --- http://stackoverflow.com/questions/20026426
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/5547090
+Violation: IncorrectPrecondition, nextToken(0)@string != null && tokenizer.countTokens() > 4
+Answer Id --- http://stackoverflow.com/questions/34376040
+Violation: IncorrectPrecondition, nextToken(0)@i < 5
+Violation: IncorrectPrecondition, nextToken(0)@i < 5
+Answer Id --- http://stackoverflow.com/questions/32986332
+Violation: IncorrectPrecondition, nextToken(0)@reader.readLine() != null
+Answer Id --- http://stackoverflow.com/questions/26877006
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/25667891
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/22937699
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/13110027
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/25479591
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/11371282
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/37241859
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/19959763
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/25775697
+Violation: IncorrectPrecondition, nextToken(0)@sc.hasNextLine()
+Answer Id --- http://stackoverflow.com/questions/12154649
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/27958649
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/18954498
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/38202804
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/31492461
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/23816029
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/15195783
+Violation: IncorrectPrecondition, nextToken(0)@lineArray.size() > 0
+Answer Id --- http://stackoverflow.com/questions/19105256
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/23023210
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/28567177
+Violation: IncorrectPrecondition, nextToken(0)@(line=br.readLine()) != null
+Answer Id --- http://stackoverflow.com/questions/11815717
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/17367703
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/30699525
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/15092715
+Violation: IncorrectPrecondition, nextToken(0)@i < x
+Answer Id --- http://stackoverflow.com/questions/21053163
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/4117578
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/19288419
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/32418430
+Violation: IncorrectPrecondition, nextToken(0)@scanner.hasNextLine()
+Answer Id --- http://stackoverflow.com/questions/6747027
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/27474499
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/5575454
+Violation: IncorrectPrecondition, nextToken(0)@(line=in.readLine()) != null
+Answer Id --- http://stackoverflow.com/questions/38711865
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/34043163
+Violation: IncorrectPrecondition, nextToken(0)@(line=fp.readLine()) != null && st.countTokens() == 5
+Answer Id --- http://stackoverflow.com/questions/19942798
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/26720980
+Violation: IncorrectPrecondition, nextToken(0)@true && !(!testTokens.nextToken().equalsIgnoreCase("report")) && !(!(!testTokens.nextToken().equalsIgnoreCase("report")) && !testTokens.nextToken().equalsIgnoreCase("all")) && !(!(!testTokens.nextToken().equalsIgnoreCase("report")) && !(!testTokens.nextToken().equalsIgnoreCase("all")) && !testTokens.nextToken().equalsIgnoreCase("where"))
+Answer Id --- http://stackoverflow.com/questions/12877867
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/27687718
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/1473189
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/29211493
+Violation: IncorrectPrecondition, nextToken(0)@(line=br.readLine()) != null && !id.equals(args[0])
+Answer Id --- http://stackoverflow.com/questions/15995284
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/12683477
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/39030855
+Violation: IncorrectPrecondition, nextToken(0)@(s=in.readLine()) != null
+Answer Id --- http://stackoverflow.com/questions/16135988
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/29286669
+Violation: IncorrectPrecondition, nextToken(0)@i < sentenceList.size() && j < count
+Answer Id --- http://stackoverflow.com/questions/36316966
+Violation: IncorrectPrecondition, nextToken(0)@i < array.length
+Answer Id --- http://stackoverflow.com/questions/25247611
+Violation: IncorrectPrecondition, nextToken(0)@true && !(n < 3)
+Answer Id --- http://stackoverflow.com/questions/19356088
+Violation: IncorrectPrecondition, nextToken(0)@i < RUNS
+Answer Id --- http://stackoverflow.com/questions/33354644
+Violation: IncorrectPrecondition, nextToken(0)@line != null && nextItem.countTokens() >= 2
+Answer Id --- http://stackoverflow.com/questions/38211799
+Violation: IncorrectPrecondition, nextToken(0)@st.countTokens() == 3
+Answer Id --- http://stackoverflow.com/questions/14305649
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/2173990
+Violation: IncorrectPrecondition, nextToken(0)@(line=reader.readLine()) != null
+Answer Id --- http://stackoverflow.com/questions/35235390
+Violation: IncorrectPrecondition, nextToken(0)@dictionaryMap.entrySet().size() > 0
+Answer Id --- http://stackoverflow.com/questions/30614710
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/15752832
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/10621764
+Violation: IncorrectPrecondition, nextToken(0)@j < count
+Answer Id --- http://stackoverflow.com/questions/4521740
+Violation: IncorrectPrecondition, nextToken(0)@els.size() > 0 && st.countTokens() > 1
+Answer Id --- http://stackoverflow.com/questions/32374131
+Violation: IncorrectPrecondition, nextToken(0)@i < length
+Answer Id --- http://stackoverflow.com/questions/9266223
+Violation: IncorrectPrecondition, nextToken(0)@(stringToBreak=infileCust.readLine()) != null
+Answer Id --- http://stackoverflow.com/questions/10524520
+Violation: IncorrectPrecondition, nextToken(0)@i < raw.length
+Answer Id --- http://stackoverflow.com/questions/11464009
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/25505196
+Violation: IncorrectPrecondition, nextToken(0)@i < myList.size() - 1
+Answer Id --- http://stackoverflow.com/questions/27745160
+Violation: IncorrectPrecondition, nextToken(0)@i < n
+Answer Id --- http://stackoverflow.com/questions/23038267
+Violation: IncorrectPrecondition, nextToken(0)@(line=in.readLine()) != null
+Answer Id --- http://stackoverflow.com/questions/21310279
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/10801755
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/32073955
+Violation: IncorrectPrecondition, nextToken(0)@(line=in.readLine()) != null
+Answer Id --- http://stackoverflow.com/questions/12030
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/32215777
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/4880613
+Violation: IncorrectPrecondition, nextToken(0)@scanner.hasNextLine()
+Answer Id --- http://stackoverflow.com/questions/5097054
+Violation: IncorrectPrecondition, nextToken(0)@(line=reader.readLine()) != null
+Answer Id --- http://stackoverflow.com/questions/29900087
+Violation: IncorrectPrecondition, nextToken(0)@(s=in.readLine()) != null && split1[0].equals("name")
+Answer Id --- http://stackoverflow.com/questions/31630405
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/20546848
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/17914168
+Violation: IncorrectPrecondition, nextToken(0)@(line=input.readLine()) != null
+Answer Id --- http://stackoverflow.com/questions/19837574
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/20391599
+Violation: IncorrectPrecondition, nextToken(0)@args.size() > 0
+Answer Id --- http://stackoverflow.com/questions/4943110
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/11675090
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/16184673
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/15223073
+Violation: IncorrectPrecondition, nextToken(0)@st.hasTokens && !(count == 1)
+Answer Id --- http://stackoverflow.com/questions/7705708
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/26701033
+Violation: IncorrectPrecondition, nextToken(0)@st.equals("") == false
+Answer Id --- http://stackoverflow.com/questions/17324733
+Violation: IncorrectPrecondition, nextToken(0)@i < millions.length && j < thousands.length && set.countTokens() == 1
+Answer Id --- http://stackoverflow.com/questions/10068987
+Violation: IncorrectPrecondition, nextToken(0)@str.hasMoreTokens
+Answer Id --- http://stackoverflow.com/questions/11944323
+Violation: IncorrectPrecondition, nextToken(0)@x > -1 && xxx < po
+Answer Id --- http://stackoverflow.com/questions/34897699
+Violation: IncorrectPrecondition, nextToken(0)@!(tokenzr.countTokens() != 2)
+Answer Id --- http://stackoverflow.com/questions/22598794
+Violation: IncorrectPrecondition, nextToken(0)@s.contains(":")
+Answer Id --- http://stackoverflow.com/questions/8548209
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/20221063
+Violation: IncorrectPrecondition, nextToken(0)@t.nextToken().equals(e)
+Answer Id --- http://stackoverflow.com/questions/19571141
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/16740382
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/16665829
+Violation: IncorrectPrecondition, nextToken(0)@list.size() > 0
+Answer Id --- http://stackoverflow.com/questions/22149348
+Violation: IncorrectPrecondition, nextToken(0)@els.size() > 0 && st.countTokens() > 1
+Answer Id --- http://stackoverflow.com/questions/36994224
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/35248788
+Violation: IncorrectPrecondition, nextToken(0)@scanner.hasNextLine()
+Answer Id --- http://stackoverflow.com/questions/17622442
+Violation: IncorrectPrecondition, nextToken(0)@i < 4
+Answer Id --- http://stackoverflow.com/questions/16641052
+Violation: IncorrectPrecondition, nextToken(0)@strTok.countTokens() == 2
+Answer Id --- http://stackoverflow.com/questions/39184774
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/23178651
+Violation: IncorrectPrecondition, nextToken(0)@(inLine=inputStream.readLine()) != null
+Answer Id --- http://stackoverflow.com/questions/9401542
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/29455583
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/2095636
+Violation: IncorrectPrecondition, nextToken(0)@i < commandList.size() && commandTokenizer.hasMoreTokens()
+Answer Id --- http://stackoverflow.com/questions/8228321
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/29657001
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/33978925
+Violation: IncorrectPrecondition, nextToken(0)@(line=br.readLine()) != null
+Answer Id --- http://stackoverflow.com/questions/12227168
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/29435252
+Violation: IncorrectPrecondition, nextToken(0)@(str=in.readLine()) != null
+Answer Id --- http://stackoverflow.com/questions/21148095
+Violation: IncorrectPrecondition, nextToken(0)@s.hasMoreTokens
+Answer Id --- http://stackoverflow.com/questions/22312566
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/38817881
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/22171429
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/17672917
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/19612897
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/22273324
+Violation: IncorrectPrecondition, nextToken(0)@i < keys.length
+Violation: IncorrectPrecondition, nextToken(0)@i < keys.length
+Answer Id --- http://stackoverflow.com/questions/16663217
+Violation: IncorrectPrecondition, nextToken(0)@b=st.hasMoreTokens()
+Answer Id --- http://stackoverflow.com/questions/17287255
+Violation: IncorrectPrecondition, nextToken(0)@iter.hasNext()
+Answer Id --- http://stackoverflow.com/questions/35566482
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/248179
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/29880916
+Violation: IncorrectPrecondition, nextToken(0)@(lastLine=in.readLine()) != null
+Answer Id --- http://stackoverflow.com/questions/16644538
+Violation: IncorrectPrecondition, nextToken(0)@(lineRead=br.readLine()) != null && lineRead.contains(problem)
+Answer Id --- http://stackoverflow.com/questions/30968338
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/20627087
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/12507700
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/26031247
+Violation: IncorrectPrecondition, nextToken(0)@true
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/36598806
+Violation: IncorrectPrecondition, nextToken(0)@i < tokenno - 2
+Answer Id --- http://stackoverflow.com/questions/12917186
+Violation: IncorrectPrecondition, nextToken(0)@!enteredString.isEmpty()
+Answer Id --- http://stackoverflow.com/questions/26698064
+Violation: IncorrectPrecondition, nextToken(0)@i < string.countTokens()
+Answer Id --- http://stackoverflow.com/questions/28210816
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/15983863
+Violation: IncorrectPrecondition, nextToken(0)@readFile.hasInputLine()
+Answer Id --- http://stackoverflow.com/questions/12355561
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/10417041
+Violation: IncorrectPrecondition, nextToken(0)@!(st.hasMoreTokens())
+Answer Id --- http://stackoverflow.com/questions/3091176
+Violation: IncorrectPrecondition, nextToken(0)@x < st.countTokens() - backs
+Answer Id --- http://stackoverflow.com/questions/3709103
+Violation: IncorrectPrecondition, nextToken(0)@i < tokenCount - 1
+Answer Id --- http://stackoverflow.com/questions/35058780
+Violation: IncorrectPrecondition, nextToken(0)@(s=br.readLine()) != null
+Answer Id --- http://stackoverflow.com/questions/18421887
+Violation: IncorrectPrecondition, nextToken(0)@(inputLine=in.readLine()) != null
+Answer Id --- http://stackoverflow.com/questions/10655777
+Violation: IncorrectPrecondition, nextToken(0)@(line=reader.readLine()) != null
+Answer Id --- http://stackoverflow.com/questions/15280636
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/36938601
+Violation: IncorrectPrecondition, nextToken(0)@i <= st.countTokens() + 1
+Answer Id --- http://stackoverflow.com/questions/35401553
+Violation: IncorrectPrecondition, nextToken(0)@itr.countTokens() == 2
+Answer Id --- http://stackoverflow.com/questions/30985767
+Violation: IncorrectPrecondition, nextToken(0)@(line=br.readLine()) != null
+Violation: IncorrectPrecondition, nextToken(0)@(line=br.readLine()) != null
+Answer Id --- http://stackoverflow.com/questions/19388665
+Violation: IncorrectPrecondition, nextToken(0)@i < n - 1
+Answer Id --- http://stackoverflow.com/questions/11460727
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/25154822
+Violation: IncorrectPrecondition, nextToken(0)@i < N
+Answer Id --- http://stackoverflow.com/questions/19836324
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/3732820
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/178339
+Violation: IncorrectPrecondition, nextToken(0)@i < 4
+Answer Id --- http://stackoverflow.com/questions/3089506
+Violation: IncorrectPrecondition, nextToken(0)@x < st.countTokens()
+Answer Id --- http://stackoverflow.com/questions/33179374
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/35532684
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/11874966
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/21636576
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/3174895
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/6703282
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/23044832
+Violation: IncorrectPrecondition, nextToken(0)@x < count
+Answer Id --- http://stackoverflow.com/questions/39084129
+Violation: IncorrectPrecondition, nextToken(0)@!STORAGES_ROOT.equals(File.separator) && (line=reader.readLine()) != null
+Answer Id --- http://stackoverflow.com/questions/28561300
+Violation: IncorrectPrecondition, nextToken(0)@rl.size() > 0
+Answer Id --- http://stackoverflow.com/questions/8228408
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/11001372
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/19471079
+Violation: IncorrectPrecondition, nextToken(0)@(input=Main.ReadLn(255)) != null
+Answer Id --- http://stackoverflow.com/questions/23474379
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/30746203
+Violation: IncorrectPrecondition, nextToken(0)@idx < len
+Answer Id --- http://stackoverflow.com/questions/22734334
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/16571535
+Violation: IncorrectPrecondition, nextToken(0)@null != (buffer=input.readLine())
+Answer Id --- http://stackoverflow.com/questions/30083273
+Violation: IncorrectPrecondition, nextToken(0)@db.getAllAnswersByQuestion1().size() > 0 && l.size() > 0
+Answer Id --- http://stackoverflow.com/questions/16126910
+Violation: IncorrectPrecondition, nextToken(0)@(newLine=f.readLine()) != null && st.hasNext()
+Answer Id --- http://stackoverflow.com/questions/11149934
+Violation: IncorrectPrecondition, nextToken(0)@(line=br.readLine()) != null && i < 8
+Answer Id --- http://stackoverflow.com/questions/12434638
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/12748356
+Violation: IncorrectPrecondition, nextToken(0)@sc.hasNextLine()
+Answer Id --- http://stackoverflow.com/questions/1618175
+Violation: IncorrectPrecondition, nextToken(0)@(input=br.readLine()) != null
+Answer Id --- http://stackoverflow.com/questions/12550777
+Violation: IncorrectPrecondition, nextToken(0)@true
+Answer Id --- http://stackoverflow.com/questions/18159602
+Violation: IncorrectPrecondition, nextToken(0)@true
+Missing Control-flow Structure: 0
+Disorder Control-flow Structure: 0
+Missing API Call: 0
+Disorder API Call: 0
+Incorrect Predicates: 194
+Total number of recognized snippets: 407
+Average score: 3.324324324324324
+Unreliable recognized snippets: 113
+Total number of unrecognized snippets: 322
+Unreliable unrecognized snippets: 81
+

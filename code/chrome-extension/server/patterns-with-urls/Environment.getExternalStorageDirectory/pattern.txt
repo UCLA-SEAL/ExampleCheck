@@ -1,0 +1,3 @@
+Total Count:7587
+1:[getExternalStorageDirectory()@true, new File(File,String)@true]:2187
+2:[TRY, getExternalStorageDirectory()@true, END_BLOCK, CATCH(Exception), END_BLOCK]:2352

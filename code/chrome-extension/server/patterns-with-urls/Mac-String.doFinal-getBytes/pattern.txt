@@ -1,0 +1,4 @@
+Total Count:2389
+1:[TRY, getInstance(String)@true, getBytes()@true, doFinal(byte[])@true, END_BLOCK, CATCH(Exception), END_BLOCK]:473
+2:[getInstance(String)@true, getBytes()@true, doFinal(byte[])@true]:463
+3:[TRY, getBytes()@true, doFinal(byte[])@true, END_BLOCK, CATCH(Exception), END_BLOCK]:502

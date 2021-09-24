@@ -1,0 +1,2 @@
+Total Count:4748
+1:[new Scanner(String)@true, nextInt()@true]:3212

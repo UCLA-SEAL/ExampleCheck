@@ -1,0 +1,4 @@
+Mining time (millis) : 442037
+[get(1)@arg0<rcv.size()]:(1.0,0.31)
+[LOOP, get(1)@arg0<rcv.size(), END_BLOCK]:(0.57,0.54)
+

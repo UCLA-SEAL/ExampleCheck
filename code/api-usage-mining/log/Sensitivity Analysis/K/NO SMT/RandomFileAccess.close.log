@@ -1,0 +1,7 @@
+Mining time (millis) : 7978
+[TRY, close(0)@true, END_BLOCK]:(0.56,1.0)
+[new RandomAccessFile(2)@true, close(0)@true]:(0.58,0.81)
+[seek(1)@true, close(0)@true]:(0.33,0.89)
+[TRY, new RandomAccessFile(2)@true, close(0)@true, END_BLOCK]:(0.25,1.0)
+[FINALLY, close(0)@rcv!=null, END_BLOCK]:(0.22,0.64)
+

@@ -1,0 +1,2 @@
+Total Count:89776
+1:[findViewById(int)@true, setText(String)@true]:35444

@@ -1,0 +1,5 @@
+Total Count:49614
+1:[TRY, new BufferedReader(InputStreamReader)@true, readLine()@true, END_BLOCK, CATCH(Exception), END_BLOCK]:31257
+2:[new BufferedReader(InputStreamReader)@true, readLine()@true]:31579
+3:[TRY, readLine()@true, END_BLOCK, CATCH(Exception), END_BLOCK]:46171
+4:[TRY, readLine()@true, END_BLOCK, CATCH(IOException), END_BLOCK]:27784
